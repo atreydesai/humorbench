@@ -5,18 +5,17 @@ build-backend = "hatchling.build"
 [project]
 name = "humorbench"
 version = "0.1.0"
-description = "A modern Python project with best practices"
+description = ""
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Atrey Desai, email = "adesai10@umd.edu"},
 ]
 keywords = ["python", "humor", "benchmark"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
@@ -36,11 +35,6 @@ dev = [
     "pytest-cov>=4.0.0",
     "commitizen>=3.24.0",
     "pre-commit>=3.6.0",
-]
-docs = [
-    "mkdocs>=1.5.0",
-    "mkdocs-material>=9.5.0",
-    "mkdocstrings>=0.24.0",
 ]
 test = [
     "pytest>=8.0.0",

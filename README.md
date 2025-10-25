@@ -1,23 +1,8 @@
-# 🧩 HumorBench
+# HumorBench
 
-A modern Python project demonstrating best practices for code quality, testing, documentation, and CI/CD.
+[FILL IN DESCRIPTION HERE]
 
-[![CI](https://github.com/USERNAME/humorbench/workflows/CI/badge.svg)](https://github.com/USERNAME/humorbench/actions)
-[![codecov](https://codecov.io/gh/USERNAME/humorbench/branch/main/graph/badge.svg)](https://codecov.io/gh/USERNAME/humorbench)
-[![PyPI version](https://badge.fury.io/py/humorbench.svg)](https://badge.fury.io/py/humorbench)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-
-## ✨ Features
-
-- 🧪 **Comprehensive Testing**: Full test coverage with pytest
-- 🎯 **Type Safety**: Complete type hints and mypy static analysis
-- 🧹 **Code Quality**: Automated formatting (Black) and linting (Ruff)
-- 📚 **Documentation**: Beautiful docs with MkDocs Material
-- 🔄 **CI/CD**: Automated testing and deployment with GitHub Actions
-- 📦 **Modern Packaging**: Fast dependency management with uv
-- 🚀 **Conventional Commits**: Automated versioning with Commitizen
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -45,23 +30,7 @@ uv run ruff check .
 uv run mypy src/
 ```
 
-### Usage
-
-```bash
-# Command-line interface
-uv run humorbench --help
-
-# Add a joke
-uv run humorbench --joke "Why did the chicken cross the road?"
-
-# Calculate humor score
-uv run humorbench --score "Why did the chicken cross the road? To get to the other side!"
-
-# Get joke count
-uv run humorbench --count
-```
-
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 humorbench/
@@ -83,7 +52,7 @@ humorbench/
 └── README.md
 ```
 
-## 🧪 Development
+## Development
 
 ### Running Tests
 
@@ -123,45 +92,3 @@ uv run mkdocs serve
 # Build docs
 uv run mkdocs build
 ```
-
-## 📋 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](docs/contributing.md) for details.
-
-### Development Workflow
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Make your changes
-4. Run tests: `uv run pytest`
-5. Format code: `uv run black .`
-6. Lint code: `uv run ruff check .`
-7. Type check: `uv run mypy src/`
-8. Commit with conventional commits: `git commit -m "feat: add amazing feature"`
-9. Push to your fork: `git push origin feature/amazing-feature`
-10. Open a Pull Request
-
-## 🛠️ Tools & Technologies
-
-- **[uv](https://docs.astral.sh/uv/)**: Fast Python package manager
-- **[pytest](https://pytest.org/)**: Testing framework
-- **[Black](https://black.readthedocs.io/)**: Code formatter
-- **[Ruff](https://docs.astral.sh/ruff/)**: Fast Python linter
-- **[mypy](https://mypy.readthedocs.io/)**: Static type checker
-- **[MkDocs](https://www.mkdocs.org/)**: Documentation generator
-- **[Commitizen](https://commitizen-tools.github.io/commitizen/)**: Conventional commits
-- **[GitHub Actions](https://github.com/features/actions)**: CI/CD
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by modern Python best practices
-- Built with ❤️ using open-source tools
-- Thanks to all contributors!
-
----
-
-**Happy coding!** 🎉
