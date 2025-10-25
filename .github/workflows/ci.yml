@@ -27,7 +27,9 @@ jobs:
           version: "latest"
 
       - name: Install dependencies
-        run: uv sync --dev
+        run: |
+          uv sync
+          uv pip install ".[dev]"
 
       - name: Lint with ruff
         run: uv run ruff check .
