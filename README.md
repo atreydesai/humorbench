@@ -19,76 +19,27 @@ cd humorbench
 # Install dependencies
 uv sync
 
-# Run tests
-uv run pytest
 
 # Format and lint code
-uv run black .
 uv run ruff check .
 
-# Type check
-uv run mypy src/
 ```
 
-## Project Structure
-
 ```
-humorbench/
-├── src/humorbench/       # Main package code
-│   ├── __init__.py
-│   ├── core.py          # Core functionality
-│   └── cli.py           # Command-line interface
-├── tests/               # Unit and integration tests
-│   ├── test_core.py
-│   └── test_cli.py
-├── docs/                # Documentation
-│   ├── index.md
-│   ├── api.md
-│   └── contributing.md
-├── .github/workflows/   # CI/CD pipelines
-├── pyproject.toml       # Project configuration
-├── .pre-commit-config.yaml
-├── mkdocs.yml          # Documentation config
-└── README.md
-```
+python -m humorbench.vllm_inference --prompt-file demo_prompt.txt
 
-## Development
+python -m humorbench.vllm_inference \
+    --prompt-file demo_prompt.txt \
+    --model "Qwen/Qwen2.5-7B-Instruct" \
+    --max-tokens 1024 \
+    --temperature 0.8 \
+    --batch-size 8
 
-### Running Tests
+python -m humorbench.vllm_inference \
+    --prompt-file demo_prompt.txt \
+    --output results.txt
 
-```bash
-# Run all tests
-uv run pytest
-
-# Run with coverage
-uv run pytest --cov=humorbench --cov-report=term-missing
-
-# Run specific test file
-uv run pytest tests/test_core.py
-```
-
-### Code Quality
-
-```bash
-# Format code
-uv run black .
-
-# Lint code
-uv run ruff check .
-
-# Type check
-uv run mypy src/
-
-# Install pre-commit hooks
-uv run pre-commit install
-```
-
-### Documentation
-
-```bash
-# Serve docs locally
-uv run mkdocs serve
-
-# Build docs
-uv run mkdocs build
+python -m humorbench.vllm_inference \
+    --prompt-file demo_prompt.txt \
+    --model "meta-llama/Llama-3.1-8B-Instruct"
 ```
