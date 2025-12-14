@@ -6,7 +6,7 @@ import sys
 from typing import List
 
 # Set HuggingFace cache directory
-HF_HOME = "/fs/clip-scratch/atrey/huggingface"
+HF_HOME = "/fs/nexus-scratch/ldu0040/humorbench"
 os.environ["HF_HOME"] = HF_HOME
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(HF_HOME, "hub")
 
@@ -54,6 +54,7 @@ def run_inference(
         temperature=temperature,
         top_p=top_p,
         max_tokens=max_tokens,
+        stop=["### END"]
     )
 
     print(f"Running inference on {len(prompts)} prompts with batch size {batch_size}...")
@@ -148,8 +149,7 @@ def main() -> None:
         with open(args.output, "w", encoding="utf-8") as f:
             for i, (prompt, response) in enumerate(zip(prompts, responses), 1):
                 f.write(f"=== Prompt {i} ===\n")
-                f.write(f"Input: {prompt}\n")
-                f.write(f"Output: {response}\n\n")
+                f.write(f"{response}\n\n")
         print(f"\nResults saved to: {args.output}")
 
 
