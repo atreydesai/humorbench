@@ -47,7 +47,7 @@ def run_inference(
     llm = LLM(
         model=model_name,
         trust_remote_code=True,
-        max_model_len=4096,
+        max_model_len=20000,
     )
 
     sampling_params = SamplingParams(
@@ -136,14 +136,14 @@ def main() -> None:
         batch_size=args.batch_size,
     )
 
-    print("\n" + "=" * 80)
-    print("INFERENCE RESULTS")
-    print("=" * 80)
-    for i, (prompt, response) in enumerate(zip(prompts, responses), 1):
-        print(f"\n--- Prompt {i} ---")
-        print(f"Input: {prompt}")
-        print(f"Output: {response}")
-        print("-" * 80)
+    # print("\n" + "=" * 80)
+    # print("INFERENCE RESULTS")
+    # print("=" * 80)
+    # for i, (prompt, response) in enumerate(zip(prompts, responses), 1):
+    #     print(f"\n--- Prompt {i} ---")
+    #     print(f"Input: {prompt}")
+    #     print(f"Output: {response}")
+    #     print("-" * 80)
 
     if args.output:
         with open(args.output, "w", encoding="utf-8") as f:

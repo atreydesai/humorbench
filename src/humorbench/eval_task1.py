@@ -101,12 +101,12 @@ def eval_pass_at_k(completions, ground_truths, k):
     return num_correct, total, confusion_matrix
 
 def main():
-    completions = extract_answers("out copy.txt")
+    completions = extract_answers("/nfshomes/ldu0040/humorbench/src/humorbench/en_task1_qwen3-8b_run1.txt")
     out1 = insert_answers([], completions)
-    dataset = pd.read_csv('../../datasets/labeled/a-e labels.tsv', sep='\t')
-    task1 = dataset[['Joke', 'Task1 Label']].copy()
+    dataset = pd.read_csv('../../datasets/labeled/en_task1&2.tsv', sep='\t')
+    task1 = dataset[['Joke', 'Task1 Label']].copy().dropna()
     labels = task1['Task1 Label'].tolist()[:len(completions)]
-    num_correct, total, cm = eval_pass_at_k(out1, [labels[1], labels[0]], 2)
+    num_correct, total, cm = eval_pass_at_k(out1, labels, 1)
     print(num_correct, total)
     cm_df = pd.DataFrame.from_dict(cm, orient="index")
 
@@ -118,8 +118,8 @@ def main():
         annot=True,
         fmt="d",
         cmap="Blues",
-        xticklabels=labels,
-        yticklabels=labels
+        xticklabels=ls,
+        yticklabels=ls
     )
 
     plt.xlabel("Predicted label")
