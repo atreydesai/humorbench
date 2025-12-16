@@ -1,0 +1,716 @@
+{
+  "audio_file": "video16.wav",
+  "full_text": " La siguiente canción es sobre un perro, ¿entendido? Yo tengo un perro que es un cabrón, porque no viene, porque está muerto. No he superado la muerte del perro, dicen que estoy mal, porque cada tarde bajo al parque a pasear a una maleta con ruedasas con el cadáver del perro. No puedo conciliar el sueño. No quiero comer solo como perritos cuando pienso en él. Porque el perrito es el mejor amigo del hambre. Porque nunca vienes, antes tampoco venías, tenía un perro pero murió, dice la autopsia que no sufrió porque era de peluche. CC por Antarctica Films Argentina",
+  "chunks": [
+    {
+      "text": " La",
+      "timestamp": [
+        0.62,
+        1.6
+      ]
+    },
+    {
+      "text": " siguiente",
+      "timestamp": [
+        1.6,
+        1.8
+      ]
+    },
+    {
+      "text": " canción",
+      "timestamp": [
+        1.8,
+        2.04
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        2.04,
+        2.18
+      ]
+    },
+    {
+      "text": " sobre",
+      "timestamp": [
+        2.18,
+        2.3
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        2.3,
+        2.42
+      ]
+    },
+    {
+      "text": " perro,",
+      "timestamp": [
+        2.42,
+        2.88
+      ]
+    },
+    {
+      "text": " ¿entendido?",
+      "timestamp": [
+        2.88,
+        3.78
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        3.78,
+        7.4
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        7.4,
+        7.68
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        7.68,
+        7.88
+      ]
+    },
+    {
+      "text": " perro",
+      "timestamp": [
+        7.88,
+        8.42
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        8.42,
+        8.72
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        8.72,
+        8.82
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        8.82,
+        8.96
+      ]
+    },
+    {
+      "text": " cabrón,",
+      "timestamp": [
+        8.96,
+        9.76
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        9.76,
+        10.08
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        10.08,
+        10.32
+      ]
+    },
+    {
+      "text": " viene,",
+      "timestamp": [
+        10.32,
+        11.14
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        11.14,
+        11.82
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        11.82,
+        12.06
+      ]
+    },
+    {
+      "text": " muerto.",
+      "timestamp": [
+        12.06,
+        13.2
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        13.2,
+        14.58
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        14.58,
+        14.7
+      ]
+    },
+    {
+      "text": " superado",
+      "timestamp": [
+        14.7,
+        15.4
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        15.4,
+        15.66
+      ]
+    },
+    {
+      "text": " muerte",
+      "timestamp": [
+        15.66,
+        15.92
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        15.92,
+        16.18
+      ]
+    },
+    {
+      "text": " perro,",
+      "timestamp": [
+        16.18,
+        16.82
+      ]
+    },
+    {
+      "text": " dicen",
+      "timestamp": [
+        16.82,
+        17.08
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        17.08,
+        17.4
+      ]
+    },
+    {
+      "text": " estoy",
+      "timestamp": [
+        17.4,
+        17.66
+      ]
+    },
+    {
+      "text": " mal,",
+      "timestamp": [
+        17.66,
+        18.46
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        18.46,
+        19.18
+      ]
+    },
+    {
+      "text": " cada",
+      "timestamp": [
+        19.18,
+        19.7
+      ]
+    },
+    {
+      "text": " tarde",
+      "timestamp": [
+        19.7,
+        20.12
+      ]
+    },
+    {
+      "text": " bajo",
+      "timestamp": [
+        20.12,
+        20.78
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        20.78,
+        20.98
+      ]
+    },
+    {
+      "text": " parque",
+      "timestamp": [
+        20.98,
+        21.34
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        21.34,
+        21.44
+      ]
+    },
+    {
+      "text": " pasear",
+      "timestamp": [
+        21.44,
+        22.36
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        22.36,
+        22.54
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        22.54,
+        22.76
+      ]
+    },
+    {
+      "text": " maleta",
+      "timestamp": [
+        22.76,
+        23.28
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        23.28,
+        23.58
+      ]
+    },
+    {
+      "text": " ruedasas",
+      "timestamp": [
+        23.58,
+        24.76
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        24.76,
+        25.64
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        25.64,
+        25.84
+      ]
+    },
+    {
+      "text": " cadáver",
+      "timestamp": [
+        25.84,
+        26.24
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        26.24,
+        26.38
+      ]
+    },
+    {
+      "text": " perro.",
+      "timestamp": [
+        26.38,
+        27.76
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        27.76,
+        28.42
+      ]
+    },
+    {
+      "text": " puedo",
+      "timestamp": [
+        28.42,
+        28.76
+      ]
+    },
+    {
+      "text": " conciliar",
+      "timestamp": [
+        28.76,
+        35.1
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        35.1,
+        35.44
+      ]
+    },
+    {
+      "text": " sueño.",
+      "timestamp": [
+        35.44,
+        35.96
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        35.96,
+        36.38
+      ]
+    },
+    {
+      "text": " quiero",
+      "timestamp": [
+        36.38,
+        36.62
+      ]
+    },
+    {
+      "text": " comer",
+      "timestamp": [
+        36.62,
+        37.16
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        37.16,
+        38.3
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        38.3,
+        38.86
+      ]
+    },
+    {
+      "text": " perritos",
+      "timestamp": [
+        38.86,
+        39.5
+      ]
+    },
+    {
+      "text": " cuando",
+      "timestamp": [
+        39.5,
+        40.68
+      ]
+    },
+    {
+      "text": " pienso",
+      "timestamp": [
+        40.68,
+        41.3
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        41.3,
+        41.44
+      ]
+    },
+    {
+      "text": " él.",
+      "timestamp": [
+        41.44,
+        41.88
+      ]
+    },
+    {
+      "text": " Porque",
+      "timestamp": [
+        41.88,
+        42.16
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        42.16,
+        42.34
+      ]
+    },
+    {
+      "text": " perrito",
+      "timestamp": [
+        42.34,
+        42.96
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        42.96,
+        43.34
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        43.34,
+        43.82
+      ]
+    },
+    {
+      "text": " mejor",
+      "timestamp": [
+        43.82,
+        45.26
+      ]
+    },
+    {
+      "text": " amigo",
+      "timestamp": [
+        45.26,
+        45.62
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        45.62,
+        45.94
+      ]
+    },
+    {
+      "text": " hambre.",
+      "timestamp": [
+        45.94,
+        47.52
+      ]
+    },
+    {
+      "text": " Porque",
+      "timestamp": [
+        47.52,
+        51.96
+      ]
+    },
+    {
+      "text": " nunca",
+      "timestamp": [
+        51.96,
+        56.42
+      ]
+    },
+    {
+      "text": " vienes,",
+      "timestamp": [
+        56.42,
+        57.64
+      ]
+    },
+    {
+      "text": " antes",
+      "timestamp": [
+        57.64,
+        58.74
+      ]
+    },
+    {
+      "text": " tampoco",
+      "timestamp": [
+        58.74,
+        59.0
+      ]
+    },
+    {
+      "text": " venías,",
+      "timestamp": [
+        59.0,
+        59.86
+      ]
+    },
+    {
+      "text": " tenía",
+      "timestamp": [
+        59.86,
+        61.48
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        61.48,
+        61.82
+      ]
+    },
+    {
+      "text": " perro",
+      "timestamp": [
+        61.82,
+        62.3
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        62.3,
+        62.64
+      ]
+    },
+    {
+      "text": " murió,",
+      "timestamp": [
+        62.64,
+        63.34
+      ]
+    },
+    {
+      "text": " dice",
+      "timestamp": [
+        63.34,
+        63.84
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        63.84,
+        64.08
+      ]
+    },
+    {
+      "text": " autopsia",
+      "timestamp": [
+        64.08,
+        89.98
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " sufrió",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " era",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        89.98,
+        89.98
+      ]
+    },
+    {
+      "text": " peluche.",
+      "timestamp": [
+        89.98,
+        null
+      ]
+    },
+    {
+      "text": " CC",
+      "timestamp": [
+        90.56,
+        90.56
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        90.56,
+        90.56
+      ]
+    },
+    {
+      "text": " Antarctica",
+      "timestamp": [
+        90.56,
+        90.56
+      ]
+    },
+    {
+      "text": " Films",
+      "timestamp": [
+        90.56,
+        90.56
+      ]
+    },
+    {
+      "text": " Argentina",
+      "timestamp": [
+        90.56,
+        null
+      ]
+    }
+  ],
+  "processing_time": 27.604113340377808,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

@@ -1,0 +1,2431 @@
+{
+  "audio_file": "video38.wav",
+  "full_text": " Otra cosa por la que vengo a quejarme, Letizia Sabater. ¿Viste la noticia esa de Letizia Sabater? Lo del... Lo del toto. Para el que no lo sepa, Letizia Sabater se gastó 6.000 euros para operarse el toto y volver a ser virgen, ¿vale? 6.000 euros para un uso. Que yo me lo imagino, todos lo imaginamos, llegando ahí a la consulta al cirujano, al doctor, a plantearle el tema y decirle, hola, buenas, doctor, venía porque quería que usted me operase, Me imagino que el doctor le dijo, ah, muy bien, tenemos un láser que te va a dejar los ojos perfectos. Y ella, ¿qué pasa con mis ojos, doctor? Creo que ella no lo sabe, lo de los ojos, ¿sabes? Me la imagino ahí, ¿qué pasa con mis ojos, doctor? Y el doctor allí, ¿qué pasa con mis ojos? Y el doctor allí, ¿eh? Otra cosa por la que vengo a quejarme, los patinetes, estos que se han puesto de moda, ¿sabéis lo que os digo? Estos que solo tienes que hacer así como... Que no tienes que andar ni nada. ¿Esto para qué coño es? Porque, o sea, no haces deporte, ya tenemos niños gordos, ¿para qué sacamos esta mierda? O sea, además se llama hoverboard o algo así, es un invento americano o algo así. Si lo traduces al castellano, literalmente significa gilipatinete, ¿vale? Los odio estos patinetes, además yo me pregunto qué pensará una persona que va en silla de ruedas que no puede andar cuando ve pasar por delante de él un chaval con eso. Le tiene que dar una rabia de la hostia, en plan, oye chaval, yo no puedo andar, cabrón, yo me gustaría andar, ¿qué haces con esa mierda? Que además me da mucha rabia que a esta gente que no puede andar o lo que sea, que le llamemos minusválidos o discapacitados. Esta gente en todo caso son válidos o capacitados porque han tenido un problema y lo han superado. ¿Alguien quiere llamar minusválido o discapacitado? Es al del patinete, no me jodas. Aplausos.",
+  "chunks": [
+    {
+      "text": " Otra",
+      "timestamp": [
+        0.0,
+        1.72
+      ]
+    },
+    {
+      "text": " cosa",
+      "timestamp": [
+        1.72,
+        1.92
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        1.92,
+        2.06
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        2.06,
+        2.16
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        2.16,
+        2.26
+      ]
+    },
+    {
+      "text": " vengo",
+      "timestamp": [
+        2.26,
+        2.38
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.38,
+        2.5
+      ]
+    },
+    {
+      "text": " quejarme,",
+      "timestamp": [
+        2.5,
+        2.88
+      ]
+    },
+    {
+      "text": " Letizia",
+      "timestamp": [
+        2.88,
+        3.44
+      ]
+    },
+    {
+      "text": " Sabater.",
+      "timestamp": [
+        3.44,
+        4.16
+      ]
+    },
+    {
+      "text": " ¿Viste",
+      "timestamp": [
+        6.1,
+        7.54
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        7.54,
+        7.68
+      ]
+    },
+    {
+      "text": " noticia",
+      "timestamp": [
+        7.68,
+        8.04
+      ]
+    },
+    {
+      "text": " esa",
+      "timestamp": [
+        8.04,
+        8.18
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        8.18,
+        8.38
+      ]
+    },
+    {
+      "text": " Letizia",
+      "timestamp": [
+        8.38,
+        9.32
+      ]
+    },
+    {
+      "text": " Sabater?",
+      "timestamp": [
+        9.32,
+        9.76
+      ]
+    },
+    {
+      "text": " Lo",
+      "timestamp": [
+        9.94,
+        9.96
+      ]
+    },
+    {
+      "text": " del...",
+      "timestamp": [
+        9.96,
+        10.36
+      ]
+    },
+    {
+      "text": " Lo",
+      "timestamp": [
+        10.78,
+        11.9
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        11.9,
+        12.02
+      ]
+    },
+    {
+      "text": " toto.",
+      "timestamp": [
+        12.02,
+        12.66
+      ]
+    },
+    {
+      "text": " Para",
+      "timestamp": [
+        13.38,
+        13.68
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        13.68,
+        13.78
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        13.78,
+        13.82
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        13.82,
+        13.9
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        13.9,
+        13.96
+      ]
+    },
+    {
+      "text": " sepa,",
+      "timestamp": [
+        13.96,
+        14.2
+      ]
+    },
+    {
+      "text": " Letizia",
+      "timestamp": [
+        14.2,
+        14.48
+      ]
+    },
+    {
+      "text": " Sabater",
+      "timestamp": [
+        14.48,
+        14.76
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        14.76,
+        15.28
+      ]
+    },
+    {
+      "text": " gastó",
+      "timestamp": [
+        15.28,
+        15.72
+      ]
+    },
+    {
+      "text": " 6",
+      "timestamp": [
+        15.72,
+        16.2
+      ]
+    },
+    {
+      "text": ".000",
+      "timestamp": [
+        16.2,
+        16.38
+      ]
+    },
+    {
+      "text": " euros",
+      "timestamp": [
+        16.38,
+        16.5
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        16.66,
+        16.74
+      ]
+    },
+    {
+      "text": " operarse",
+      "timestamp": [
+        16.74,
+        17.12
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        17.12,
+        17.5
+      ]
+    },
+    {
+      "text": " toto",
+      "timestamp": [
+        17.5,
+        17.72
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        17.72,
+        17.82
+      ]
+    },
+    {
+      "text": " volver",
+      "timestamp": [
+        17.82,
+        17.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        17.98,
+        18.12
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        18.12,
+        18.22
+      ]
+    },
+    {
+      "text": " virgen,",
+      "timestamp": [
+        18.22,
+        18.56
+      ]
+    },
+    {
+      "text": " ¿vale?",
+      "timestamp": [
+        18.56,
+        18.84
+      ]
+    },
+    {
+      "text": " 6",
+      "timestamp": [
+        19.2,
+        19.32
+      ]
+    },
+    {
+      "text": ".000",
+      "timestamp": [
+        19.32,
+        19.54
+      ]
+    },
+    {
+      "text": " euros",
+      "timestamp": [
+        19.54,
+        19.74
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        19.74,
+        20.24
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        20.24,
+        20.38
+      ]
+    },
+    {
+      "text": " uso.",
+      "timestamp": [
+        20.38,
+        20.76
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        22.2,
+        22.76
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        22.76,
+        22.84
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        22.84,
+        22.96
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        22.96,
+        23.0
+      ]
+    },
+    {
+      "text": " imagino,",
+      "timestamp": [
+        23.0,
+        23.3
+      ]
+    },
+    {
+      "text": " todos",
+      "timestamp": [
+        23.3,
+        23.46
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        23.46,
+        23.56
+      ]
+    },
+    {
+      "text": " imaginamos,",
+      "timestamp": [
+        23.56,
+        24.0
+      ]
+    },
+    {
+      "text": " llegando",
+      "timestamp": [
+        24.06,
+        24.26
+      ]
+    },
+    {
+      "text": " ahí",
+      "timestamp": [
+        24.26,
+        24.36
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        24.36,
+        24.44
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        24.44,
+        24.5
+      ]
+    },
+    {
+      "text": " consulta",
+      "timestamp": [
+        24.5,
+        24.98
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        24.98,
+        25.02
+      ]
+    },
+    {
+      "text": " cirujano,",
+      "timestamp": [
+        25.02,
+        25.38
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        25.38,
+        25.46
+      ]
+    },
+    {
+      "text": " doctor,",
+      "timestamp": [
+        25.46,
+        25.74
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        25.82,
+        25.84
+      ]
+    },
+    {
+      "text": " plantearle",
+      "timestamp": [
+        25.84,
+        26.14
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        26.14,
+        26.26
+      ]
+    },
+    {
+      "text": " tema",
+      "timestamp": [
+        26.26,
+        26.42
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        26.42,
+        26.56
+      ]
+    },
+    {
+      "text": " decirle,",
+      "timestamp": [
+        26.56,
+        26.86
+      ]
+    },
+    {
+      "text": " hola,",
+      "timestamp": [
+        26.94,
+        27.0
+      ]
+    },
+    {
+      "text": " buenas,",
+      "timestamp": [
+        27.0,
+        27.18
+      ]
+    },
+    {
+      "text": " doctor,",
+      "timestamp": [
+        27.18,
+        27.58
+      ]
+    },
+    {
+      "text": " venía",
+      "timestamp": [
+        27.58,
+        28.06
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        28.06,
+        28.24
+      ]
+    },
+    {
+      "text": " quería",
+      "timestamp": [
+        28.24,
+        28.82
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        28.82,
+        29.1
+      ]
+    },
+    {
+      "text": " usted",
+      "timestamp": [
+        29.1,
+        29.26
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        29.26,
+        29.36
+      ]
+    },
+    {
+      "text": " operase,",
+      "timestamp": [
+        29.36,
+        29.78
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        29.78,
+        29.94
+      ]
+    },
+    {
+      "text": " imagino",
+      "timestamp": [
+        29.94,
+        30.2
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        30.2,
+        30.3
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        30.3,
+        30.34
+      ]
+    },
+    {
+      "text": " doctor",
+      "timestamp": [
+        30.34,
+        30.46
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        30.46,
+        30.64
+      ]
+    },
+    {
+      "text": " dijo,",
+      "timestamp": [
+        30.64,
+        31.08
+      ]
+    },
+    {
+      "text": " ah,",
+      "timestamp": [
+        31.08,
+        31.58
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        31.58,
+        31.68
+      ]
+    },
+    {
+      "text": " bien,",
+      "timestamp": [
+        31.68,
+        31.92
+      ]
+    },
+    {
+      "text": " tenemos",
+      "timestamp": [
+        31.92,
+        32.06
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        32.06,
+        32.28
+      ]
+    },
+    {
+      "text": " láser",
+      "timestamp": [
+        32.28,
+        33.28
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        33.28,
+        33.38
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        33.38,
+        33.5
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        33.5,
+        33.58
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        33.58,
+        33.58
+      ]
+    },
+    {
+      "text": " dejar",
+      "timestamp": [
+        33.58,
+        33.72
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        33.72,
+        33.82
+      ]
+    },
+    {
+      "text": " ojos",
+      "timestamp": [
+        33.82,
+        34.04
+      ]
+    },
+    {
+      "text": " perfectos.",
+      "timestamp": [
+        34.04,
+        34.72
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        39.88,
+        44.26
+      ]
+    },
+    {
+      "text": " ella,",
+      "timestamp": [
+        44.26,
+        44.44
+      ]
+    },
+    {
+      "text": " ¿qué",
+      "timestamp": [
+        44.44,
+        44.52
+      ]
+    },
+    {
+      "text": " pasa",
+      "timestamp": [
+        44.52,
+        44.64
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        44.64,
+        44.78
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        44.78,
+        44.86
+      ]
+    },
+    {
+      "text": " ojos,",
+      "timestamp": [
+        44.86,
+        45.08
+      ]
+    },
+    {
+      "text": " doctor?",
+      "timestamp": [
+        45.08,
+        45.44
+      ]
+    },
+    {
+      "text": " Creo",
+      "timestamp": [
+        45.78,
+        46.8
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        46.8,
+        46.9
+      ]
+    },
+    {
+      "text": " ella",
+      "timestamp": [
+        46.9,
+        46.98
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        46.98,
+        47.12
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        47.12,
+        47.18
+      ]
+    },
+    {
+      "text": " sabe,",
+      "timestamp": [
+        47.18,
+        47.46
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        47.46,
+        47.56
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        47.56,
+        47.64
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        47.64,
+        47.68
+      ]
+    },
+    {
+      "text": " ojos,",
+      "timestamp": [
+        47.68,
+        48.02
+      ]
+    },
+    {
+      "text": " ¿sabes?",
+      "timestamp": [
+        48.02,
+        48.32
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        49.02,
+        49.12
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        49.12,
+        49.22
+      ]
+    },
+    {
+      "text": " imagino",
+      "timestamp": [
+        49.22,
+        49.5
+      ]
+    },
+    {
+      "text": " ahí,",
+      "timestamp": [
+        49.5,
+        49.62
+      ]
+    },
+    {
+      "text": " ¿qué",
+      "timestamp": [
+        49.62,
+        49.68
+      ]
+    },
+    {
+      "text": " pasa",
+      "timestamp": [
+        49.68,
+        49.8
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        49.8,
+        49.92
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        49.92,
+        50.02
+      ]
+    },
+    {
+      "text": " ojos,",
+      "timestamp": [
+        50.02,
+        50.2
+      ]
+    },
+    {
+      "text": " doctor?",
+      "timestamp": [
+        50.2,
+        50.42
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        50.52,
+        50.54
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        50.54,
+        50.62
+      ]
+    },
+    {
+      "text": " doctor",
+      "timestamp": [
+        50.62,
+        50.82
+      ]
+    },
+    {
+      "text": " allí,",
+      "timestamp": [
+        50.82,
+        51.06
+      ]
+    },
+    {
+      "text": " ¿qué",
+      "timestamp": [
+        51.06,
+        51.16
+      ]
+    },
+    {
+      "text": " pasa",
+      "timestamp": [
+        51.16,
+        51.3
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        51.3,
+        51.44
+      ]
+    },
+    {
+      "text": " mis",
+      "timestamp": [
+        51.44,
+        51.52
+      ]
+    },
+    {
+      "text": " ojos?",
+      "timestamp": [
+        51.52,
+        52.02
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        53.1,
+        53.28
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        53.28,
+        53.38
+      ]
+    },
+    {
+      "text": " doctor",
+      "timestamp": [
+        53.38,
+        53.54
+      ]
+    },
+    {
+      "text": " allí,",
+      "timestamp": [
+        53.54,
+        53.8
+      ]
+    },
+    {
+      "text": " ¿eh?",
+      "timestamp": [
+        53.8,
+        53.92
+      ]
+    },
+    {
+      "text": " Otra",
+      "timestamp": [
+        59.78,
+        60.98
+      ]
+    },
+    {
+      "text": " cosa",
+      "timestamp": [
+        60.98,
+        61.18
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        61.18,
+        61.28
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        61.28,
+        61.38
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        61.38,
+        61.46
+      ]
+    },
+    {
+      "text": " vengo",
+      "timestamp": [
+        61.46,
+        61.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        61.6,
+        61.7
+      ]
+    },
+    {
+      "text": " quejarme,",
+      "timestamp": [
+        61.7,
+        62.08
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        62.08,
+        62.28
+      ]
+    },
+    {
+      "text": " patinetes,",
+      "timestamp": [
+        62.28,
+        62.92
+      ]
+    },
+    {
+      "text": " estos",
+      "timestamp": [
+        62.92,
+        63.14
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        63.14,
+        63.32
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        63.32,
+        63.4
+      ]
+    },
+    {
+      "text": " han",
+      "timestamp": [
+        63.4,
+        63.42
+      ]
+    },
+    {
+      "text": " puesto",
+      "timestamp": [
+        63.42,
+        63.6
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        63.6,
+        63.78
+      ]
+    },
+    {
+      "text": " moda,",
+      "timestamp": [
+        63.78,
+        64.02
+      ]
+    },
+    {
+      "text": " ¿sabéis",
+      "timestamp": [
+        64.02,
+        64.2
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        64.2,
+        64.28
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        64.28,
+        64.36
+      ]
+    },
+    {
+      "text": " os",
+      "timestamp": [
+        64.36,
+        64.46
+      ]
+    },
+    {
+      "text": " digo?",
+      "timestamp": [
+        64.46,
+        64.8
+      ]
+    },
+    {
+      "text": " Estos",
+      "timestamp": [
+        65.22,
+        65.36
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        65.36,
+        65.48
+      ]
+    },
+    {
+      "text": " solo",
+      "timestamp": [
+        65.48,
+        65.6
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        65.6,
+        65.74
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        65.74,
+        65.86
+      ]
+    },
+    {
+      "text": " hacer",
+      "timestamp": [
+        65.86,
+        65.94
+      ]
+    },
+    {
+      "text": " así",
+      "timestamp": [
+        65.94,
+        66.06
+      ]
+    },
+    {
+      "text": " como...",
+      "timestamp": [
+        66.06,
+        66.72
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        68.48,
+        68.92
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        68.92,
+        69.04
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        69.04,
+        69.22
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        69.22,
+        69.36
+      ]
+    },
+    {
+      "text": " andar",
+      "timestamp": [
+        69.36,
+        69.56
+      ]
+    },
+    {
+      "text": " ni",
+      "timestamp": [
+        69.56,
+        69.74
+      ]
+    },
+    {
+      "text": " nada.",
+      "timestamp": [
+        69.74,
+        70.14
+      ]
+    },
+    {
+      "text": " ¿Esto",
+      "timestamp": [
+        70.72,
+        70.86
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        70.86,
+        71.06
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        71.06,
+        71.24
+      ]
+    },
+    {
+      "text": " coño",
+      "timestamp": [
+        71.24,
+        71.46
+      ]
+    },
+    {
+      "text": " es?",
+      "timestamp": [
+        71.46,
+        71.72
+      ]
+    },
+    {
+      "text": " Porque,",
+      "timestamp": [
+        71.72,
+        71.96
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        71.96,
+        72.16
+      ]
+    },
+    {
+      "text": " sea,",
+      "timestamp": [
+        72.16,
+        72.34
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        72.34,
+        72.58
+      ]
+    },
+    {
+      "text": " haces",
+      "timestamp": [
+        72.58,
+        72.76
+      ]
+    },
+    {
+      "text": " deporte,",
+      "timestamp": [
+        72.76,
+        73.26
+      ]
+    },
+    {
+      "text": " ya",
+      "timestamp": [
+        73.26,
+        73.52
+      ]
+    },
+    {
+      "text": " tenemos",
+      "timestamp": [
+        73.52,
+        73.74
+      ]
+    },
+    {
+      "text": " niños",
+      "timestamp": [
+        73.74,
+        73.92
+      ]
+    },
+    {
+      "text": " gordos,",
+      "timestamp": [
+        73.92,
+        74.3
+      ]
+    },
+    {
+      "text": " ¿para",
+      "timestamp": [
+        74.3,
+        74.38
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        74.38,
+        74.48
+      ]
+    },
+    {
+      "text": " sacamos",
+      "timestamp": [
+        74.48,
+        74.74
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        74.74,
+        74.9
+      ]
+    },
+    {
+      "text": " mierda?",
+      "timestamp": [
+        74.9,
+        75.52
+      ]
+    },
+    {
+      "text": " O",
+      "timestamp": [
+        76.78,
+        76.92
+      ]
+    },
+    {
+      "text": " sea,",
+      "timestamp": [
+        76.92,
+        77.08
+      ]
+    },
+    {
+      "text": " además",
+      "timestamp": [
+        77.08,
+        77.52
+      ]
+    },
+    {
+      "text": " se",
+      "timestamp": [
+        77.52,
+        77.76
+      ]
+    },
+    {
+      "text": " llama",
+      "timestamp": [
+        77.76,
+        77.9
+      ]
+    },
+    {
+      "text": " hoverboard",
+      "timestamp": [
+        77.9,
+        78.58
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        78.58,
+        78.8
+      ]
+    },
+    {
+      "text": " algo",
+      "timestamp": [
+        78.8,
+        78.92
+      ]
+    },
+    {
+      "text": " así,",
+      "timestamp": [
+        78.92,
+        79.16
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        79.16,
+        79.24
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        79.24,
+        79.34
+      ]
+    },
+    {
+      "text": " invento",
+      "timestamp": [
+        79.34,
+        80.06
+      ]
+    },
+    {
+      "text": " americano",
+      "timestamp": [
+        80.06,
+        80.46
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        80.46,
+        80.68
+      ]
+    },
+    {
+      "text": " algo",
+      "timestamp": [
+        80.68,
+        80.98
+      ]
+    },
+    {
+      "text": " así.",
+      "timestamp": [
+        80.98,
+        81.34
+      ]
+    },
+    {
+      "text": " Si",
+      "timestamp": [
+        81.56,
+        81.6
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        81.6,
+        81.68
+      ]
+    },
+    {
+      "text": " traduces",
+      "timestamp": [
+        81.68,
+        81.96
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        81.96,
+        82.1
+      ]
+    },
+    {
+      "text": " castellano,",
+      "timestamp": [
+        82.1,
+        82.5
+      ]
+    },
+    {
+      "text": " literalmente",
+      "timestamp": [
+        82.5,
+        82.94
+      ]
+    },
+    {
+      "text": " significa",
+      "timestamp": [
+        82.94,
+        83.12
+      ]
+    },
+    {
+      "text": " gilipatinete,",
+      "timestamp": [
+        83.12,
+        84.1
+      ]
+    },
+    {
+      "text": " ¿vale?",
+      "timestamp": [
+        84.1,
+        84.4
+      ]
+    },
+    {
+      "text": " Los",
+      "timestamp": [
+        84.32,
+        85.7
+      ]
+    },
+    {
+      "text": " odio",
+      "timestamp": [
+        85.7,
+        86.22
+      ]
+    },
+    {
+      "text": " estos",
+      "timestamp": [
+        86.22,
+        86.34
+      ]
+    },
+    {
+      "text": " patinetes,",
+      "timestamp": [
+        86.34,
+        86.76
+      ]
+    },
+    {
+      "text": " además",
+      "timestamp": [
+        86.76,
+        86.88
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        86.88,
+        87.08
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        87.08,
+        87.18
+      ]
+    },
+    {
+      "text": " pregunto",
+      "timestamp": [
+        87.18,
+        87.68
+      ]
+    },
+    {
+      "text": " qué",
+      "timestamp": [
+        87.88,
+        88.0
+      ]
+    },
+    {
+      "text": " pensará",
+      "timestamp": [
+        88.0,
+        88.48
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        88.48,
+        88.64
+      ]
+    },
+    {
+      "text": " persona",
+      "timestamp": [
+        88.64,
+        88.94
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        88.94,
+        89.14
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        89.14,
+        89.24
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        89.24,
+        89.34
+      ]
+    },
+    {
+      "text": " silla",
+      "timestamp": [
+        89.34,
+        89.5
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        89.5,
+        89.62
+      ]
+    },
+    {
+      "text": " ruedas",
+      "timestamp": [
+        89.62,
+        89.84
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        89.9,
+        89.94
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        89.94,
+        90.04
+      ]
+    },
+    {
+      "text": " puede",
+      "timestamp": [
+        90.04,
+        90.16
+      ]
+    },
+    {
+      "text": " andar",
+      "timestamp": [
+        90.16,
+        90.28
+      ]
+    },
+    {
+      "text": " cuando",
+      "timestamp": [
+        90.28,
+        90.82
+      ]
+    },
+    {
+      "text": " ve",
+      "timestamp": [
+        90.82,
+        90.98
+      ]
+    },
+    {
+      "text": " pasar",
+      "timestamp": [
+        90.98,
+        91.16
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        91.16,
+        91.36
+      ]
+    },
+    {
+      "text": " delante",
+      "timestamp": [
+        91.36,
+        91.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        91.68,
+        91.74
+      ]
+    },
+    {
+      "text": " él",
+      "timestamp": [
+        91.74,
+        91.78
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        91.78,
+        91.96
+      ]
+    },
+    {
+      "text": " chaval",
+      "timestamp": [
+        91.96,
+        92.16
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        92.16,
+        92.3
+      ]
+    },
+    {
+      "text": " eso.",
+      "timestamp": [
+        92.3,
+        92.62
+      ]
+    },
+    {
+      "text": " Le",
+      "timestamp": [
+        93.82,
+        94.04
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        94.04,
+        94.2
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        94.2,
+        94.28
+      ]
+    },
+    {
+      "text": " dar",
+      "timestamp": [
+        94.28,
+        94.36
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        94.36,
+        94.48
+      ]
+    },
+    {
+      "text": " rabia",
+      "timestamp": [
+        94.48,
+        95.08
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        95.08,
+        95.18
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        95.18,
+        95.26
+      ]
+    },
+    {
+      "text": " hostia,",
+      "timestamp": [
+        95.26,
+        95.52
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        95.58,
+        95.62
+      ]
+    },
+    {
+      "text": " plan,",
+      "timestamp": [
+        95.62,
+        95.7
+      ]
+    },
+    {
+      "text": " oye",
+      "timestamp": [
+        95.7,
+        95.8
+      ]
+    },
+    {
+      "text": " chaval,",
+      "timestamp": [
+        95.8,
+        96.08
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        96.08,
+        96.18
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        96.18,
+        96.26
+      ]
+    },
+    {
+      "text": " puedo",
+      "timestamp": [
+        96.26,
+        96.34
+      ]
+    },
+    {
+      "text": " andar,",
+      "timestamp": [
+        96.34,
+        96.58
+      ]
+    },
+    {
+      "text": " cabrón,",
+      "timestamp": [
+        96.58,
+        96.86
+      ]
+    },
+    {
+      "text": " yo",
+      "timestamp": [
+        96.96,
+        96.96
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        96.96,
+        97.26
+      ]
+    },
+    {
+      "text": " gustaría",
+      "timestamp": [
+        97.26,
+        97.5
+      ]
+    },
+    {
+      "text": " andar,",
+      "timestamp": [
+        97.5,
+        97.86
+      ]
+    },
+    {
+      "text": " ¿qué",
+      "timestamp": [
+        97.86,
+        97.96
+      ]
+    },
+    {
+      "text": " haces",
+      "timestamp": [
+        97.96,
+        98.1
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        98.1,
+        98.22
+      ]
+    },
+    {
+      "text": " esa",
+      "timestamp": [
+        98.22,
+        98.36
+      ]
+    },
+    {
+      "text": " mierda?",
+      "timestamp": [
+        98.36,
+        98.72
+      ]
+    },
+    {
+      "text": " Que",
+      "timestamp": [
+        99.34,
+        99.96
+      ]
+    },
+    {
+      "text": " además",
+      "timestamp": [
+        99.96,
+        100.06
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        100.06,
+        100.22
+      ]
+    },
+    {
+      "text": " da",
+      "timestamp": [
+        100.22,
+        100.3
+      ]
+    },
+    {
+      "text": " mucha",
+      "timestamp": [
+        100.3,
+        100.44
+      ]
+    },
+    {
+      "text": " rabia",
+      "timestamp": [
+        100.44,
+        100.74
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        100.74,
+        100.84
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        100.84,
+        100.9
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        100.9,
+        100.94
+      ]
+    },
+    {
+      "text": " gente",
+      "timestamp": [
+        100.94,
+        101.14
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        101.22,
+        101.28
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        101.28,
+        101.42
+      ]
+    },
+    {
+      "text": " puede",
+      "timestamp": [
+        101.42,
+        101.62
+      ]
+    },
+    {
+      "text": " andar",
+      "timestamp": [
+        101.62,
+        101.8
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        101.8,
+        101.92
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        101.92,
+        102.0
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        102.0,
+        102.0
+      ]
+    },
+    {
+      "text": " sea,",
+      "timestamp": [
+        102.0,
+        102.18
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        102.18,
+        102.3
+      ]
+    },
+    {
+      "text": " le",
+      "timestamp": [
+        102.3,
+        102.38
+      ]
+    },
+    {
+      "text": " llamemos",
+      "timestamp": [
+        102.38,
+        102.66
+      ]
+    },
+    {
+      "text": " minusválidos",
+      "timestamp": [
+        102.7,
+        103.12
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        103.12,
+        103.32
+      ]
+    },
+    {
+      "text": " discapacitados.",
+      "timestamp": [
+        103.32,
+        104.08
+      ]
+    },
+    {
+      "text": " Esta",
+      "timestamp": [
+        104.08,
+        104.32
+      ]
+    },
+    {
+      "text": " gente",
+      "timestamp": [
+        104.32,
+        104.52
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        104.52,
+        104.74
+      ]
+    },
+    {
+      "text": " todo",
+      "timestamp": [
+        104.74,
+        104.84
+      ]
+    },
+    {
+      "text": " caso",
+      "timestamp": [
+        104.84,
+        105.04
+      ]
+    },
+    {
+      "text": " son",
+      "timestamp": [
+        105.14,
+        105.24
+      ]
+    },
+    {
+      "text": " válidos",
+      "timestamp": [
+        105.24,
+        105.68
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        105.68,
+        105.84
+      ]
+    },
+    {
+      "text": " capacitados",
+      "timestamp": [
+        105.84,
+        106.3
+      ]
+    },
+    {
+      "text": " porque",
+      "timestamp": [
+        106.3,
+        106.74
+      ]
+    },
+    {
+      "text": " han",
+      "timestamp": [
+        106.74,
+        106.86
+      ]
+    },
+    {
+      "text": " tenido",
+      "timestamp": [
+        106.86,
+        106.98
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        106.98,
+        107.08
+      ]
+    },
+    {
+      "text": " problema",
+      "timestamp": [
+        107.08,
+        107.26
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        107.34,
+        107.46
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        107.46,
+        107.54
+      ]
+    },
+    {
+      "text": " han",
+      "timestamp": [
+        107.54,
+        107.64
+      ]
+    },
+    {
+      "text": " superado.",
+      "timestamp": [
+        107.64,
+        108.3
+      ]
+    },
+    {
+      "text": " ¿Alguien",
+      "timestamp": [
+        108.3,
+        108.8
+      ]
+    },
+    {
+      "text": " quiere",
+      "timestamp": [
+        108.8,
+        108.94
+      ]
+    },
+    {
+      "text": " llamar",
+      "timestamp": [
+        108.94,
+        109.28
+      ]
+    },
+    {
+      "text": " minusválido",
+      "timestamp": [
+        109.32,
+        109.64
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        109.64,
+        109.8
+      ]
+    },
+    {
+      "text": " discapacitado?",
+      "timestamp": [
+        109.8,
+        110.4
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        110.4,
+        110.52
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        110.52,
+        110.62
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        110.62,
+        110.7
+      ]
+    },
+    {
+      "text": " patinete,",
+      "timestamp": [
+        110.7,
+        111.16
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        111.18,
+        111.24
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        111.24,
+        111.26
+      ]
+    },
+    {
+      "text": " jodas.",
+      "timestamp": [
+        111.26,
+        111.62
+      ]
+    },
+    {
+      "text": " Aplausos.",
+      "timestamp": [
+        144.3,
+        144.3
+      ]
+    }
+  ],
+  "processing_time": 320.1912703514099,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}

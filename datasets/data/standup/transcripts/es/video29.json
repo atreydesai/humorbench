@@ -1,0 +1,1297 @@
+{
+  "audio_file": "video29.wav",
+  "full_text": " Bueno, la siguiente canción va al principio, pero la hago ahora. Cuestión de... Ya llegó, ahora empieza el show Y empieza dentro de una hora en Canarias La función que tiene esta canción Es no tirar los chistes que sobraban Y así ganar, y así ganar más tiempo El pez martillo es un pez muy especial Porque es el único pez que puede alimentarse de nueces Cuando estoy en casa y me quiero orientar Me pongo una peli del oeste Ya me veis Yo soy más guapo en persona que en animal o cosa Y pensaba que tenía miedo escénico Hasta que actué en un escenario a ras del suelo Y descubrí que lo que tengo es vértigo Aprendí a tocar la guitarra a distancia Porque me dejé las uñas muy, muy largas Cuando está un re, hago mi, hago un la Y aquí falta un trozo, la, la, la, la ¡Un, dos, tres, probando! ¡Un, dos, tres, probando! ¡Sí, sé contar! La duración que tiene esta canción es justo la que a mí me da la gana. ¡Gracias! Gracias por ver el video.",
+  "chunks": [
+    {
+      "text": " Bueno,",
+      "timestamp": [
+        0.8,
+        1.68
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        1.68,
+        2.18
+      ]
+    },
+    {
+      "text": " siguiente",
+      "timestamp": [
+        2.18,
+        2.78
+      ]
+    },
+    {
+      "text": " canción",
+      "timestamp": [
+        2.78,
+        3.08
+      ]
+    },
+    {
+      "text": " va",
+      "timestamp": [
+        3.08,
+        3.28
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        3.28,
+        3.3
+      ]
+    },
+    {
+      "text": " principio,",
+      "timestamp": [
+        3.3,
+        3.6
+      ]
+    },
+    {
+      "text": " pero",
+      "timestamp": [
+        3.6,
+        3.78
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        3.78,
+        3.88
+      ]
+    },
+    {
+      "text": " hago",
+      "timestamp": [
+        3.88,
+        3.98
+      ]
+    },
+    {
+      "text": " ahora.",
+      "timestamp": [
+        3.98,
+        4.26
+      ]
+    },
+    {
+      "text": " Cuestión",
+      "timestamp": [
+        7.44,
+        9.16
+      ]
+    },
+    {
+      "text": " de...",
+      "timestamp": [
+        9.16,
+        9.46
+      ]
+    },
+    {
+      "text": " Ya",
+      "timestamp": [
+        13.78,
+        14.9
+      ]
+    },
+    {
+      "text": " llegó,",
+      "timestamp": [
+        14.9,
+        16.22
+      ]
+    },
+    {
+      "text": " ahora",
+      "timestamp": [
+        16.22,
+        17.34
+      ]
+    },
+    {
+      "text": " empieza",
+      "timestamp": [
+        17.34,
+        18.22
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        18.22,
+        18.48
+      ]
+    },
+    {
+      "text": " show",
+      "timestamp": [
+        18.48,
+        18.72
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        19.3,
+        19.72
+      ]
+    },
+    {
+      "text": " empieza",
+      "timestamp": [
+        19.72,
+        20.22
+      ]
+    },
+    {
+      "text": " dentro",
+      "timestamp": [
+        20.22,
+        20.8
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        20.8,
+        21.42
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        21.42,
+        21.64
+      ]
+    },
+    {
+      "text": " hora",
+      "timestamp": [
+        21.64,
+        21.94
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        21.94,
+        22.26
+      ]
+    },
+    {
+      "text": " Canarias",
+      "timestamp": [
+        22.26,
+        22.94
+      ]
+    },
+    {
+      "text": " La",
+      "timestamp": [
+        23.08,
+        23.88
+      ]
+    },
+    {
+      "text": " función",
+      "timestamp": [
+        23.88,
+        24.72
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        24.72,
+        26.02
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        26.02,
+        26.5
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        26.5,
+        26.92
+      ]
+    },
+    {
+      "text": " canción",
+      "timestamp": [
+        26.92,
+        27.42
+      ]
+    },
+    {
+      "text": " Es",
+      "timestamp": [
+        27.74,
+        28.52
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        28.52,
+        28.82
+      ]
+    },
+    {
+      "text": " tirar",
+      "timestamp": [
+        28.82,
+        29.4
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        29.4,
+        29.9
+      ]
+    },
+    {
+      "text": " chistes",
+      "timestamp": [
+        29.9,
+        30.32
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        30.32,
+        30.66
+      ]
+    },
+    {
+      "text": " sobraban",
+      "timestamp": [
+        30.66,
+        31.6
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        32.14,
+        32.52
+      ]
+    },
+    {
+      "text": " así",
+      "timestamp": [
+        32.52,
+        32.9
+      ]
+    },
+    {
+      "text": " ganar,",
+      "timestamp": [
+        32.9,
+        33.78
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        33.78,
+        34.28
+      ]
+    },
+    {
+      "text": " así",
+      "timestamp": [
+        34.28,
+        34.48
+      ]
+    },
+    {
+      "text": " ganar",
+      "timestamp": [
+        34.48,
+        35.12
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        35.12,
+        35.44
+      ]
+    },
+    {
+      "text": " tiempo",
+      "timestamp": [
+        35.44,
+        35.78
+      ]
+    },
+    {
+      "text": " El",
+      "timestamp": [
+        36.42,
+        38.08
+      ]
+    },
+    {
+      "text": " pez",
+      "timestamp": [
+        38.08,
+        38.42
+      ]
+    },
+    {
+      "text": " martillo",
+      "timestamp": [
+        38.42,
+        38.92
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        38.92,
+        39.42
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        39.42,
+        40.44
+      ]
+    },
+    {
+      "text": " pez",
+      "timestamp": [
+        40.44,
+        40.7
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        40.7,
+        40.92
+      ]
+    },
+    {
+      "text": " especial",
+      "timestamp": [
+        40.92,
+        41.46
+      ]
+    },
+    {
+      "text": " Porque",
+      "timestamp": [
+        42.38,
+        42.78
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        42.78,
+        43.02
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        43.02,
+        43.22
+      ]
+    },
+    {
+      "text": " único",
+      "timestamp": [
+        43.22,
+        43.6
+      ]
+    },
+    {
+      "text": " pez",
+      "timestamp": [
+        43.6,
+        44.08
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        44.08,
+        44.24
+      ]
+    },
+    {
+      "text": " puede",
+      "timestamp": [
+        44.24,
+        44.4
+      ]
+    },
+    {
+      "text": " alimentarse",
+      "timestamp": [
+        44.4,
+        45.3
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        45.3,
+        45.72
+      ]
+    },
+    {
+      "text": " nueces",
+      "timestamp": [
+        45.72,
+        46.6
+      ]
+    },
+    {
+      "text": " Cuando",
+      "timestamp": [
+        47.2,
+        47.74
+      ]
+    },
+    {
+      "text": " estoy",
+      "timestamp": [
+        47.74,
+        48.12
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        48.12,
+        48.44
+      ]
+    },
+    {
+      "text": " casa",
+      "timestamp": [
+        48.44,
+        50.42
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        50.42,
+        51.18
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        51.18,
+        51.32
+      ]
+    },
+    {
+      "text": " quiero",
+      "timestamp": [
+        51.32,
+        51.66
+      ]
+    },
+    {
+      "text": " orientar",
+      "timestamp": [
+        51.66,
+        52.92
+      ]
+    },
+    {
+      "text": " Me",
+      "timestamp": [
+        53.32,
+        53.62
+      ]
+    },
+    {
+      "text": " pongo",
+      "timestamp": [
+        53.62,
+        54.02
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        54.02,
+        54.62
+      ]
+    },
+    {
+      "text": " peli",
+      "timestamp": [
+        54.62,
+        55.26
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        55.26,
+        55.54
+      ]
+    },
+    {
+      "text": " oeste",
+      "timestamp": [
+        55.54,
+        56.4
+      ]
+    },
+    {
+      "text": " Ya",
+      "timestamp": [
+        66.06,
+        66.08
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        66.08,
+        66.6
+      ]
+    },
+    {
+      "text": " veis",
+      "timestamp": [
+        66.6,
+        67.82
+      ]
+    },
+    {
+      "text": " Yo",
+      "timestamp": [
+        68.06,
+        68.28
+      ]
+    },
+    {
+      "text": " soy",
+      "timestamp": [
+        68.28,
+        68.66
+      ]
+    },
+    {
+      "text": " más",
+      "timestamp": [
+        68.66,
+        68.96
+      ]
+    },
+    {
+      "text": " guapo",
+      "timestamp": [
+        68.96,
+        69.44
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        69.44,
+        69.88
+      ]
+    },
+    {
+      "text": " persona",
+      "timestamp": [
+        69.88,
+        70.98
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        70.98,
+        71.64
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        71.64,
+        71.94
+      ]
+    },
+    {
+      "text": " animal",
+      "timestamp": [
+        71.94,
+        72.88
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        72.88,
+        73.26
+      ]
+    },
+    {
+      "text": " cosa",
+      "timestamp": [
+        73.26,
+        73.74
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        74.28,
+        75.54
+      ]
+    },
+    {
+      "text": " pensaba",
+      "timestamp": [
+        75.54,
+        76.44
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        76.44,
+        77.04
+      ]
+    },
+    {
+      "text": " tenía",
+      "timestamp": [
+        77.04,
+        78.02
+      ]
+    },
+    {
+      "text": " miedo",
+      "timestamp": [
+        78.02,
+        78.42
+      ]
+    },
+    {
+      "text": " escénico",
+      "timestamp": [
+        78.42,
+        78.9
+      ]
+    },
+    {
+      "text": " Hasta",
+      "timestamp": [
+        78.98,
+        79.2
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        79.2,
+        79.42
+      ]
+    },
+    {
+      "text": " actué",
+      "timestamp": [
+        79.42,
+        80.72
+      ]
+    },
+    {
+      "text": " en",
+      "timestamp": [
+        80.72,
+        80.94
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        80.94,
+        81.12
+      ]
+    },
+    {
+      "text": " escenario",
+      "timestamp": [
+        81.12,
+        82.08
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        82.08,
+        82.34
+      ]
+    },
+    {
+      "text": " ras",
+      "timestamp": [
+        82.34,
+        82.6
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        82.6,
+        82.82
+      ]
+    },
+    {
+      "text": " suelo",
+      "timestamp": [
+        82.82,
+        83.46
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        83.62,
+        84.42
+      ]
+    },
+    {
+      "text": " descubrí",
+      "timestamp": [
+        84.42,
+        85.42
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        85.42,
+        85.96
+      ]
+    },
+    {
+      "text": " lo",
+      "timestamp": [
+        85.96,
+        86.16
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        86.16,
+        86.36
+      ]
+    },
+    {
+      "text": " tengo",
+      "timestamp": [
+        86.36,
+        86.94
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        86.94,
+        87.24
+      ]
+    },
+    {
+      "text": " vértigo",
+      "timestamp": [
+        87.24,
+        87.76
+      ]
+    },
+    {
+      "text": " Aprendí",
+      "timestamp": [
+        88.46,
+        95.06
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        95.06,
+        95.14
+      ]
+    },
+    {
+      "text": " tocar",
+      "timestamp": [
+        95.14,
+        95.48
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        95.48,
+        96.28
+      ]
+    },
+    {
+      "text": " guitarra",
+      "timestamp": [
+        96.28,
+        96.86
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        96.86,
+        96.9
+      ]
+    },
+    {
+      "text": " distancia",
+      "timestamp": [
+        96.9,
+        97.62
+      ]
+    },
+    {
+      "text": " Porque",
+      "timestamp": [
+        98.08,
+        98.7
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        98.7,
+        99.08
+      ]
+    },
+    {
+      "text": " dejé",
+      "timestamp": [
+        99.08,
+        99.76
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        99.76,
+        99.98
+      ]
+    },
+    {
+      "text": " uñas",
+      "timestamp": [
+        99.98,
+        100.56
+      ]
+    },
+    {
+      "text": " muy,",
+      "timestamp": [
+        100.56,
+        101.04
+      ]
+    },
+    {
+      "text": " muy",
+      "timestamp": [
+        101.04,
+        101.66
+      ]
+    },
+    {
+      "text": " largas",
+      "timestamp": [
+        101.66,
+        102.38
+      ]
+    },
+    {
+      "text": " Cuando",
+      "timestamp": [
+        102.88,
+        103.48
+      ]
+    },
+    {
+      "text": " está",
+      "timestamp": [
+        103.48,
+        103.86
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        103.86,
+        104.04
+      ]
+    },
+    {
+      "text": " re,",
+      "timestamp": [
+        104.04,
+        104.32
+      ]
+    },
+    {
+      "text": " hago",
+      "timestamp": [
+        104.32,
+        104.56
+      ]
+    },
+    {
+      "text": " mi,",
+      "timestamp": [
+        104.56,
+        104.98
+      ]
+    },
+    {
+      "text": " hago",
+      "timestamp": [
+        104.98,
+        105.34
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        105.34,
+        105.52
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        105.52,
+        105.64
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        106.0,
+        106.6
+      ]
+    },
+    {
+      "text": " aquí",
+      "timestamp": [
+        106.6,
+        106.9
+      ]
+    },
+    {
+      "text": " falta",
+      "timestamp": [
+        106.9,
+        107.42
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        107.42,
+        107.72
+      ]
+    },
+    {
+      "text": " trozo,",
+      "timestamp": [
+        107.72,
+        108.18
+      ]
+    },
+    {
+      "text": " la,",
+      "timestamp": [
+        108.18,
+        108.46
+      ]
+    },
+    {
+      "text": " la,",
+      "timestamp": [
+        108.46,
+        108.78
+      ]
+    },
+    {
+      "text": " la,",
+      "timestamp": [
+        108.78,
+        109.02
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        109.02,
+        109.34
+      ]
+    },
+    {
+      "text": " ¡Un,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " dos,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " tres,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " probando!",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " ¡Un,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " dos,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " tres,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " probando!",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " ¡Sí,",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " sé",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " contar!",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " La",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " duración",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " tiene",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " canción",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " es",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " justo",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " mí",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " da",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " gana.",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " ¡Gracias!",
+      "timestamp": [
+        140.08,
+        140.08
+      ]
+    },
+    {
+      "text": " Gracias",
+      "timestamp": [
+        169.62,
+        169.62
+      ]
+    },
+    {
+      "text": " por",
+      "timestamp": [
+        169.62,
+        169.62
+      ]
+    },
+    {
+      "text": " ver",
+      "timestamp": [
+        169.62,
+        169.62
+      ]
+    },
+    {
+      "text": " el",
+      "timestamp": [
+        169.62,
+        169.62
+      ]
+    },
+    {
+      "text": " video.",
+      "timestamp": [
+        169.62,
+        169.7
+      ]
+    }
+  ],
+  "processing_time": 312.8111524581909,
+  "language": "es",
+  "model_id": "openai/whisper-large-v3"
+}
