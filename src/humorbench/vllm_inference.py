@@ -48,6 +48,7 @@ def run_inference(
         model=model_name,
         trust_remote_code=True,
         max_model_len=20000,
+        tensor_parallel_size=2
     )
 
     sampling_params = SamplingParams(

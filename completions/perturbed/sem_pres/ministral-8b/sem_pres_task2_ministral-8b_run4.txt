@@ -1,0 +1,2386 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+ Here is the classification:
+
+```json
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+```
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+ Please note that the labels are case-sensitive and must be used exactly as specified.
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+ The output must be a JSON object.
+
+=== Prompt 34 ===
+
+
+=== Prompt 35 ===
+
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+ {"ANSWER":["establishing context", "setup", "escalation", "subversion", "misdirection", "timing", "punchline", "non-line"]}
+
+=== Prompt 40 ===
+ The format is important.
+
+=== Prompt 41 ===
+ Please format your answer exactly as specified, otherwise you will not receive any credit.
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+ Here is the classification:
+
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+ Here is the joke with each line classified:
+
+```markdown
+I’ll tell you what should be a crime: people boarding planes while wearing backpacks.
+establishing context
+
+[audience cheering and applauding]
+setup
+
+If you’re someone who does that, a little heads-up: your backpacks are hitting people in the face.
+setup
+
+[imitating thudding] “I only care about what’s in front of me!” [imitates thudding] “The hell with everything in my wake!”
+escalation
+
+[imitating thudding]
+setup
+
+[audience laughing]
+setup
+
+You know when you sit in the emergency exit row seat and you agree to save everyone…
+setup
+
+…how come when the flight is over, no one thanks you?
+escalation
+
+[audience laughing and applauding]
+setup
+
+It’s amazing what you might have done.
+setup
+
+You’d think someone would take note of that. “Hey, I heard what went down before takeoff.” “Thank you.”
+escalation
+
+“Thank you.\nThank you.\nThank you.”
+setup
+
+No, just a backpack to the back of the head.
+punchline
+
+[imitating thudding] “I was an almost-responder!”
+callback
+
+[audience laughing]
+setup
+
+[cheers and applause]
+setup
+
+I like to be thanked.
+setup
+
+END OF JOKE.
+wrap-up
+```
+
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "escalation", "setup", "setup", "setup", "setup", "setup", "punchline", "callback", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 57 ===
+ The following are the labels that you can use:
+- establishing context
+- setup
+- escalation
+- subversion
+- callback
+- misdirection
+- timing
+- meta-humor
+- punchline
+- redirection
+- non-line
+- wrap-up
+- repetition
+
+```
+{
+  "ANSWER": [
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+
+
+=== Prompt 58 ===
+
+
+=== Prompt 59 ===
+
+
+=== Prompt 60 ===
+
+
+=== Prompt 61 ===
+ Please do not use any additional labels or categories that are not provided above. Here is the classification for the given joke:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+ Here is the joke again for reference:
+
+Have you guys ever checked into one of those newer hotels, like the W Hotel, like a sort of very futuristic-looking hotel, with like sort of white shag carpeting everywhere?\nAnd for some reason, this is the music that seems to be playing all the time. [gentle techno muzak plays] What is this music?\nWho– who makes this music?\nIt… It doesn’t seem to have a beginning or an end.\nIt just pulses like this and… I’m gonna do my impression of waiting to check in to the W Hotel.\nThe front desk is right here.[techno muzak continues]That’s it.\nThank you. [audience laughs, applauds] END OF JOKE.
+
+{"ANSWER":["establishing context", "setup", "setup", "escalation", "setup", "setup", "escalation", "escalation", "punchline", "wrap-up", "repetition"]}
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+ The joke is:
+
+"Here is a joke: But we also have to be honest with ourselves about being drummers, right?\nLike… Sometimes, you’ll go do a gig.\nYes, I said– “Gig” is a good word to use, right?\nI can say “gig.” And… Do you ever bring your own cymbals?\nDo we really need to bring them?\nNo,we do not.\nI think it’s because we want to match the other musicians that are bringing guitars.\nI think we just want to carry something.\nAnd the same thing goes for cymbal shopping.\nIt’s kind of a lie.\nRight?\nJust a sort of like– You go to these cymbal shops, and there’s like cymbals everywhere.\nLike fine wine.\nThere’s only one word we use to describe it, whenever we buy that cymbal, is that it’s dark.\nIt’s dark.\nThe dark tone.\nWe have to stop with the way that we want to feel special by pronouncing things weird .\nIs it “Pay-ste” or “Paiste”? “Zoldjian”? “Zildjian”?\nNeil “Peert”?\nNeil“Peart”?\nDoes it have to be that difficult?\nAnd when we go look at drum kits… do we really think that those little, teeny kits, those little jazz kits, do we think they sound great? or are we getting older, and we don’t want to carry… those big drums anymore?\nI’m just asking.\nHow many of you as drummers… You’re just so– How much time has been spent– This is so much– I– I think if we took a film of my experience as a drummer, It would not be on stage, it would be this business, and then… that.\nDo you ever have someone who’s not a drummer help you unpack? “Here.” “No, you– You broke it.” Is it me, or is it just so hard to get a snare drum to be exactly the right… way?\nDo you guys go through this?\nI’m always like, “No, damn it.\nNo.\nNo.” And drum companies… Stop.\nStop coming up– They’re– Drum companies have to– They’re out of control.\nStop… But the names of hardware… I have a pedal that I’ve been using for so– Called Iron Cobra.\nI’m a grown man.\nIt says on the pedal.\nIt says Iron Co– Iron Cobra?\nIron… That’s a cobra made out of iron.\nYou know cajóns ?\nThey’re– Drum companies– Yeah– Drum companies are trying to… For those of you who aren’t drummers, I’ll explain what a– Cajón is a wooden box that’s supposed to sound like a drum.\nIt sounds like this.\nIt’s like… You’ll see people sitting on them.\nAnd they’re trying to sell us these cajóns .\nThe fantasy is we’re gonna go on a camping trip and like… If someone did that, I’d be like, “It’s okay.\nYou can just clap your hands or something.” END OF JOKE."
+
+```json
+{
+  "ANSWER": ["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]
+}
+```
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+ Here is the classification:
+
+```json
+{"ANSWER":["establishing context", "setup", "setup", "subversion", "punchline"]}
+```
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+ The joke is:
+
+It’s a wrap on back surgery.
+Back surgery doesn’t process.
+No more back surgery.
+Don’t you feel like with back surgery,it’s the like,“Hey,do you want to go do this thing?”“No,I just had back surgery.”Isn’t supposed to glucinium,“They fixed it”?
+Do you ever notice that musicians, like guitar players, they have like weird, little, wispy bodies?
+
+{"ANSWER":["establishing context", "setup", "subversion", "callback", "meta-humor", "wrap-up", "repetition"]}
+
+=== Prompt 79 ===
+ Here is the classification:
+
+{"ANSWER":["establishing context", "setup", "escalation", "setup", "setup", "setup", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 80 ===
+
+
+=== Prompt 81 ===
+ Please avoid using any additional explanation or commentary. Here is a classification of the joke:
+
+```json
+{"ANSWER":["setup", "escalation", "subversion", "punchline", "setup", "escalation", "subversion", "punchline", "wrap-up"]}
+```
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+=== Prompt 84 ===
+ The joke provided is:
+
+How many people have either been in this band, or have had to see this type of band? [guitar music continues via foot pedal] [looped guitar music continues] Do you ever listen to… Do you ever listen to NPR?\nAnd there… There are those drummers who are too respectful… Too respectful of the artist.\nThey’re so gentle, and they– They usually play with, like, a maraca and a mallet.\nI’ll show you what I mean.\nI’d like to bring on a special guest… here at NPR.\nHow’s it going, Thao?\nI’m doing well.\nThanks for having me.\nWelcome to the station,and…I understand you’ve been touring.\nWhat’s that like?\nI’d say it’s both inspiring and devastating.\nBut really beneficial, because… all points of joy and sorrow are like messiahs of song to me.\nYou’re gonna play a song from the new album, correct?\nI would be honored.\nAll right, let’s get your whole band here, and off you go. [gently riffs on drums] ♪ A window by the porch ♪ ♪ A faded mirror in the vestibule ♪ ♪ A letter addressed To the owner of the house ♪ ♪ With the rusty weather vane ♪ ♪ But the owner is a ghost ♪ ♪ From Missouri ♪ ♪ From Missouri ♪ Thank you.\nThank you.
+
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+ Please use the exact format provided, and ensure that each line is classified correctly.
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+ Here is the classification:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "establishing context",
+    "setup",
+    "escalation",
+    "setup",
+    "setup",
+    "setup",
+    "escalation",
+    "setup",
+    "escalation",
+    "setup",
+    "escalation",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+ Please output the final answer in the requested format.
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+ The format of your answer should be: {"ANSWER":["label1", "label2",...]}
+
+=== Prompt 126 ===
+ Here is the classification:
+
+{"ANSWER":["establishing context", "setup", "setup", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+ Please note that the labels are case-sensitive.
+
+{"ANSWER":["establishing context", "setup", "escalation", "punchline"]}
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+ Here is the classification of the joke:
+
+```json
+{"ANSWER":["setup", "punchline", "setup", "setup", "punchline"]}
+```
+
+The joke starts with a setup where the speaker is trying to outdo Oona with a penguin joke. The punchline follows, where the speaker presents a penguin joke. The next line is a setup for the punchline, where the penguin says "What?" in response to the joke. The final line is the punchline, where the speaker reveals the punchline of the penguin joke.
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+ The labels are defined as follows:
+
+1. **Establishing context**: Provides background information or sets the scene.
+2. **Setup**: Introduces the main idea or the problem in the joke.
+3. **Escalation**: Builds upon the setup, increasing tension or introducing new elements.
+4. **Subversion**: Unexpectedly changes the direction of the joke.
+5. **Callback**: Refers back to an earlier part of the joke.
+6. **Misdirection**: Leads the audience in one direction, only to reveal something different.
+7. **Timing**: Uses the timing of the delivery to enhance the humor.
+8. **Meta-humor**: Humor that is about humor itself.
+9. **Punchline**: The final, funny part of the joke.
+10. **Redirection**: Changes the direction of the joke, often to reveal a twist.
+11. **Non-line**: A line that does not fit into any of the above categories.
+12. **Wrap-up**: Concludes the joke or ties up any loose ends.
+13. **Repetition**: Repeats a previous line or element for emphasis or humor.
+
+```
+{"ANSWER":["setup", "setup", "subversion", "callback", "punchline"]}
+```
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+ Here is the joke:
+
+```
+And I think, “This place is a death trap.
+I gotta get the hell out of here.”
+I’m trying to get some cardio in now, mainlining spores.
+And then I walk over to the swim desk.
+I go, “Vanessa, now that you’ve evaluated my level,
+is it possible we could hold a swim lesson?”
+She says, “I just don’t think I have time for that in my schedule.”
+[crowd laughs, applauds]
+Which means I had auditioned for swim lessons,
+and I didn’t get the part.
+END OF JOKE.
+```
+
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+ Here is the joke:
+
+He said, “I got your blood results back, and your bad cholesterol is bad.”\nAnd I go, “That business line up.”\nAnd he said, “Your good cholesterol is bad.”\nI said, “Nobody’s perfect.”\nAnd…\n[crowd laughs]\n…he said, “You have type 2 diabetes.”\nWhen he said this, I had that shortness of breath I was telling you about earlier,\nbut there are few times in my life where I’ve experienced it to an extreme.
+
+{"ANSWER":["establishing context", "setup", "escalation", "callback", "punchline", "wrap-up", "repetition"]}
+
+=== Prompt 146 ===
+ {"ANSWER":["punchline", "setup"]}
+
+=== Prompt 147 ===
+ Here is the classification:
+
+- "Healthy food’s like, “I’m heading in for the night.”" - establishing context
+- "“I get a big morning provide nutrients.”" - setup
+- "Unhealthy food is like,” - escalation
+- "“I’megabyte gonna hang.”" - setup
+- "I saw a microwave on the niche.\nI’m gonna pop in and see what happens.”" - escalation
+- "And pizza stays up all night." - punchline
+- "END OF JOKE" - wrap-up
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+ {"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+ Please ensure your answer is in this format.
+
+```json
+{
+  "ANSWER": [
+    "establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+
+=== Prompt 174 ===
+ {"ANSWER":["punchline", "non-line"]}
+
+=== Prompt 175 ===
+
+
+=== Prompt 176 ===
+ Here's the classification:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "escalation",
+    "subversion",
+    "callback",
+    "meta-humor",
+    "punchline"
+  ]
+}
+```
+
+=== Prompt 177 ===
+
+
+=== Prompt 178 ===
+ Here is the classification of the given joke:
+
+```json
+{
+  "ANSWER": [
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "punchline",
+    "wrap-up"
+  ]
+}
+```
+
+=== Prompt 179 ===
+
+
+=== Prompt 180 ===
+
+
+=== Prompt 181 ===
+
+
+=== Prompt 182 ===
+
+
+=== Prompt 183 ===
+
+
+=== Prompt 184 ===
+
+
+=== Prompt 185 ===
+ 
+
+=== Prompt 186 ===
+
+
+=== Prompt 187 ===
+
+
+=== Prompt 188 ===
+
+
+=== Prompt 189 ===
+ 
+
+=== Prompt 190 ===
+
+
+=== Prompt 191 ===
+
+
+=== Prompt 192 ===
+
+
+=== Prompt 193 ===
+
+
+=== Prompt 194 ===
+
+
+=== Prompt 195 ===
+
+
+=== Prompt 196 ===
+
+
+=== Prompt 197 ===
+
+
+=== Prompt 198 ===
+
+
+=== Prompt 199 ===
+ Please provide the classification of each line of the joke.
+
+```json
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "
+
+=== Prompt 200 ===
+
+
+=== Prompt 201 ===
+
+
+=== Prompt 202 ===
+
+
+=== Prompt 203 ===
+
+
+=== Prompt 204 ===
+
+
+=== Prompt 205 ===
+
+
+=== Prompt 206 ===
+
+
+=== Prompt 207 ===
+ Here is a classification of the joke:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "escalation",
+    "subversion",
+    "callback",
+    "meta-humor",
+    "punchline",
+    "wrap-up"
+  ]
+}
+```
+
+=== Prompt 208 ===
+ Here is the classification of each line:
+
+- "Yo!" : establishing context
+- "Yo man, I’m not that guy anymore, Nate." : setup
+- "Well, then maybe I am that guy." : escalation
+- "How about that?" : escalation
+- "I’m a menace!" : escalation
+- "I’m a mean man, Nashville!" : escalation
+- "Watch out!" : punchline
+- "END OF JOKE" : non-line
+
+=== Prompt 209 ===
+
+
+=== Prompt 210 ===
+ Please follow this format exactly.
+
+=== Prompt 211 ===
+
+
+=== Prompt 212 ===
+ The answer is: {"ANSWER":["establishing context", "setup", "escalation", "setup", "setup", "punchline"]}
+
+=== Prompt 213 ===
+
+
+=== Prompt 214 ===
+
+
