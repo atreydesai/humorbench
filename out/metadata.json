@@ -1,0 +1,11 @@
+{
+  "input_tsv": "datasets/labeled/en_task1&2.tsv",
+  "seed": 123,
+  "row_count": 326,
+  "outputs": {
+    "perturbed_joke_semantic_preserving": "out\\jokes_semantic_preserving.tsv",
+    "perturbed_joke_semantic_drift": "out\\jokes_semantic_drift.tsv",
+    "perturbed_joke_ortho_typo": "out\\jokes_ortho_typo.tsv",
+    "perturbed_joke_cultural_shift": "out\\jokes_cultural_shift.tsv"
+  }
+}
