@@ -6,7 +6,7 @@ There are two tasks:
 1. Overall Joke Classification: Classify the entire multi-line joke.
 2. Line Purpose Identification: Identify the purpose that a line in a joke serves in developing the joke's punchline.
 
-The raw labeled datasets can be found in `datasets/labeled`.
+The raw labeled datasets can be found in `datasets/labeled`.  
 The prompts generated from the datasets can be found in `datasets/en_prompts`, `datasets/es_prompts`, and `datasets/perturbed`.
 
 We evaluated the following models:
@@ -18,9 +18,8 @@ We evaluated the following models:
 - swiss-ai/Apertus-8B-Instruct-2509
 - mistralai/Ministral-8B-Instruct-2410
 
-Model completions can be found in the `completions/` folder.
-Performance metrics and confusion matrices can be found in `results/`.
-
+Model completions can be found in the `completions/` folder.  
+Performance metrics and confusion matrices can be found in `results/`.  
 All python files used for this project can be found in `src/humorbench`.
 
 ## Quick Start
