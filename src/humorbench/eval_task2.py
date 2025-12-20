@@ -36,7 +36,7 @@ def extract_answers(filepath):
                 results.append([])
             else:
                 results.append(parsed['ANSWER'])
-        except json.JSONDecodeError:
+        except (json.JSONDecodeError, KeyError):
             results.append([])
             continue
 
@@ -91,7 +91,7 @@ def eval_pass_at_k(completions, ground_truths, k):
     for completion, truths in zip(completions, ground_truths):
         for i in range(len(truths)):
             truth = truths[i]
-            truth = truth.strip()
+            truth = truth.strip().lower()
             if truth == 'surreal' or truth == 'absurdism':
                 truth = 'surreal/absurdism'
             if truth == 'observational' or truth == 'anecdotal':
@@ -117,7 +117,7 @@ def eval_pass_at_k(completions, ground_truths, k):
                 else:
                     comp = []
                 if i < len(comp):
-                    pred = comp[i].strip()
+                    pred = comp[i].strip().lower()
                 else:
                     pred = 'NA'
                 if pred == 'surreal' or pred == 'absurdism':

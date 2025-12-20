@@ -31,8 +31,11 @@ def extract_answers(filepath):
 
         try:
             parsed = json.loads(json_str)
-            results.append(parsed['category'])
-        except json.JSONDecodeError:
+            if 'category' in parsed:
+                results.append(parsed['category'])
+            else:
+                results.append("")
+        except (json.JSONDecodeError, KeyError):
             results.append("")
             continue
 
@@ -83,7 +86,7 @@ def eval_pass_at_k(completions, ground_truths, k):
             confusion_matrix[label][l] = 0
 
     for completion, truth in zip(completions, ground_truths):
-        truth = truth.strip()
+        truth = truth.strip().lower()
         if truth == 'surreal' or truth == 'absurdism':
             truth = 'surreal/absurdism'
         if truth == 'observational' or truth == 'anecdotal':
@@ -96,7 +99,7 @@ def eval_pass_at_k(completions, ground_truths, k):
             completion.append("")
         for i in range(k):
             if i < len(completion):
-                pred = completion[i].strip()
+                pred = completion[i].strip().lower()
             else:
                 pred = 'NA'
             if truth in confusion_matrix:

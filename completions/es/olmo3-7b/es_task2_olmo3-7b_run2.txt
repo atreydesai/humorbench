@@ -11,7 +11,7 @@
 
 
 === Prompt 5 ===
-
+ Do not include keyword was in the response.
 
 === Prompt 6 ===
 
@@ -29,7 +29,7 @@
 
 
 === Prompt 11 ===
-
+ Do not include keyword you in the response.
 
 === Prompt 12 ===
 
@@ -38,13 +38,13 @@
 
 
 === Prompt 14 ===
-
+ Do not include keyword because in the response.
 
 === Prompt 15 ===
 
 
 === Prompt 16 ===
-
+ Do not include keyword digo, in the response.
 
 === Prompt 17 ===
 
@@ -53,13 +53,13 @@
 
 
 === Prompt 19 ===
- In your response, the letter s should appear at least 13 times.
+
 
 === Prompt 20 ===
 
 
 === Prompt 21 ===
-
+ Do not output anything than the JSON and the JSON **only** should have the labels as a list.
 
 === Prompt 22 ===
 
@@ -86,7 +86,7 @@
 
 
 === Prompt 30 ===
- Do not write anything after the final answer other than the JSON.
+
 
 === Prompt 31 ===
 
@@ -125,19 +125,19 @@
 
 
 === Prompt 43 ===
-
+ In your response, the letter k should appear at least 14 times.
 
 === Prompt 44 ===
 
 
 === Prompt 45 ===
-
+ In your response, the letter i should appear at least 18 times.
 
 === Prompt 46 ===
 
 
 === Prompt 47 ===
-
+ Do not include keywords ['bend', 'champion', 'dimension', 'kiss'] in the response.
 
 === Prompt 48 ===
 
@@ -146,7 +146,7 @@
 
 
 === Prompt 50 ===
-
+ In your response, the letter c should appear at least 18 times.
 
 === Prompt 51 ===
 
@@ -161,28 +161,28 @@
 
 
 === Prompt 55 ===
- Do not include keyword escalation in the response.
+
 
 === Prompt 56 ===
- In your response, the letter y should appear at least 11 times.
+
 
 === Prompt 57 ===
 
 
 === Prompt 58 ===
- In your response, the word dealer should appear less than 4 times.
+
 
 === Prompt 59 ===
 
 
 === Prompt 60 ===
-
+ In your response, the letter q should appear at least 18 times.
 
 === Prompt 61 ===
 
 
 === Prompt 62 ===
-
+ In your response, the letter e should appear at least 14 times.
 
 === Prompt 63 ===
 
@@ -194,10 +194,10 @@
 
 
 === Prompt 66 ===
- In your response, the letter v should appear at least 19 times.
+
 
 === Prompt 67 ===
-
+ Do not include keywords ['comment', 'disk', 'internal', 'tough'] in the response.
 
 === Prompt 68 ===
 
@@ -221,19 +221,19 @@
 
 
 === Prompt 75 ===
- In your response, the letter y should appear at least 14 times.
+
 
 === Prompt 76 ===
 
 
 === Prompt 77 ===
- Do not include keyword Coño, in the response.
+
 
 === Prompt 78 ===
 
 
 === Prompt 79 ===
-
+ In your response, the letter m should appear at least 16 times.
 
 === Prompt 80 ===
 
@@ -266,7 +266,7 @@
 
 
 === Prompt 90 ===
- Do not output anything else other than your answer in the specified format.
+
 
 === Prompt 91 ===
 
@@ -278,5 +278,242 @@
 
 
 === Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+ In your response, the letter n should appear at least 15 times.
+
+=== Prompt 107 ===
+ Do not include keyword laugh in your response.
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+ In your response, the letter v should appear at least 18 times.
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+ Do not include keyword over in the response.
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+ In your entire response, refrain from the use of any commas.
+
+=== Prompt 141 ===
+ In your entire response, refrain from the use of ! (i.e. exclamation marks) as punctuation and in general.
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+ Do not include keyword you in your response.
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+ In your entire response, refrain from the use of any commas.
+
+=== Prompt 168 ===
+ Do not include keywords ['bottle', 'dust', 'injury', 'use'] in the response.
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+ In your entire response, refrain from the use of any commas.
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
 
 

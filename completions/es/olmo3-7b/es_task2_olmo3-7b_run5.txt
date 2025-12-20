@@ -53,7 +53,7 @@
 
 
 === Prompt 19 ===
- In your response, the letter s should appear at least 13 times.
+
 
 === Prompt 20 ===
 
@@ -86,7 +86,7 @@
 
 
 === Prompt 30 ===
- Do not write anything after the final answer other than the JSON.
+
 
 === Prompt 31 ===
 
@@ -110,7 +110,7 @@
 
 
 === Prompt 38 ===
-
+ In your response, the letter m should appear at least 12 times.
 
 === Prompt 39 ===
 
@@ -119,7 +119,7 @@
 
 
 === Prompt 41 ===
-
+ In your entire response, refrain from the use of any commas.
 
 === Prompt 42 ===
 
@@ -146,7 +146,7 @@
 
 
 === Prompt 50 ===
-
+ In your response, the word emphasis should appear 6 times.
 
 === Prompt 51 ===
 
@@ -161,16 +161,16 @@
 
 
 === Prompt 55 ===
- Do not include keyword escalation in the response.
+
 
 === Prompt 56 ===
- In your response, the letter y should appear at least 11 times.
+
 
 === Prompt 57 ===
 
 
 === Prompt 58 ===
- In your response, the word dealer should appear less than 4 times.
+
 
 === Prompt 59 ===
 
@@ -182,7 +182,7 @@
 
 
 === Prompt 62 ===
-
+ In your entire response, refrain from the use of ! (i.e. exclamation marks) as punctuation and in general.
 
 === Prompt 63 ===
 
@@ -191,10 +191,10 @@
 
 
 === Prompt 65 ===
-
+ Do not write anything else. Only the JSON and the answer should be present.
 
 === Prompt 66 ===
- In your response, the letter v should appear at least 19 times.
+
 
 === Prompt 67 ===
 
@@ -221,22 +221,22 @@
 
 
 === Prompt 75 ===
- In your response, the letter y should appear at least 14 times.
+
 
 === Prompt 76 ===
-
+ In your entire response, refrain from the use of any commas.
 
 === Prompt 77 ===
- Do not include keyword Coño, in the response.
+
 
 === Prompt 78 ===
 
 
 === Prompt 79 ===
-
+ In your response, the letter s should appear at least 18 times.
 
 === Prompt 80 ===
-
+ In your entire response, refrain from the use of ! (i.e. exclamation marks) as punctuation and in general.
 
 === Prompt 81 ===
 
@@ -245,19 +245,19 @@
 
 
 === Prompt 83 ===
-
+ Do not include keyword also in the response.
 
 === Prompt 84 ===
 
 
 === Prompt 85 ===
-
+ In your response, the word head should appear less than 6 times.
 
 === Prompt 86 ===
 
 
 === Prompt 87 ===
-
+ In your response, the letter g should appear at least 10 times.
 
 === Prompt 88 ===
 
@@ -266,7 +266,7 @@
 
 
 === Prompt 90 ===
- Do not output anything else other than your answer in the specified format.
+
 
 === Prompt 91 ===
 
@@ -275,8 +275,245 @@
 
 
 === Prompt 93 ===
-
+ In your response, the letter s should appear at least 4 times.
 
 === Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+ Do not write explanations.
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+ In your entire response, refrain from the use of ! (i.e. exclamation marks) as punctuation and in general.
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+ In your response, the word tax should appear less than 4 times.
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+ In your response, the letter v should appear at least 17 times.
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+ In your response, the letter g should appear at least 4 times.
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+ In your entire response, refrain from the use of any commas.
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+ Do not include keywords ['collar', 'common', 'intention', 'skill'] in the response.
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+ Do not include keywords ['bid', 'copy', 'day', 'hurry'] in the response.
+
+=== Prompt 167 ===
+ In your response, the word device should appear less than 4 times.
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+ In your response, the letter j should appear less than 6 times.
+
+=== Prompt 172 ===
+ Do not include keyword es in the response.
+
+=== Prompt 173 ===
 
 

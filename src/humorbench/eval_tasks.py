@@ -34,9 +34,12 @@ if __name__ == "__main__":
         "ministral-8b"
     ]
     dataset_path = "../../datasets/labeled/es_labelled.tsv"
-    run_path_pref = "/nfshomes/ldu0040/humorbench/completions/es/"
-    out_path = "/nfshomes/ldu0040/humorbench/results/es/csvs/es"
-    cm_save_path = "/nfshomes/ldu0040/humorbench/results/es/confusion_matrices/"
+    # run_path_pref = "/nfshomes/ldu0040/humorbench/completions/es/"
+    # out_path = "/nfshomes/ldu0040/humorbench/results/es/csvs/es"
+    # cm_save_path = "/nfshomes/ldu0040/humorbench/results/es/confusion_matrices/"
+    run_path_pref = "/fs/clip-projects/rlab/atrey/humorbench/completions/es/"
+    out_path = "/fs/clip-projects/rlab/atrey/humorbench/results/es/csvs/es"
+    cm_save_path = "/fs/clip-projects/rlab/atrey/humorbench/results/es/confusion_matrices/"
     joke_col_name = "Joke"
 
     for model in models:
