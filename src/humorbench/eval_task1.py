@@ -3,6 +3,9 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
+from sklearn.metrics import f1_score, roc_auc_score
+from sklearn.preprocessing import label_binarize
 
 def extract_answers(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
@@ -16,6 +19,7 @@ def extract_answers(filepath):
     for block in blocks:
         block = block.strip()
         if not block:
+            results.append("")
             continue
 
         # Extract the first array object in the block
@@ -23,14 +27,13 @@ def extract_answers(filepath):
         if not matches:
             results.append("")
             continue
-
         json_str = matches[-1]
 
         try:
             parsed = json.loads(json_str)
             results.append(parsed['category'])
         except json.JSONDecodeError:
-            # Skip malformed entries
+            results.append("")
             continue
 
     return results
@@ -57,9 +60,7 @@ def eval_pass_at_k(completions, ground_truths, k):
     total = 0
     num_correct = 0
     labels = [
-        'satire',
-        'parody',
-        'irony',
+        'satire/parody/irony',
         'aggressive',
         'dry',
         'self-deprecating',
@@ -71,6 +72,10 @@ def eval_pass_at_k(completions, ground_truths, k):
         'dark',
         'NA'
     ]
+
+    y_true = []
+    y_pred = []
+
     confusion_matrix = {}
     for label in labels:
         confusion_matrix[label] = {}
@@ -78,36 +83,85 @@ def eval_pass_at_k(completions, ground_truths, k):
             confusion_matrix[label][l] = 0
 
     for completion, truth in zip(completions, ground_truths):
+        truth = truth.strip()
+        if truth == 'surreal' or truth == 'absurdism':
+            truth = 'surreal/absurdism'
+        if truth == 'observational' or truth == 'anecdotal':
+            truth = 'observational/anecdotal'
+
+        if "satire" in truth or "parody" in truth or "irony" in truth:
+            truth = 'satire/parody/irony'
         correct = False
         while len(completion) < k:
             completion.append("")
         for i in range(k):
             if i < len(completion):
-                pred = completion[i]
+                pred = completion[i].strip()
             else:
                 pred = 'NA'
             if truth in confusion_matrix:
                 sub_matrix = confusion_matrix[truth]
             else:
                 sub_matrix = confusion_matrix['NA']
+                truth = 'NA'
+            if pred == 'surreal' or pred == 'absurdism':
+                pred = 'surreal/absurdism'
+            if pred == 'observational' or pred == 'anecdotal':
+                pred = 'observational/anecdotal'
+            if "satire" in pred or "parody" in pred or "irony" in pred:
+                pred = 'satire/parody/irony'
             if pred in sub_matrix:
                 sub_matrix[pred] += 1
             else:
                 sub_matrix['NA'] += 1
+            y_true.append(truth)
+            y_pred.append(pred)
             correct = correct or (truth == pred)
         if correct:
             num_correct += 1
         total += 1
-    return num_correct, total, confusion_matrix
+    f1 = f1_score(y_true, y_pred, average="macro")
 
-def main():
-    completions = extract_answers("/nfshomes/ldu0040/humorbench/src/humorbench/en_task1_qwen3-8b_run1.txt")
-    out1 = insert_answers([], completions)
-    dataset = pd.read_csv('../../datasets/labeled/en_task1&2.tsv', sep='\t')
-    task1 = dataset[['Joke', 'Task1 Label']].copy().dropna()
-    labels = task1['Task1 Label'].tolist()[:len(completions)]
-    num_correct, total, cm = eval_pass_at_k(out1, labels, 1)
-    print(num_correct, total)
+    classes = np.unique(y_true)
+    y_true_bin = label_binarize(y_true, classes=classes)
+    y_pred_bin = label_binarize(y_pred, classes=classes)
+
+    auc = roc_auc_score(
+        y_true_bin,
+        y_pred_bin,
+        average="macro",
+        multi_class="ovr"
+    )
+
+    return num_correct, total, confusion_matrix, f1, auc
+
+def eval_task1(dataset_path, run_path, save_path, joke_col_name, model):
+    print("Extracting Run 1")
+    comp1 = extract_answers(f"{run_path}_run1.txt")
+    print("Extracting Run 2")
+    comp2 = extract_answers(f"{run_path}_run2.txt")
+    print("Extracting Run 3")
+    comp3 = extract_answers(f"{run_path}_run3.txt")
+    print("Extracting Run 4")
+    comp4 = extract_answers(f"{run_path}_run4.txt")
+    print("Extracting Run 5")
+    comp5 = extract_answers(f"{run_path}_run5.txt")
+    out = insert_answers([], comp1)
+    out = insert_answers(out, comp2)
+    out = insert_answers(out, comp3)
+    out = insert_answers(out, comp4)
+    out = insert_answers(out, comp5)
+    dataset = pd.read_csv(dataset_path, sep='\t')
+    task1 = dataset[[joke_col_name, 'Task1 Label']].copy().dropna()
+    labels = task1['Task1 Label'].tolist()[:len(comp1)]
+    num_correct, total, cm, f1, auc = eval_pass_at_k(out, labels, 1)
+    print("===== Pass@1 =====")
+    print("Correct: ", num_correct)
+    print("Total: ", total)
+    print("Accuracy: ", num_correct / total)
+    print("F1 Score: ", f1)
+    print("AUC: ", auc)
+    pass_at_1_metrics = (num_correct / total, f1, auc)
     cm_df = pd.DataFrame.from_dict(cm, orient="index")
 
     ls = sorted(cm_df.columns)
@@ -124,9 +178,38 @@ def main():
 
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
-    plt.title("Task 1 Confusion Matrix")
+    plt.title(f"Task 1 Confusion Matrix {model} Pass@1")
     plt.tight_layout()
-    plt.savefig("task1_confusion_matrix.png")
+    plt.savefig(f"{save_path}_pass@1.png")
+    plt.close()
 
-if __name__ == "__main__":
-    main()
+    num_correct, total, cm, f1, auc = eval_pass_at_k(out, labels, 5)
+    print("===== Pass@5 =====")
+    print("Correct: ", num_correct)
+    print("Total: ", total)
+    print("Accuracy: ", num_correct / total)
+    print("F1: ", f1)
+    print("AUC: ", auc)
+    pass_at_5_metrics = (num_correct / total, f1, auc)
+    cm_df = pd.DataFrame.from_dict(cm, orient="index")
+
+    ls = sorted(cm_df.columns)
+    cm_r = cm_df.reindex(index=ls, columns=ls, fill_value=0)
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(
+        cm_r,
+        annot=True,
+        fmt="d",
+        cmap="Blues",
+        xticklabels=ls,
+        yticklabels=ls
+    )
+
+    plt.xlabel("Predicted label")
+    plt.ylabel("True label")
+    plt.title(f"Task 1 Confusion Matrix {model} Pass@5")
+    plt.tight_layout()
+    plt.savefig(f"{save_path}_pass@5.png")
+    plt.close()
+
+    return pass_at_1_metrics, pass_at_5_metrics
