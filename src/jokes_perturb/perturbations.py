@@ -6,18 +6,19 @@ import random
 
 from .tokenization import tokenize, detokenize
 
-# ---- WordNet support ----
+
+# WordNet support
 def _try_get_wordnet():
     try:
         import nltk
-        from nltk.corpus import wordnet as wn  # type: ignore
+        from nltk.corpus import wordnet as wn 
         return nltk, wn
     except Exception:
         return None, None
 
+
 def ensure_wordnet_downloaded() -> None:
     """
-    Best-effort download; safe to call repeatedly.
     If nltk isn't installed or downloads fail, synonym perturbation will no-op.
     """
     nltk, _ = _try_get_wordnet()
@@ -29,9 +30,12 @@ def ensure_wordnet_downloaded() -> None:
     except Exception:
         pass
 
+
 class Perturbation(Protocol):
     name: str
+
     def apply(self, text: str) -> str: ...
+
 
 @dataclass(frozen=True)
 class Pipeline:
@@ -43,15 +47,24 @@ class Pipeline:
             text = p.apply(text)
         return text
 
-# -------- Lexical perturbations --------
+
+# Lexical perturbations 
 @dataclass(frozen=True)
 class SynonymPerturbation:
+    """
+    WordNet synonym substitution. Supports multilingual lookups via OMW.
+
+    synonym_lang:
+      - "eng" for English (default)
+      - "spa" for Spanish
+    """
     name: str = "synonyms"
     prob: float = 0.2
-    _wn: object = None  # internal cache
+    synonym_lang: str = "eng"
+    _wn: object = None 
 
     def __post_init__(self):
-        nltk, wn = _try_get_wordnet()
+        _, wn = _try_get_wordnet()
         object.__setattr__(self, "_wn", wn)
 
     def _get_synonym(self, word: str) -> str:
@@ -59,17 +72,32 @@ class SynonymPerturbation:
         if wn is None:
             return word
 
-        synsets = wn.synsets(word)
+        # NLTK WordNet supports lang= for multilingual synset lookup (OMW).
+        try:
+            synsets = wn.synsets(word, lang=self.synonym_lang)
+        except TypeError:
+            # Fallback for older interfaces
+            synsets = wn.synsets(word)
+
         if not synsets:
             return word
 
         syn = random.choice(synsets)
-        lemmas = [
-            l.name().replace("_", " ")
-            for l in syn.lemmas()
-            if l.name().lower() != word.lower()
-        ]
-        return random.choice(lemmas) if lemmas else word
+
+        # Pull lemma names in the requested language if possible
+        try:
+            lemma_names = syn.lemma_names(lang=self.synonym_lang)
+        except TypeError:
+            lemma_names = [l.name() for l in syn.lemmas()]
+
+        candidates = []
+        for name in lemma_names:
+            # Normalize underscores
+            cand = name.replace("_", " ")
+            if cand.lower() != word.lower():
+                candidates.append(cand)
+
+        return random.choice(candidates) if candidates else word
 
     def apply(self, text: str) -> str:
         tokens = tokenize(text)
@@ -81,6 +109,7 @@ class SynonymPerturbation:
                 new_tokens.append(tok)
         return detokenize(new_tokens)
 
+
 @dataclass(frozen=True)
 class SwapOrderPerturbation:
     name: str = "swap_word_order"
@@ -90,14 +119,19 @@ class SwapOrderPerturbation:
         tokens = tokenize(text)
         i = 0
         while i < len(tokens) - 1:
-            if tokens[i].isalpha() and tokens[i + 1].isalpha() and random.random() < self.swap_prob:
+            if (
+                tokens[i].isalpha()
+                and tokens[i + 1].isalpha()
+                and random.random() < self.swap_prob
+            ):
                 tokens[i], tokens[i + 1] = tokens[i + 1], tokens[i]
                 i += 2
             else:
                 i += 1
         return detokenize(tokens)
 
-# -------- Orthographic perturbations --------
+
+# Orthographic perturbations
 DEFAULT_KEYBOARD_NEIGHBORS: Dict[str, str] = {
     "a": "qws",
     "s": "awed",
@@ -107,6 +141,7 @@ DEFAULT_KEYBOARD_NEIGHBORS: Dict[str, str] = {
     "i": "uok",
     "n": "bhm",
 }
+
 
 def _random_typo(word: str, char_prob: float, keyboard_neighbors: Dict[str, str]) -> str:
     chars = list(word)
@@ -133,12 +168,13 @@ def _random_typo(word: str, char_prob: float, keyboard_neighbors: Dict[str, str]
             i += 1
     return "".join(out)
 
+
 @dataclass(frozen=True)
 class TypoPerturbation:
     name: str = "typos"
     word_prob: float = 0.2
     char_prob: float = 0.1
-    keyboard_neighbors: Dict[str, str] = None
+    keyboard_neighbors: Optional[Dict[str, str]] = None
 
     def __post_init__(self):
         if self.keyboard_neighbors is None:
@@ -149,12 +185,15 @@ class TypoPerturbation:
         new_tokens: List[str] = []
         for tok in tokens:
             if tok.isalpha() and random.random() < self.word_prob:
-                new_tokens.append(_random_typo(tok, self.char_prob, self.keyboard_neighbors))
+                new_tokens.append(
+                    _random_typo(tok, self.char_prob, self.keyboard_neighbors)  # type: ignore[arg-type]
+                )
             else:
                 new_tokens.append(tok)
         return detokenize(new_tokens)
 
-# -------- Cultural / dialect shift --------
+
+# Cultural / dialect shift
 DEFAULT_CULTURAL_MAP: Dict[str, str] = {
     "soccer": "football",
     "fries": "chips",
@@ -168,10 +207,11 @@ DEFAULT_CULTURAL_MAP: Dict[str, str] = {
     "starbucks": "costa",
 }
 
+
 @dataclass(frozen=True)
 class CulturalShiftPerturbation:
     name: str = "cultural_shift"
-    mapping: Dict[str, str] = None
+    mapping: Optional[Dict[str, str]] = None
 
     def __post_init__(self):
         if self.mapping is None:
@@ -182,8 +222,8 @@ class CulturalShiftPerturbation:
         new_tokens: List[str] = []
         for tok in tokens:
             key = tok.lower()
-            if key in self.mapping:
-                repl = self.mapping[key]
+            if key in self.mapping:  # type: ignore[operator]
+                repl = self.mapping[key]  # type: ignore[index]
                 if tok and tok[0].isupper():
                     repl = repl.capitalize()
                 new_tokens.append(repl)
@@ -191,18 +231,30 @@ class CulturalShiftPerturbation:
                 new_tokens.append(tok)
         return detokenize(new_tokens)
 
-# -------- Default pipelines --------
-def make_default_pipelines() -> Dict[str, Perturbation]:
+
+# Default pipelines
+def make_default_pipelines(
+    *,
+    synonym_lang: str = "eng",
+    include_cultural: bool = True,
+) -> Dict[str, Perturbation]:
     """
-    Returns the four perturbation configs.
+    Returns perturbation configs.
+
+    synonym_lang:
+      - "eng" for English
+      - "spa" for Spanish
+
+    include_cultural:
+      - True for English experiments
+      - False for Spanish (per your plan)
     """
-    # Ensure WordNet is available if possible (no-op otherwise)
     ensure_wordnet_downloaded()
 
     semantic_preserving = Pipeline(
         name="semantic_preserving",
         steps=[
-            SynonymPerturbation(prob=0.1),
+            SynonymPerturbation(prob=0.1, synonym_lang=synonym_lang),
             TypoPerturbation(word_prob=0.05, char_prob=0.05),
         ],
     )
@@ -210,7 +262,7 @@ def make_default_pipelines() -> Dict[str, Perturbation]:
     semantic_drift = Pipeline(
         name="semantic_drift",
         steps=[
-            SynonymPerturbation(prob=0.4),
+            SynonymPerturbation(prob=0.4, synonym_lang=synonym_lang),
             SwapOrderPerturbation(swap_prob=0.3),
             TypoPerturbation(word_prob=0.3, char_prob=0.15),
         ],
@@ -218,11 +270,13 @@ def make_default_pipelines() -> Dict[str, Perturbation]:
 
     ortho_typo = TypoPerturbation(name="ortho_typo", word_prob=0.3, char_prob=0.2)
 
-    cultural_shift = CulturalShiftPerturbation()
-
-    return {
+    pipelines: Dict[str, Perturbation] = {
         "perturbed_joke_semantic_preserving": semantic_preserving,
         "perturbed_joke_semantic_drift": semantic_drift,
         "perturbed_joke_ortho_typo": ortho_typo,
-        "perturbed_joke_cultural_shift": cultural_shift,
     }
+
+    if include_cultural:
+        pipelines["perturbed_joke_cultural_shift"] = CulturalShiftPerturbation()
+
+    return pipelines

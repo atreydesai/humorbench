@@ -18,7 +18,7 @@ class PunchlineOnly:
 
         out_lines = []
         for joke_line, label_line in zip(j_lines, l_lines):
-            if label_line.strip() == "punchline":
+            if label_line.strip().lower() == "punchline":
                 out_lines.append(self.inner.apply(joke_line))
             else:
                 out_lines.append(joke_line)

@@ -1,0 +1,12 @@
+{
+  "input_tsv": "datasets/labeled/es_labelled.tsv",
+  "seed": 42,
+  "row_count": 173,
+  "synonym_lang": "spa",
+  "include_cultural": false,
+  "outputs": {
+    "perturbed_joke_semantic_preserving": "perturbed_es\\jokes_semantic_preserving.tsv",
+    "perturbed_joke_semantic_drift": "perturbed_es\\jokes_semantic_drift.tsv",
+    "perturbed_joke_ortho_typo": "perturbed_es\\jokes_ortho_typo.tsv"
+  }
+}
