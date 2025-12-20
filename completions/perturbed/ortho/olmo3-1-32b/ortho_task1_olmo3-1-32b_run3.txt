@@ -1,0 +1,1430 @@
+=== Prompt 1 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a specific anecdote about Koko the gorilla and Robin Williams, and uses a storytelling style to deliver humor. It references real events but adds humorous embellishments and hypothetical scenarios."}
+
+=== Prompt 2 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a play on words involving 'four times as many steps' referencing a horse's legs and the common step-counting metric for humans, leading to a humorous twist at the end."}
+
+=== Prompt 3 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is structured as a personal narrative filled with specific stories and experiences from the speaker's life, using these to humorously comment on the nature of social media and influencers."}
+
+=== Prompt 4 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke uses everyday observations and personal experience to comment on modern culture and attitudes toward wealth, which is characteristic of observational humor. The comedian draws on relatable examples and shares personal thoughts to highlight societal trends."}
+
+=== Prompt 5 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the behavior and stereotypes of rednecks, George Bush, and different social groups, using personal anecdotes and relatable scenarios rather than relying on wordplay or irony."}
+
+=== Prompt 6 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story told from the narrator's perspective, focusing on a specific incident with vivid details, which is characteristic of an anecdotal joke."}
+
+=== Prompt 7 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references a specific TV show (Oprah) and contemporary societal issues (gold-digging, age disparities in relationships), making it topical in nature. It also incorporates observational humor about gender dynamics and personal experience, but the strongest fit is topical due to its focus on current media and social themes."}
+
+=== Prompt 8 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal as it recounts a specific personal experience and narrative, using a detailed story to deliver its punchline and commentary."}
+
+=== Prompt 9 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke offers a humorous take on the experience of working in cubicles, highlighting the absurdities and disappointments in office culture through detailed, relatable descriptions. It uses exaggerated scenarios and vivid imagery to comment on a common workplace situation, which is characteristic of observational comedy."}
+
+=== Prompt 10 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on humorous observations about technology and personal incompetence, delivered with clever wordplay and relatable anecdotes, making it witty."}
+
+=== Prompt 11 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the speaker mocks their own flaws and insecurities, particularly their tendency to take out frustrations on their girlfriend and their dismissive attitude toward the challenges of being a stay-at-home mom."}
+
+=== Prompt 12 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on the narrator's personal experience with getting a dog from a pound and his interactions with his girlfriend, using these events to build humor."}
+
+=== Prompt 13 ===
+
+assistant
+{"category": "aggressive", "reasoning": "The joke uses harsh language and targets vulnerable groups, with a tone that is confrontational and insensitive, fitting the aggressive category."}
+
+=== Prompt 14 ===
+
+assistant
+{"category": "aggressive", "reasoning": "The joke uses harsh, dismissive language and encourages dangerous, self-harming behavior, which aligns with an aggressive comedic style rather than others like satire or irony."}
+
+=== Prompt 15 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke comments on modern social phenomena, cultural changes in New York, and generational differences in attitudes, all hallmarks of observational comedy."}
+
+=== Prompt 16 ===
+
+assistant
+{"category": "aggressive", "reasoning": "The joke uses pointed criticism and direct confrontation toward white women, employing sarcastic and inflammatory language, which aligns with an aggressive comedic style."}
+
+=== Prompt 17 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references a current cultural event (Pride Month) and discusses recent changes in New York City, making it topical. It also touches on issues of representation and historical comparison in a way that is relevant to ongoing social conversations."}
+
+=== Prompt 18 ===
+
+assistant
+{"category": "aggressive", "reasoning": "The joke uses strong, judgmental language and expresses outrage in a confrontational tone, particularly regarding LGBTQ+ topics, which fits the aggressive category."}
+
+=== Prompt 19 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated, deadpan delivery and subtle humor to point out contradictions and absurdities, characteristic of dry humor."}
+
+=== Prompt 20 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke pokes fun at human traditions and the speaker's own confusion about religious symbolism, reflecting a self-aware and self-mocking tone."}
+
+=== Prompt 21 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke is topical because it addresses current events related to Amazon deforestation, Brazilian politics, and environmental issues, grounding its humor in recent, real-world developments."}
+
+=== Prompt 22 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses an understated delivery and a play on the common idiom to express a sarcastic sentiment in a matter-of-fact way, characteristic of dry humor."}
+
+=== Prompt 23 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references current events, COVID-19, recent political figures, and the 2020 election, making it topical. It directly addresses social and political issues of the time, reflecting the concerns and changes of the moment."}
+
+=== Prompt 24 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story filled with specific, detailed anecdotes about the comedian's cousin John and various experiences, which defines it as anecdotal humor."}
+
+=== Prompt 25 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on the storyteller's personal experiences and observations during his travels and interactions with various people."}
+
+=== Prompt 26 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story from the comedian's life, detailing specific events and characters, which fits the anecdotal style."}
+
+=== Prompt 27 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the speaker's own experiences and perspectives humorously, particularly in comparing childhood games to how the speaker approaches marijuana laws, and then transitions to self-mockery about obituaries and personal habits, making it self-deprecating."}
+
+=== Prompt 28 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references current cultural phenomena (Starbucks liberalism, CNN reporting style, modern sandwich complaints) and contrasts them with historical contexts, making it topical in its commentary on contemporary attitudes and media."}
+
+=== Prompt 29 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story told by the comedian about their own experiences in Amsterdam and the Anne Frank house, which fits the anecdotal style as it relies on narrative and personal recollection."}
+
+=== Prompt 30 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a humorous story about the speaker's experiences with egg-dyeing kits and a medical TV special, relying on personal anecdotes and detailed storytelling."}
+
+=== Prompt 31 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on universal human experiences, such as not exercising after school and the difficulty of starting new healthy habits, which is characteristic of observational comedy."}
+
+=== Prompt 32 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker humorously downplaying their own job difficulties while exaggerating and mocking the perceived mysteriousness of a female coworker's job, using absurd imagery and self-mockery."}
+
+=== Prompt 33 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses a series of increasingly ridiculous and illogical events (filling cargo pants with change, setting off a car alarm to give to a homeless person, inventing Oktoberfest) to create a surreal and nonsensical narrative typical of absurdism."}
+
+=== Prompt 34 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke features the comedian making fun of their own insecurities, awkwardness, and perceived flaws, which is characteristic of self-deprecating humor."}
+
+=== Prompt 35 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's own perceived shortcomings and humorous takes on parenting and grandparenting, revealing a playful, self-mocking tone."}
+
+=== Prompt 36 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke contains personal admissions and exaggerations about the speaker's life and relationships, including the punchline about the girlfriend not existing, which is a classic self-deprecating twist."}
+
+=== Prompt 37 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal narrative about the speaker's experiences at the airport and with boxing, relying on a story format rather than relying on irony, satire, or other stylistic devices as the main comedic element."}
+
+=== Prompt 38 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understatement, deadpan delivery, and subtle observations about Atlantic City to humorously critique its state, fitting the dry humor style."}
+
+=== Prompt 39 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal narrative about the speaker's early experiences with religion and school, told in a detailed, story-like manner. It relies on recounting specific events and personal reactions, which is characteristic of anecdotal humor."}
+
+=== Prompt 40 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is primarily observational, as it reflects on the nature of stand-up comedy, cultural phenomena, and the speaker's experiences and perceptions in a reflective and analytical manner."}
+
+=== Prompt 41 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke addresses current events involving Kanye West and Kyrie Irving, making direct references to recent controversies and their cultural and political context, which qualifies it as topical."}
+
+=== Prompt 42 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is rooted in the comedian's personal observations and experiences living in Ohio, offering insights into why Trump was popular and how people perceived political events. The humor arises from relatable, everyday perspectives and the comedian's candid commentary on social and political phenomena."}
+
+=== Prompt 43 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever comparisons and playful language to make humorous observations about current events and social attitudes, fitting the 'witty' category."}
+
+=== Prompt 44 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the narrator's personal experiences and self-aware humor about drinking as a dwarf, making fun of himself in a lighthearted way."}
+
+=== Prompt 45 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal as it recounts a personal story and experience the speaker had with a tall friend, focusing on humorous details from that specific incident."}
+
+=== Prompt 46 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the narrator humorously shares embarrassing and unprofessional moments from their own life, including being fired and making controversial statements, while also poking fun at their own physical appearance and biases."}
+
+=== Prompt 47 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story told from the narrator's perspective, recounting a specific incident and the humorous misunderstanding that followed. It relies on narrative and a real-life experience rather than relying on any of the other listed comedic techniques."}
+
+=== Prompt 48 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker making a car accident 'better' through their own foolishness and embarrassment, highlighting their own flaws in a humorous way."}
+
+=== Prompt 49 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is about the speaker's own struggles with gaining weight, using humor to poke fun at their personal experience. It features personal anecdotes and a lighthearted take on an embarrassing situation, which are hallmarks of self-deprecating humor."}
+
+=== Prompt 50 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the comedian poking fun at their own perceived shortcomings and awkwardness, especially in the context of losing to a pregnant woman and making mistakes in tennis and scoring, which aligns with self-deprecating humor."}
+
+=== Prompt 51 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a humorous recounting of the speaker's observations and experiences with the scoring system in tennis, sharing personal anecdotes and commentary, which fits the anecdotal style."}
+
+=== Prompt 52 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke uses exaggerated and absurd ideas, such as dropping planeloads of boots to resolve conflict, to criticize political discourse and the tendency to overreact to decisions. This approach is characteristic of satire."}
+
+=== Prompt 53 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is structured as a short story with a humorous personal perspective and a proposed solution, fitting the anecdotal style. It also employs a touch of irony in suggesting a 'good dad' could resolve a complex conflict."}
+
+=== Prompt 54 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke uses humor to critique or mock a real-world political figure and situation, employing exaggeration and irony to highlight absurdities in North Korean governance and Kim Jong-un's persona."}
+
+=== Prompt 55 ===
+
+assistant
+{"category": "irony", "reasoning": "The joke uses a sarcastic twist where the implied message (that using binoculars suggests the enemy is already in a superior position) contradicts the intended intimidation, creating irony. The tone is also dry and observational, but the core comedic device is irony."}
+
+=== Prompt 56 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understatement and a deadpan delivery, presenting absurd situations with little emotional emphasis, which is characteristic of dry humor."}
+
+=== Prompt 57 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the behaviors and traditions of sports fans at baseball games, highlighting the disconnect between fan chants and the realities of the game. It uses real-life examples and observations to build its humor."}
+
+=== Prompt 58 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated humor and a deadpan delivery to highlight the absurdity of poorly run press conferences, relying on dry observation rather than obvious punchlines or exaggeration."}
+
+=== Prompt 59 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a specific story about watching a sports highlight and speculates humorously about the events and the sportscaster's commentary, fitting the anecdotal style."}
+
+=== Prompt 60 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the speaker's hypothetical financial ability to buy Tater Tots for life in a way that pokes fun at their own priorities and the absurdity of the 'prize,' revealing self-deprecating humor."}
+
+=== Prompt 61 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery, deadpan observations about baseball umpiring, and subtle, understated humor rather than exaggerated reactions or obvious punchlines."}
+
+=== Prompt 62 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal as it is a personal story about the speaker's father and family, filled with specific experiences and observations, rather than relying on a specific comedic device such as satire, irony, or wordplay."}
+
+=== Prompt 63 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it consists of a series of personal stories and humorous family interactions, relying on specific experiences and observations for its humor."}
+
+=== Prompt 64 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on personal stories and experiences the comedian shares about playing board games with their kids, which is characteristic of an anecdotal joke."}
+
+=== Prompt 65 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever, humorous wordplay and logical escalation to create a funny scenario, relying on sharp dialogue and absurdity to amuse the audience."}
+
+=== Prompt 66 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers a deadpan observation about the fleeting lifespan of Happy Meal toys, relying on understated humor and a lack of emotional investment, which is characteristic of dry comedy."}
+
+=== Prompt 67 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story from the narrator's childhood, recounting a humorous and specific event involving his brothers, which fits the anecdotal style."}
+
+=== Prompt 68 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's own aging and discomfort with hair color, using personal experience and humor to poke fun at themselves."}
+
+=== Prompt 69 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's aging body and humorous medical experiences, revealing vulnerability and self-mockery, which are hallmarks of self-deprecating humor."}
+
+=== Prompt 70 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery, subtle wordplay with 'laying' vs 'lying', and a lack of emotional emphasis, which are hallmarks of dry humor."}
+
+=== Prompt 71 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is structured as a personal narrative about the speaker's experiences with doctors, making it anecdotal. It also contains some observational humor about the specialization of doctors and veterinarians, but the primary delivery is through a personal story."}
+
+=== Prompt 72 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke uses exaggerated and ironic descriptions of outdated medical practices to critique the inefficiency and absurdity of the American healthcare system, which is characteristic of satire."}
+
+=== Prompt 73 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the narrator's personal discomfort and awkward thoughts during a massage, exposing their own insecurities and odd imaginings, which is characteristic of self-deprecating humor."}
+
+=== Prompt 74 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the comedian humorously discusses their own supposed quirks and challenges with OCD, downplaying the severity and poking fun at common misconceptions, while also revealing personal organizational methods in a relatable way."}
+
+=== Prompt 75 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a personal story about the narrator's experience with self-diagnosing OCD, relying on specific details and a sequence of events from their life. This narrative style fits the anecdotal category."}
+
+=== Prompt 76 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the comedian's personal quirks and anxieties about calendars and time zones, revealing humorous self-criticism and idiosyncratic thought processes, which is characteristic of self-deprecating humor."}
+
+=== Prompt 77 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a first-person narrative about the comedian's own experiences at parties, illustrating personal anecdotes and social situations, which fits the anecdotal style."}
+
+=== Prompt 78 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it revolves around personal experiences, preferences, and specific stories about the comedian's distaste for mushrooms and raisins, as well as a humorous anecdote about mayonnaise and New Year’s resolutions."}
+
+=== Prompt 79 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is built around the narrator's personal experiences and observations shared in a story-like manner, with humorous asides and reflections on language and social media."}
+
+=== Prompt 80 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses surreal and illogical scenarios, such as accidentally discovering water in a kitchen sink and imagining tiny Martians being crushed by rovers, which fits the style of absurdism."}
+
+=== Prompt 81 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever wordplay, logical absurdity, and satirical takes on criminal justice sayings, all delivered with a humorous twist that showcases wit and observational humor."}
+
+=== Prompt 82 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke draws humor from everyday situations that many people can relate to, specifically the annoyance of people with backpacks on planes and the lack of gratitude for sitting in an emergency exit seat. It highlights common, relatable frustrations in a lighthearted way."}
+
+=== Prompt 83 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker humorously criticizing their own expectations and limitations in a hypothetical animal rescue scenario, poking fun at their own sense of entitlement and naivety."}
+
+=== Prompt 84 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The comedian pokes fun at themselves and their own experiences with performing at venues with orchestras, highlighting the absurdity and their personal confusion, which is characteristic of self-deprecating humor."}
+
+=== Prompt 85 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke employs nonsensical scenarios, such as marching taxidermists and the convoluted invention of bagpipes, to highlight the absurdity of marching bands, fitting the absurdism category."}
+
+=== Prompt 86 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies heavily on the play on words and double meanings surrounding 'show horses' versus 'dumb old donkeys,' using humor derived from language rather than situational irony or satire."}
+
+=== Prompt 87 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story the comedian tells about their experience with the California driver’s license process and another incident while driving, making it anecdotal in nature."}
+
+=== Prompt 88 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the narrator humorously downplaying their own language abilities and heritage, poking fun at themselves and their limited skills, which is characteristic of self-deprecating humor."}
+
+=== Prompt 89 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is a humorous observation about the absurdity of airport and airline experiences, particularly the unexplained delays and unquestioning trust in authority, which is characteristic of observational comedy."}
+
+=== Prompt 90 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a personal story about the speaker's experience with a lost airline bag, fitting the anecdotal style. It relies on a narrative structure and relatable situation rather than relying on wordplay, irony, or other specific comedic devices."}
+
+=== Prompt 91 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal story about the narrator's experience at a greeting card store, featuring humorous observations about the specificity of card sections. This narrative style is characteristic of anecdotal humor."}
+
+=== Prompt 92 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is a humorous observation about inconsistencies in children's books and animal sounds, highlighting the absurdities in how these things are presented to kids, which is characteristic of observational comedy."}
+
+=== Prompt 93 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is a series of personal stories and observations about parenting and children's experiences, rather than relying on a specific comedic device like wordplay or irony."}
+
+=== Prompt 94 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is structured as a series of humorous personal anecdotes and observations about the speaker's experiences watching TV shows and reacting to them, which fits the anecdotal style."}
+
+=== Prompt 95 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke uses exaggerated and absurd examples from real political ads to critique the tactics and logic of political campaigns, which is a hallmark of satire."}
+
+=== Prompt 96 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke uses exaggerated scenarios and ironic commentary to critique the superficiality of political campaigning and fundraising, which are hallmark traits of satire."}
+
+=== Prompt 97 ===
+
+assistant
+{"category": "satire", "reasoning": "The joke mocks the clichéd and insincere language used in local news advertising, highlighting the absurdity of claiming a 'news team that cares' and implying skepticism toward news anchors' trustworthiness. This is a hallmark of satire, as it uses humor to critique and expose the ridiculousness of the subject."}
+
+=== Prompt 98 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story from the comedian's childhood and adulthood, sharing a narrative experience with humorous reflection, which fits the anecdotal style."}
+
+=== Prompt 99 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is a collection of personal stories and observations about aging, being a sports fan, and cultural experiences, told in a conversational and relatable style."}
+
+=== Prompt 100 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on the comedian's personal experiences growing up with immigrant parents and recounts specific stories and cultural misunderstandings."}
+
+=== Prompt 101 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the narrator's mother and their experiences with Jehovah’s Witnesses, which fits the anecdotal style. It relies on specific, relatable events and observations from the narrator's life."}
+
+=== Prompt 102 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal because it consists of a personal story about the comedian's experiences with working out, shopping for workout clothes, and growing up poor, using these experiences as the basis for humor."}
+
+=== Prompt 103 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke primarily uses observational humor to comment on the differences between growing up poor and wealthy, the pricing of organic food, and the absurdity of animal backstories at the grocery store."}
+
+=== Prompt 104 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on a clever and playful exchange between the characters, using wordplay and a shared heritage to create a humorous and warm conclusion."}
+
+=== Prompt 105 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the speaker's own background and experiences as the central subject, poking fun at their identity and the contradictions within it, which is characteristic of self-deprecating humor."}
+
+=== Prompt 106 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it recounts a personal story involving the narrator's experience with wakeboarding, hospitalization, and medical mishaps, using humor to highlight these events."}
+
+=== Prompt 107 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references current demographic changes in Ireland and makes light of immigration policy and stereotypes, which ties it to topical humor about recent events and societal trends."}
+
+=== Prompt 108 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun involving the term 'PK', which refers both to a penalty kick in soccer and to the footballer Piqué, creating a humorous double meaning."}
+
+=== Prompt 109 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it consists of a series of personal stories and family anecdotes, many of which are humorous and observational, but are rooted in the narrator's own life and experiences."}
+
+=== Prompt 110 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the narrator's personal experiences and insecurities, especially regarding his body and work ethic, making it self-deprecating in nature."}
+
+=== Prompt 111 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on personal stories and experiences from the comedian's childhood and work history."}
+
+=== Prompt 112 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on clever, humorous twists and wordplay, especially in the absurd suggestion of using a shoe as a pesticide and the narrator's mischievous workplace antics, making it witty rather than falling into other comedic categories."}
+
+=== Prompt 113 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses illogical reasoning and exaggeration to humorously suggest that smoking isn't harmful because old people are still alive despite smoking, which aligns with the style of absurdism."}
+
+=== Prompt 114 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's drinking habits, relying on a specific anecdotal experience for humor."}
+
+=== Prompt 115 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the quirky nature of Cracker Barrel's billboards and the possible misinterpretations by outsiders, making it an observational joke."}
+
+=== Prompt 116 ===
+
+assistant
+{"category": "dark", "reasoning": "The joke describes a man nearly dying in a hazardous ditch filled with dangerous materials, finding humor in a near-fatal accident and the nonchalant attitude of the characters. This makes it a clear example of dark humor."}
+
+=== Prompt 117 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the speaker's personal experiences and admissions (like stopping Botox and admitting to caring about popularity) to gently mock themselves, fitting the self-deprecating style."}
+
+=== Prompt 118 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers its facts in a matter-of-fact tone and uses understatement ('13 seconds. Isn’t that amazing?'), which are hallmarks of dry humor. There is no obvious sarcasm or irony, and the content is observational but presented with a dry delivery."}
+
+=== Prompt 119 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the comedian poking fun at their own past behavior, openly admitting to having chased and scared their employees, thereby exposing their own flaws in a humorous way."}
+
+=== Prompt 120 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on personal stories and experiences from the comedian's life, including family, upbringing, and interactions with others. These anecdotes are used to illustrate the comedian's quirks and observations about honesty and OCD."}
+
+=== Prompt 121 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers a mundane, understated statement about throwing gum and trash instead of having a pigeon, relying on a lack of enthusiasm or emotional investment for humor."}
+
+=== Prompt 122 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on the comedian's personal experiences and recounts specific events from her life, making it anecdotal. It also has elements of self-deprecating humor, but the dominant form is anecdotal due to the storytelling approach."}
+
+=== Prompt 123 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is observational as it humorously comments on everyday social and dining experiences, particularly focusing on the quirks of veganism, restaurant service, and bathroom attendants, drawing from common societal observations."}
+
+=== Prompt 124 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on the comedian's personal experiences and stories from their childhood, particularly regarding their religious upbringing and relationship with medicine."}
+
+=== Prompt 125 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever observations about air travel, medication commercials, and healthcare marketing, delivered with a humorous twist and sharp commentary. It relies on wordplay and irony but is primarily witty due to its playful, insightful tone."}
+
+=== Prompt 126 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's experiences with sports injuries, shoes, and socks, told in a humorous manner. This makes it primarily anecdotal, as it relies on a narrative from the comedian's life."}
+
+=== Prompt 127 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as Ellen DeGeneres shares a personal story about her experience trying to celebrate a birthday and the disconnect between her vacation aspirations and reality. The narrative style is based on a real-life experience with humorous observations."}
+
+=== Prompt 128 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies heavily on clever wordplay and puns related to the phrase 'sliced bread,' twisting historical context and common expressions for humorous effect."}
+
+=== Prompt 129 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the common yet overlooked fact that ladders are something adults buy, linking it to life stages and personal experiences, which is characteristic of observational comedy."}
+
+=== Prompt 130 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the universal experience of having a junk drawer with similar mysterious items, reflecting on how people assign meaning to mundane objects, which is a hallmark of observational comedy."}
+
+=== Prompt 131 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke relies heavily on the comedian's personal experiences and observations about everyday life, such as shampoo instructions and social behaviors, making it a classic observational comedy."}
+
+=== Prompt 132 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on personal observations and storytelling about everyday experiences with insects, rather than fitting neatly into another comedic category such as satire, irony, or wordplay."}
+
+=== Prompt 133 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses surreal and illogical scenarios, such as being handcuffed naked with a blow-up doll while wearing a captain's hat, and repeatedly juxtaposes the search for silence with chaotic real-life interruptions. These elements are characteristic of absurdism."}
+
+=== Prompt 134 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a long, detailed, and meandering personal narrative about everyday absurdities and imagination, characteristic of an anecdotal style. It relies on storytelling and specific scenarios rather than relying primarily on wordplay, irony, or other forms."}
+
+=== Prompt 135 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the ubiquitous, surreal experience of staying at a modern hotel with indistinguishable background music, highlighting the quirks of contemporary hospitality. The humor arises from the relatable yet slightly absurd situation, making it observational with a touch of absurdism, but primarily observational."}
+
+=== Prompt 136 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's own tendency to categorize music immediately and humorously admits to losing focus, making fun of themselves in the process."}
+
+=== Prompt 137 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal narrative about the speaker's experience and confusion at a foreign concert, fitting the anecdotal style. It relies on a story-like setup and punchline rather than other comedic devices."}
+
+=== Prompt 138 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is structured as a story told from a personal perspective, recounting an imagined exchange about the origins of a famous circus song. It relies on narrative and relatable scenarios rather than punchlines typical of other categories."}
+
+=== Prompt 139 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's own discomfort and embarrassment at wanting to leave a blues performance, revealing a humorous self-critical perspective."}
+
+=== Prompt 140 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses illogical reasoning and exaggeration to create a surreal scenario where doo-wop music is imagined as the heaviest and loudest genre, which is contrary to reality."}
+
+=== Prompt 141 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the speaker's pride and quirks as a drummer in a lighthearted, self-aware way, highlighting their own idiosyncrasies and judgments of others, which is characteristic of self-deprecating humor."}
+
+=== Prompt 142 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal because it draws from personal experience and common situations among drummers, sharing humorous observations and stories rather than relying on a specific comedic device like irony or wordplay."}
+
+=== Prompt 143 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke centers on an exaggerated and implausible musical device—the octa-pedal—that humorously defies real-world logic and conventions, fitting the absurdism category."}
+
+=== Prompt 144 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is a humorous observation about the variety of regional accents across the United States, delivered in a light-hearted, anecdotal manner. It catalogues and playfully mimics different accents, focusing on the speaker's experiences and observations while traveling."}
+
+=== Prompt 145 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke describes a relatable everyday situation with a light-hearted twist, focusing on observing common social interactions in elevators."}
+
+=== Prompt 146 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke plays with the idea of 'slowing down' words at the end of a sentence, using that literal action to create a pun about how people emphasize words in speech, making it a clever play on language."}
+
+=== Prompt 147 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke gently pokes fun at the speaker's own adjustment to parenthood and the way people talk about it, indicating self-aware humor and self-deprecation."}
+
+=== Prompt 148 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is based on the speaker's everyday observations and personal feelings about Burger King's brand struggles, making it observational in nature."}
+
+=== Prompt 149 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references historical medical practices and modern judgment of 18th-century doctors, making it topical as it relates to a specific subject from the past. The humor arises from contrasting contemporary attitudes with the limitations faced by historical figures."}
+
+=== Prompt 150 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understatement and a deadpan delivery to highlight the futility of repeated back surgery, characteristic of dry humor."}
+
+=== Prompt 151 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated delivery and subtle humor, relying on a matter-of-fact tone and understatement rather than obvious punchlines or exaggeration."}
+
+=== Prompt 152 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story based on the comedian's real-life experience at Disneyland, making it anecdotal in nature. It relies on describing a specific, humorous incident rather than fitting into other comedic styles like satire or wordplay."}
+
+=== Prompt 153 ===
+
+assistant
+{"category": "dark", "reasoning": "The joke plays with morbid themes like death, missing bodies, and terrifying funerals, aiming to unsettle or shock the audience with its grim humor."}
+
+=== Prompt 154 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the quirks and repetitive nature of drumming and drummers, drawing from the comedian's experience and observations in the music world."}
+
+=== Prompt 155 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is a series of humorous observations about different drummers and drumming habits, highlighting quirks and common behaviors in a light-hearted way."}
+
+=== Prompt 156 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated humor and a lack of emotional response to the absurd situation (the band using a foot pedal to loop guitar music endlessly and the overly gentle drumming), which is characteristic of dry humor."}
+
+=== Prompt 157 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke is based on the comedian's personal experience and observations of Tito Puente's performance habits, highlighting a recurring bit and the comedian's repeated enjoyment of it, which is characteristic of observational humor."}
+
+=== Prompt 158 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a humorous recounting of personal experiences and typical band dynamics, relying on stories and observations from band life rather than relying on wordplay, irony, or satire."}
+
+=== Prompt 159 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously comments on the common experiences and stereotypes within a musical band, particularly focusing on drummers and sound guys, making it observational in nature."}
+
+=== Prompt 160 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a detailed story about two brothers at the airport, focusing on their dialogue and misunderstandings, which fits the anecdotal style."}
+
+=== Prompt 161 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is an anecdote about the speaker's personal experience with John Waters, using a real-life story to illustrate a point about inspiration and validation."}
+
+=== Prompt 162 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the narrator humorously acknowledging his own tendencies and preferences in dating, particularly towards 'crazy' women, which is a self-aware and self-mocking approach."}
+
+=== Prompt 163 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated humor and a deadpan delivery to compare dating over 40 to shopping at TJ Maxx, relying on dry wit rather than exaggeration or punchlines."}
+
+=== Prompt 164 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a personal story about the narrator's experience with dinner dates, using a humorous anecdote to illustrate the point. It is not primarily focused on wordplay, irony, or satire, but rather recounts an amusing real-life situation."}
+
+=== Prompt 165 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever wordplay and sharp, humorous twists on dating and financial themes, relying on quick, clever language rather than irony or dark humor."}
+
+=== Prompt 166 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses humor to poke fun at the speaker's age and the marketing of dating sites for older adults, revealing a self-aware and self-mocking tone."}
+
+=== Prompt 167 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker humorously acknowledging and embracing their own shortcomings and experiences as a short person, using personal anecdotes and honest confessions to create a comedic effect."}
+
+=== Prompt 168 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal story about the narrator's own injuries and experiences with aging, which fits the anecdotal style. It relies on specific, relatable events and humorous observations from the speaker's life."}
+
+=== Prompt 169 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker humorously criticizing their own appearance and age, using exaggerated and absurd comparisons, which is characteristic of self-deprecating humor."}
+
+=== Prompt 170 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal-sounding narrative about Russian culture and personal experiences with gifts, which fits the anecdotal style."}
+
+=== Prompt 171 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal story with specific details about the narrator's family and a humorous incident, fitting the anecdotal style."}
+
+=== Prompt 172 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on increasingly bizarre and illogical scenarios—such as using a tray as a harmonica and swallowing a dime—to create humor through absurdity rather than traditional punchlines."}
+
+=== Prompt 173 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the narrator's experience at the gym, sharing a humorous anecdote rather than relying on wordplay, satire, or other comedic devices."}
+
+=== Prompt 174 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the narrator humorously complains about dental experiences and personal flaws, poking fun at their own fears, aging, and appearance in a lighthearted way."}
+
+=== Prompt 175 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's own life choices and familial expectations, using humor to highlight their own situation and the irony of their parents' expectations, which makes it self-deprecating."}
+
+=== Prompt 176 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke uses the narrator's own quirks and perceived oddities for humor, especially with references to the extra finger and the absurd situations it creates, which is characteristic of self-deprecating humor."}
+
+=== Prompt 177 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on the clever and humorous way the host reacted to Pepa's dramatic entrance, highlighting the comedic timing and wordplay in his surprise."}
+
+=== Prompt 178 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke reveals the speaker's personal experiences and vulnerabilities in a humorous way, making it self-deprecating."}
+
+=== Prompt 179 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke presents a series of bleak, literal, and understated statements about a town meeting during the aftermath of a war, using deadpan delivery and understatement rather than punchlines or exaggeration."}
+
+=== Prompt 180 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on a clever twist in the narrative where the man's statement contradicts his actual location, resulting in a humorous and clever punchline."}
+
+=== Prompt 181 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke centers on a real-life figure and current events (Governor Andrew Cuomo's COVID press conferences), making it topical in nature. It humorously comments on the specific circumstances and language of the pandemic era."}
+
+=== Prompt 182 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it is based on personal stories and experiences shared about the narrator's grandmother, with humorous elements woven into real-life events."}
+
+=== Prompt 183 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal story from the comedian's experience at the airport, fitting the anecdotal style. It relies on a detailed narrative with specific events and dialogue, characteristic of anecdotal humor."}
+
+=== Prompt 184 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal narrative and observations about interactions with old ladies in everyday settings, fitting the anecdotal style."}
+
+=== Prompt 185 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke pokes fun at the speaker's own family history and personal circumstances in a light-hearted, self-mocking way, which is characteristic of self-deprecating humor."}
+
+=== Prompt 186 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously compares smartphone addiction to alcohol addiction, highlighting relatable behaviors and consequences in modern life."}
+
+=== Prompt 187 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke observes and humorously exaggerates modern dependencies on technology compared to historical hardships, using relatable analogies and personal anecdotes."}
+
+=== Prompt 188 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever reasoning and a humorous analogy to highlight the absurdity of certain social behaviors, making it witty rather than falling strictly into another category like absurdism or satire."}
+
+=== Prompt 189 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on clever manipulation of phrases and playful twists on expected dialogue, which is characteristic of wordplay."}
+
+=== Prompt 190 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's experience at the doctor's office, relying on a specific anecdote to deliver humor."}
+
+=== Prompt 191 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on clever wordplay and unexpected punchlines, such as the double meaning of 'blow' and the humorous exchange about cardio, which demonstrates a sharp, humorous style rather than fitting neatly into other categories like satire or irony."}
+
+=== Prompt 192 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's personal dislike of wrestling practice and their humorous, relatable thoughts while trying to do push-ups, making it self-deprecating."}
+
+=== Prompt 193 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on clever wordplay and double entendres, particularly with wrestling terminology and the phrases involving 'hump,' making it witty rather than purely anecdotal or observational."}
+
+=== Prompt 194 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses an illogical and surreal scenario—comparing wrestling moves to actual murder and being on the run from the law—to create humor through absurdity rather than conventional wit or irony."}
+
+=== Prompt 195 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story from the comedian’s childhood, making it anecdotal. It recounts a specific memory with a humorous twist."}
+
+=== Prompt 196 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on a series of increasingly ridiculous and illogical scenarios involving excessive chlorine and improbable uses of a pool, which is characteristic of absurdism."}
+
+=== Prompt 197 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on a matter-of-fact delivery and a subtle, understated punchline that undercuts the initial statement, characteristic of dry humor."}
+
+=== Prompt 198 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on clever wordplay and subtle humor in dissecting the phrase 'Slippery when wet,' making it witty rather than fitting neatly into another category."}
+
+=== Prompt 199 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery and a deadpan tone, highlighting an absurd but mundane scenario without exaggeration or obvious punchline, which fits the dry humor style."}
+
+=== Prompt 200 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is an anecdote about a personal experience with receiving bad news and the odd realization that comes when relaying it. It relies on storytelling from the narrator's own life rather than fitting into other comedic categories like irony or wordplay."}
+
+=== Prompt 201 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke reflects on a common but often unspoken family dynamic regarding emotional expression, making it observational in nature."}
+
+=== Prompt 202 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story or experience shared by the narrator, focusing on everyday family interactions and misunderstandings, which is characteristic of anecdotal humor."}
+
+=== Prompt 203 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is told as a personal story from the comedian's life, focusing on an interaction with their daughter and her humor, which fits the anecdotal style."}
+
+=== Prompt 204 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun involving the word 'waddle', which is both a penguin's walk and part of the phrase 'what do we have', making it a clear example of wordplay."}
+
+=== Prompt 205 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's personal experience and self-referential humor, particularly through the therapist line, making it self-deprecating."}
+
+=== Prompt 206 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story or narrative about the speaker's experience with mildew and being nicknamed 'Mildew Man,' fitting the anecdotal style."}
+
+=== Prompt 207 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke presents a series of straightforward, understated observations about age and relationships without any emotional embellishment or punchline, characteristic of dry humor."}
+
+=== Prompt 208 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understatement and a deadpan delivery, stating 'Drowning. Dead. Whatever the lowest is.' in response to being evaluated for swimming ability, which is humorously blunt but not overtly emotional or dark."}
+
+=== Prompt 209 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker humorously defending their sparse but present hair in a self-mocking way, highlighting personal insecurities with a light touch."}
+
+=== Prompt 210 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke presents a literal, understated situation where the swim cap is comically small compared to the speaker's head, relying on a deadpan delivery and understatement rather than exaggeration or obvious punchlines."}
+
+=== Prompt 211 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story or experience the comedian had with their swim instructor, making it anecdotal. It includes dialogue and specific details from a real-life interaction."}
+
+=== Prompt 212 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated delivery and a deadpan tone, presenting a serious-sounding scenario about 'auditioning for swim lessons' as if it were a formal process, which creates a dry, subtly humorous effect."}
+
+=== Prompt 213 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on clever banter and playful skepticism in the exchange, resulting in a humorous twist that showcases wit rather than relying on other comedic devices like irony or satire."}
+
+=== Prompt 214 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it recounts a personal story involving the narrator's experience with a flooded kitchen and subsequent discovery of black mold, rather than relying on a specific comedic device like wordplay or irony."}
+
+=== Prompt 215 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers a subtle, understated punchline that relies on understatement and a deadpan delivery rather than overt emotion or exaggeration, which is characteristic of dry humor."}
+
+=== Prompt 216 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun involving the phrase 'It's not two o'clock' and the play on 'nit' sounding like 'knot' and resembling 'not', as well as the final punchline with 'It's not 2:15.' This is classic wordplay based on sound and meaning."}
+
+=== Prompt 217 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, deadpan delivery and a subtle play on words rather than overt humor or emotion, characteristic of dry humor."}
+
+=== Prompt 218 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a clever play with the term 'comorbidity' and the construction of 'morbidity,' using wordplay to create a humorous twist about health conditions teaming up."}
+
+=== Prompt 219 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke uses clever wordplay and personifies healthy and unhealthy food with humorous dialogue, relying on playful language and situational irony for its humor."}
+
+=== Prompt 220 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker, who is also a doctor, humorously sharing their own struggles with health recommendations and daydreaming about 'sugar fries.' This self-referential humor fits the self-deprecating style."}
+
+=== Prompt 221 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker humorously admitting to being distracted by their own thoughts and creations, which is a hallmark of self-deprecating humor."}
+
+=== Prompt 222 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story involving the narrator's family and their humorous exchanges about health and food, fitting the anecdotal style."}
+
+=== Prompt 223 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun with the name 'Will' (the lawyer who writes wills) and the phrase 'we'll just call him Will,' creating a play on words related to legal documents and naming."}
+
+=== Prompt 224 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a play on words with the phrase 'better place,' leading to the punchline 'Better than pace?' which is a humorous twist on the original saying."}
+
+=== Prompt 225 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a short personal story about the speaker's childhood experience with a rich neighbor, which is characteristic of an anecdotal joke."}
+
+=== Prompt 226 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated humor and deadpan delivery, characteristic of dry wit, rather than relying on exaggeration or obvious punchlines."}
+
+=== Prompt 227 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses a clinical and matter-of-fact delivery to present a serious and potentially distressing medical evaluation in a way that undercuts its emotional weight, which is characteristic of dry humor."}
+
+=== Prompt 228 ===
+
+assistant
+{"category": "observational", "reasoning": "The joke reflects on a personal experience and draws a thoughtful, observational conclusion about age and knowledge, which is characteristic of observational humor."}
+
+=== Prompt 229 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal because it is a personal story about the narrator's experience with his wife and their friends, told in a humorous way."}
+
+=== Prompt 230 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a short personal story about the speaker's experience with community college, relying on a humorous exchange rather than a specific comedic device."}
+
+=== Prompt 231 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is an anecdote about the speaker's experience in remedial classes, using a personal story to illustrate its point."}
+
+=== Prompt 232 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it tells a personal story from the comedian's life and builds humor through a sequence of events and a punchline."}
+
+=== Prompt 233 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on a surreal scenario where the speaker tries to explain future technology to people from the 1920s and fails comically, highlighting the futility and absurdity of such an attempt."}
+
+=== Prompt 234 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's experience with their parents and their overweight cat, fitting the anecdotal style as it recounts a specific, humorous incident from everyday life."}
+
+=== Prompt 235 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke centers on the speaker's humorous admission of underestimating the difficulty of a fitness program and their own physical condition, poking fun at their own lack of fitness and unrealistic expectations."}
+
+=== Prompt 236 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story told from the speaker's perspective, sharing a humorous experience from their own life in a narrative style."}
+
+=== Prompt 237 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is an anecdote from the comedian's personal life, sharing a humorous and embarrassing story based on real experience."}
+
+=== Prompt 238 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's experience and misunderstanding with local advice, fitting the anecdotal style as it recounts a specific, humorous incident."}
+
+=== Prompt 239 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a personal story about the narrator's experience at a mechanic shop, featuring a sequence of events and a humorous resolution. It is primarily an anecdote recounted for comedic effect."}
+
+=== Prompt 240 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story or experience the narrator had on a flight, which makes it anecdotal. The humor arises from the retelling of a specific incident and the narrator's ongoing thoughts about it."}
+
+=== Prompt 241 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery and a lack of excitement or emotional investment, which are hallmarks of dry humor. The comedian’s nonchalant attitude and deadpan responses to potentially impressive or confusing situations create a dry, almost ironic effect."}
+
+=== Prompt 242 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses illogical reasoning, exaggerated scenarios, and non sequiturs to create a surreal and nonsensical view of science, which aligns with absurdism."}
+
+=== Prompt 243 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a personal story from the narrator's school experience, using that anecdote to highlight the absurdity of changing scientific classifications, which makes it primarily anecdotal."}
+
+=== Prompt 244 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is primarily anecdotal, as it tells a personal story about the speaker's father and their experiences with him being a clown and magician, relying on specific events and observations from their life."}
+
+=== Prompt 245 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is a short, personal story involving family interaction and everyday conversation, which fits the anecdotal style."}
+
+=== Prompt 246 ===
+
+assistant
+{"category": "dark", "reasoning": "The joke makes light of the seriousness of COVID-19 by implying that UFOs wouldn't get tested, which is a darkly humorous twist."}
+
+=== Prompt 247 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers a straightforward, understated statement about having a fever and being 'the first,' with a deadpan delivery and little emotional inflection, characteristic of dry humor."}
+
+=== Prompt 248 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, deadpan delivery and an anticlimactic punchline, characteristic of dry humor."}
+
+=== Prompt 249 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on an implausible and surreal scenario—bringing a wild wolf into a coffee shop and treating it as normal—which fits the definition of absurdism."}
+
+=== Prompt 250 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on repeated insistence and disbelief in a way that highlights the absurdity of the conversation and the overblown importance attributed to an unknown subject."}
+
+=== Prompt 251 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on increasingly illogical and surreal statements, such as being 'in someone else’s apartment all this time' in response to a simple question, which fits the style of absurdism."}
+
+=== Prompt 252 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on a deadpan delivery and understatement, with the punchline being a mild rebuke to the customer's formality, which fits the dry humor style."}
+
+=== Prompt 253 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a double meaning of 'metal,' playing on the literal and figurative interpretations of the word in a clever, pun-based manner."}
+
+=== Prompt 254 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on a surreal, illogical progression where talking to a wolf is treated as a straightforward and normal course of action, which aligns with the absurdism category."}
+
+=== Prompt 255 ===
+
+assistant
+{"category": "witty", "reasoning": "The joke relies on quick back-and-forth exchanges and a playful twist on the expectation versus reality of people's knowledge, making it witty rather than fitting neatly into other categories."}
+
+=== Prompt 256 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on a series of deadpan, understated exchanges that build absurdity without emotional emphasis, characteristic of dry humor."}
+
+=== Prompt 257 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, deadpan delivery and a subtle buildup to an anticlimactic punchline, characteristic of dry humor."}
+
+=== Prompt 258 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a play on words involving 'batter' and 'syrup', which are confused despite being clearly distinguishable, creating a humorous twist."}
+
+=== Prompt 259 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, matter-of-fact delivery and a deadpan exchange, characteristic of dry humor."}
+
+=== Prompt 260 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke repeatedly misinterprets and plays with the phrase 'one fell swoop,' turning it into a pun-based conversation that relies on twisting the meaning of the idiom."}
+
+=== Prompt 261 ===
+
+assistant
+{"category": "topical", "reasoning": "The joke references Tonya Harding, a figure tied to a well-known event in American pop culture from the 1990s, making it topical. It also plays on the expectation that people should know the reference, highlighting the fleeting nature of such cultural knowledge."}
+
+=== Prompt 262 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understatement and a matter-of-fact delivery to deliver its punchline, which is characteristic of dry humor."}
+
+=== Prompt 263 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke delivers a literal, understated response to a complaint and follows it with an apologetic, deadpan remark, characteristic of dry humor."}
+
+=== Prompt 264 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a play on the phrase 'turn it off,' using literal and figurative meanings to create a humorous twist."}
+
+=== Prompt 265 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a play on words and double meanings related to the concept of 'backwards,' creating a humorous twist through linguistic ambiguity."}
+
+=== Prompt 266 ===
+
+assistant
+{"category": "aggressive", "reasoning": "The joke uses blunt, confrontational language and implies a lack of maturity or responsibility, making it aggressive in tone."}
+
+=== Prompt 267 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on a series of understated, literal responses that create a comedic dryness through the lack of emotional engagement and abrupt shifts in conversation."}
+
+=== Prompt 268 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery and a literal interpretation of requests, lacking a punchline or emotional charge, which is characteristic of dry humor."}
+
+=== Prompt 269 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, literal responses and a subtle twist in gender pronouns, characteristic of dry humor."}
+
+=== Prompt 270 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on a series of nonsensical and surreal questions about eagles interacting with people in bizarre ways, which is characteristic of absurdism."}
+
+=== Prompt 271 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, literal exchanges and a lack of emotional response, characteristic of dry humor."}
+
+=== Prompt 272 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, deadpan delivery and a lack of overt emotion or punchline, which is characteristic of dry humor."}
+
+=== Prompt 273 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke uses understated, matter-of-fact delivery and a lack of punchline or strong emotion, characteristic of dry humor."}
+
+=== Prompt 274 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke plays with the expectation of a straightforward answer by introducing a pun on 'lost' and 'lost monst the mughty pines of Vermont,' twisting words for comedic effect."}
+
+=== Prompt 275 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated delivery and a matter-of-fact exchange about not knowing where 'Belize' is, creating a dry, almost deadpan humor."}
+
+=== Prompt 276 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke plays on the similarities between Santa Claus and God using a double entendre, relying on clever wordplay and reinterpretation of familiar concepts."}
+
+=== Prompt 277 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke plays with the expectation of religious songs about significant events and subverts it by focusing on unrelated topics like snow in a desert setting, creating a surreal and illogical scenario."}
+
+=== Prompt 278 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke relies on escalating, nonsensical commands involving decorating a pine tree with children's school garbage, which defies conventional logic and expectations, fitting the absurdism category."}
+
+=== Prompt 279 ===
+
+assistant
+{"category": "parody", "reasoning": "The joke mimics the language and structure of the nativity story from the Bible, exaggerating and retelling it in a humorous, modern way, which is characteristic of parody."}
+
+=== Prompt 280 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on the repeated use of 'yo' and wordplay with 'Nate' and 'Nashville,' creating a humorous twist through similar-sounding words and phrases."}
+
+=== Prompt 281 ===
+
+assistant
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the mayor makes a joke at his own expense by dismissing his own statement and credibility, suggesting he knows nothing despite being the mayor."}
+
+=== Prompt 282 ===
+
+assistant
+{"category": "anecdotal", "reasoning": "The joke is based on a short, personal narrative involving a child and parent, resembling a story from real life rather than relying on wordplay or irony."}
+
+=== Prompt 283 ===
+
+assistant
+{"category": "absurdism", "reasoning": "The joke uses illogical and unexpected statements (such as dying at 57 degrees and responding to a beep) that do not follow a conventional setup or punchline structure, characteristic of absurdism."}
+
+=== Prompt 284 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on a flat, understated delivery and an anticlimactic punchline that subverts the listener's expectations in a subtle way."}
+
+=== Prompt 285 ===
+
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun with the phrase 'q bag,' playing on the expectation of 'queue' or 'qu' and the reality of a bag of Sour Patch Kids, making it a classic example of wordplay."}
+
+=== Prompt 286 ===
+
+assistant
+{"category": "dry", "reasoning": "The joke relies on understated, deadpan delivery and a slow, anticlimactic buildup rather than obvious humor or exaggeration, which is characteristic of dry humor."}
+
