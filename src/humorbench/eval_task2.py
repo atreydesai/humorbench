@@ -155,7 +155,7 @@ def eval_pass_at_k(completions, ground_truths, k):
 
     return num_correct, total, confusion_matrix, f1, auc
 
-def eval_task2(dataset_path, run_path, save_path, joke_col_name):
+def eval_task2(dataset_path, run_path, save_path, joke_col_name, model):
     print("Extracting Run 1")
     comp1 = extract_answers(f"{run_path}_run1.txt")
     print("Extracting Run 2")
@@ -199,7 +199,7 @@ def eval_task2(dataset_path, run_path, save_path, joke_col_name):
 
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
-    plt.title("Task 2 Confusion Matrix Qwen3-8b Pass@1")
+    plt.title(f"Task 2 Confusion Matrix {model} Pass@1")
     plt.tight_layout()
     plt.savefig(f"{save_path}_pass@1.png")
     plt.close()
@@ -228,7 +228,7 @@ def eval_task2(dataset_path, run_path, save_path, joke_col_name):
 
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
-    plt.title("Task 2 Confusion Matrix Qwen3-8b Pass@5")
+    plt.title(f"Task 2 Confusion Matrix {model} Pass@5")
     plt.tight_layout()
     plt.savefig(f"{save_path}_pass@5.png")
     plt.close()

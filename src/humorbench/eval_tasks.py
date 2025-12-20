@@ -33,20 +33,20 @@ if __name__ == "__main__":
         "apertus-8b",
         "ministral-8b"
     ]
-    dataset_path = "../../datasets/labeled/jokes_semantic_preserving.tsv"
-    run_path_pref = "/nfshomes/ldu0040/humorbench/completions/perturbed/sem_pres/"
-    out_path = "/nfshomes/ldu0040/humorbench/results/perturbed/sem_pres/csvs/sem_pres"
-    cm_save_path = "/nfshomes/ldu0040/humorbench/results/perturbed/sem_pres/confusion_matrices/"
-    joke_col_name = "perturbed_joke_semantic_preserving"
+    dataset_path = "../../datasets/labeled/es_labelled.tsv"
+    run_path_pref = "/nfshomes/ldu0040/humorbench/completions/es/"
+    out_path = "/nfshomes/ldu0040/humorbench/results/es/csvs/es"
+    cm_save_path = "/nfshomes/ldu0040/humorbench/results/es/confusion_matrices/"
+    joke_col_name = "Joke"
 
     for model in models:
         print("Evaluating model: ", model)
-        task1_run_path = run_path_pref + f"{model}/sem_pres_task1_{model}"
+        task1_run_path = run_path_pref + f"{model}/es_task1_{model}"
         task1_cm_save_path = cm_save_path + f"task1_confusion_matrix_{model}"
-        task2_run_path = run_path_pref + f"{model}/sem_pres_task2_{model}"
+        task2_run_path = run_path_pref + f"{model}/es_task2_{model}"
         task2_cm_save_path = cm_save_path + f"task2_confusion_matrix_{model}"
     
-        pass_at_1_task1, pass_at_5_task1 = eval_task1(dataset_path, task1_run_path, task1_cm_save_path, joke_col_name)
+        pass_at_1_task1, pass_at_5_task1 = eval_task1(dataset_path, task1_run_path, task1_cm_save_path, joke_col_name, model)
 
         task_1_results_dict['model'].append(model)
         task_1_results_dict['pass@1_acc'].append(pass_at_1_task1[0])
@@ -56,7 +56,7 @@ if __name__ == "__main__":
         task_1_results_dict['pass@5_f1'].append(pass_at_5_task1[1])
         task_1_results_dict['pass@5_auc'].append(pass_at_5_task1[2])
 
-        pass_at_1_task2, pass_at_5_task2 = eval_task2(dataset_path, task2_run_path, task2_cm_save_path, joke_col_name)
+        pass_at_1_task2, pass_at_5_task2 = eval_task2(dataset_path, task2_run_path, task2_cm_save_path, joke_col_name, model)
 
         task_2_results_dict['model'].append(model)
         task_2_results_dict['pass@1_acc'].append(pass_at_1_task2[0])

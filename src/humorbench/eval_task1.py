@@ -60,9 +60,7 @@ def eval_pass_at_k(completions, ground_truths, k):
     total = 0
     num_correct = 0
     labels = [
-        'satire',
-        'parody',
-        'irony',
+        'satire/parody/irony',
         'aggressive',
         'dry',
         'self-deprecating',
@@ -90,6 +88,9 @@ def eval_pass_at_k(completions, ground_truths, k):
             truth = 'surreal/absurdism'
         if truth == 'observational' or truth == 'anecdotal':
             truth = 'observational/anecdotal'
+
+        if "satire" in truth or "parody" in truth or "irony" in truth:
+            truth = 'satire/parody/irony'
         correct = False
         while len(completion) < k:
             completion.append("")
@@ -107,6 +108,8 @@ def eval_pass_at_k(completions, ground_truths, k):
                 pred = 'surreal/absurdism'
             if pred == 'observational' or pred == 'anecdotal':
                 pred = 'observational/anecdotal'
+            if "satire" in pred or "parody" in pred or "irony" in pred:
+                pred = 'satire/parody/irony'
             if pred in sub_matrix:
                 sub_matrix[pred] += 1
             else:
@@ -132,7 +135,7 @@ def eval_pass_at_k(completions, ground_truths, k):
 
     return num_correct, total, confusion_matrix, f1, auc
 
-def eval_task1(dataset_path, run_path, save_path, joke_col_name):
+def eval_task1(dataset_path, run_path, save_path, joke_col_name, model):
     print("Extracting Run 1")
     comp1 = extract_answers(f"{run_path}_run1.txt")
     print("Extracting Run 2")
@@ -175,7 +178,7 @@ def eval_task1(dataset_path, run_path, save_path, joke_col_name):
 
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
-    plt.title("Task 1 Confusion Matrix Qwen3-8b Pass@1")
+    plt.title(f"Task 1 Confusion Matrix {model} Pass@1")
     plt.tight_layout()
     plt.savefig(f"{save_path}_pass@1.png")
     plt.close()
@@ -204,7 +207,7 @@ def eval_task1(dataset_path, run_path, save_path, joke_col_name):
 
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
-    plt.title("Task 1 Confusion Matrix Qwen3-8b Pass@5")
+    plt.title(f"Task 1 Confusion Matrix {model} Pass@5")
     plt.tight_layout()
     plt.savefig(f"{save_path}_pass@5.png")
     plt.close()
