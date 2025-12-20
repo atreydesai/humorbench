@@ -6,8 +6,8 @@ There are two tasks:
 1. Overall Joke Classification: Classify the entire multi-line joke.
 2. Line Purpose Identification: Identify the purpose that a line in a joke serves in developing the joke's punchline.
 
-The raw labeled datasets can be found in `datasets/labeled`.  
-The prompts generated from the datasets can be found in `datasets/en_prompts`, `datasets/es_prompts`, and `datasets/perturbed`.
+The labeled data can be found in `datasets/labeled`.  
+The prompts generated from the labeled data can be found in `datasets/en_prompts`, `datasets/es_prompts`, and `datasets/perturbed`.
 
 We evaluated the following models:
 - Qwen/Qwen3-8B
