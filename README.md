@@ -5,8 +5,8 @@ This research paper implements a benchmark that evaluates how well language mode
 ## Overview
 
 The benchmark consists of two main tasks:
-1. **Overall Joke Classification**: Classify the entire multi-line joke as funny or not funny
-2. **Line Purpose Identification**: Identify the purpose that each line serves in developing the joke's punchline (e.g., setup, punchline, transition)
+1. **Overall Joke Classification**: Classify the entire multi-line joke
+2. **Line Purpose Identification**: Identify the purpose that each line serves in developing the joke's punchline (e.g., establishing context, punchline, escalation)
 
 ## Results
 
