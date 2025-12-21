@@ -1,0 +1,704 @@
+=== Prompt 1 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+<|assistant|>
+{"ANSWER":["setup", "wrap-up", "setup", "misdirection", "setup", "meta-humor", "setup", "escalation", "setup", "escalation", "setup", "wrap-up"]}
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 7 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "punchline", "wrap-up", "repetition"]}
+
+=== Prompt 8 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 9 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "meta-humor", "setup", "setup", "punchline"]}
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "meta-humor", "punchline"]}
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "punchline", "meta-humor", "punchline"]}
+
+=== Prompt 14 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "non-line", "wrap-up"]}
+
+=== Prompt 17 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 18 ===
+ <|assistant|>
+{"ANSWER":["setup", "escalation", "escalation", "subversion", "escalation", "escalation", "escalation", "punchline"]}
+
+=== Prompt 19 ===
+
+{"ANSWER":["setup", "non-line", "punchline", "wrap-up"]}
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "meta-humor", "misdirection", "setup", "setup", "setup", "escalation", "escalation", "escalation", "escalation", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+ 
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 24 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "meta-humor", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup"]}
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "non-line", "meta-humor", "punchline"]}
+
+=== Prompt 28 ===
+ {"ANSWER":["establishing context", "setup", "escalation", "misdirection", "subversion", "meta-humor", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 29 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "establishing context", "establishing context", "misdirection", "setup", "setup", "setup", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 30 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 31 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 32 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "non-line", "punchline"]}
+
+=== Prompt 33 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "non-line", "meta-humor", "non-line", "setup", "setup", "setup", "setup", "setup", "punchline", "non-line", "wrap-up"]}
+
+=== Prompt 34 ===
+
+<|assistant|>
+{"ANSWER":["setup"]}
+
+=== Prompt 35 ===
+
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 39 ===
+
+<|assistant|>
+{"ANSWER":["setup", "non-line", "non-line", "misdirection", "misdirection", "misdirection", "non-line", "non-line", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 40 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "setup", "setup", "setup", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "setup", "escalation", "setup", "escalation", "setup", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 43 ===
+
+<|assistant|>
+{"ANSWER":["setup", "escalation", "non-line", "wrap-up"]}
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "establishing context", "non-line", "setup", "escalation", "punchline"]}
+
+=== Prompt 46 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "meta-humor", "wrap-up", "wrap-up"]}
+
+=== Prompt 47 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "meta-humor", "setup", "escalation", "setup", "setup", "setup", "setup", "setup", "setup", "wrap-up", "meta-humor"]}
+
+=== Prompt 48 ===
+ {"ANSWER":["setup"]}
+
+=== Prompt 49 ===
+ Please do not add anything else.
+{"ANSWER":["setup", "escalation", "subversion", "punchline", "meta-humor"]}
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "escalation", "punchline"]}
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "non-line", "escalation", "escalation", "non-line", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up"]}
+
+=== Prompt 56 ===
+
+{"ANSWER":["establishing context", "setup", "meta-humor", "punchline"]}
+
+=== Prompt 57 ===
+
+
+=== Prompt 58 ===
+
+{"ANSWER":["establishing context", "setup", "escalation", "wrap-up"]}
+
+=== Prompt 59 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 60 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "meta-humor", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 61 ===
+
+
+=== Prompt 62 ===
+
+<|assistant|>
+{"ANSWER":["setup", "establishing context", "setup", "non-line", "wrap-up"]}
+
+=== Prompt 63 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 64 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "meta-humor", "wrap-up"]}
+
+=== Prompt 65 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 66 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "escalation", "punchline"]}
+
+=== Prompt 67 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+{"ANSWER":["setup", "non-line", "punchline"]}
+
+=== Prompt 70 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 71 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "setup", "escalation", "escalation", "punchline"]}
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "meta-humor", "punchline", "non-line"]}
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 79 ===
+ 
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "misdirection", "wrap-up"]}
+
+=== Prompt 80 ===
+ 
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "setup", "setup", "escalation", "setup", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 81 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 82 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "meta-humor", "misdirection", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 83 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "meta-humor", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up"]}
+
+=== Prompt 84 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 85 ===
+
+<assistant>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup"]}
+
+=== Prompt 86 ===
+ {"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 87 ===
+ {"ANSWER":["setup"]}
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 92 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 93 ===
+ 
+<|assistant|>
+{"ANSWER":["setup", "setup", "establishing context", "wrap-up", "END OF JOKE"]}
+
+=== Prompt 94 ===
+
+<|assistant|>
+{"ANSWER":["setup"]}
+
+=== Prompt 95 ===
+  Answer below.
+{"ANSWER":["setup"]}
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "punchline"]}
+
+=== Prompt 101 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 102 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 103 ===
+ 
+<|assistant|>
+{"ANSWER":["setup", "non-line", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+ {"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup"]}
+
+=== Prompt 106 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "setup", "escalation", "subversion", "setup", "escalation", "subversion", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 107 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 108 ===
+
+<|assistant|>
+{"ANSWER":["setup", "escalation", "escalation", "escalation", "escalation", "escalation", "punchline"]}
+
+=== Prompt 109 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 110 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "setup", "escalation", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 113 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "misdirection", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 114 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 115 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 116 ===
+ <|assistant|>
+{"ANSWER":["setup"]}
+
+=== Prompt 117 ===
+
+<|assistant|>
+{"ANSWER":["setup", "escalation", "punchline"]}
+
+=== Prompt 118 ===
+
+{"ANSWER":["establishing context", "setup", "misdirection", "misdirection", "non-line", "punchline"]}
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+ {"EXIT":["non-line"]}
+
+=== Prompt 121 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "setup", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+<assistant>
+{"ANSWER":["setup", "setup", "escalation", "punchline"]}
+
+=== Prompt 124 ===
+ Please provide 10 output labels.
+<|assistant|>
+{"ANSWER":["establishing context", "establishing context", "setup", "setup", "escalation", "escalation", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+<assistant>
+{"ANSWER":["setup", "setup", "setup", "meta-humor", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 128 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 129 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "subversion", "meta-humor", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "setup", "establishing context", "setup", "escalation", "punchline"]}
+
+=== Prompt 132 ===
+ {"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "meta-humor", "punchline"]}
+
+=== Prompt 133 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 134 ===
+
+<assistant>
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "escalation", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 135 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "punchline", "non-line", "punchline"]}
+
+=== Prompt 136 ===
+ {"ANSWER":["setup"]}
+
+=== Prompt 137 ===
+
+<assistant>
+{"ANSWER":["establishing context", "setup", "meta-humor", "punchline"]}
+
+=== Prompt 138 ===
+
+{"label1": "establishing context", "label2": "setup", "label3": "meta-humor", "label4": "punchline"}
+
+=== Prompt 139 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 140 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 141 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 142 ===
+
+<assistant>
+{"ANSWER":["establishing context", "setup", "escalation", "punchline"]}
+
+=== Prompt 143 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 144 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 145 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 146 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "non-line", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 147 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "repetition", "meta-humor", "punchline", "wrap-up", "repetition"]}
+
+=== Prompt 148 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 149 ===
+ ###
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "meta-humor", "setup", "escalation", "escalation", "setup", "escalation", "setup", "wrap-up", "wrap-up"]}
+
+=== Prompt 150 ===
+
+{"ANSWER":["setup"]}
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 155 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 156 ===
+
+<|assistant|>
+{"ANSWER":["setup", "escalation", "escalation", "escalation", "escalation", "wrap-up"]}
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "escalation", "escalation", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 159 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", 
+
+=== Prompt 160 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "meta-humor", "punchline"]}
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+
+
+=== Prompt 163 ===
+
+<assistant>
+{"ANSWER":["establishing context", "setup", "wrap-up", "setup", "wrap-up", "setup", "setup", "wrap-up", "setup", "setup", "setup", "wrap-up", "setup", "setup", "setup", "wrap-up"]}
+
+=== Prompt 164 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 165 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "meta-humor", "punchline"]}
+
+=== Prompt 166 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 167 ===
+
+<|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 168 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "subversion", "meta-humor", "punchline"]}
+
+=== Prompt 169 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline", "wrap-up"]}
+
+=== Prompt 170 ===
+ <|assistant|>
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 171 ===
+ <|assistant|>
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup"]}
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+<|assistant|>
+{"ANSWER":["setup", "setup", "escalation", "non-line", "non-line", "non-line", "meta-humor", "escalation", "escalation", "wrap-up"]}
+

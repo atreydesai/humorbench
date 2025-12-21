@@ -1,0 +1,649 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+ Here is the joke in a multi-line format:
+
+¿Estás preparado? Ok.
+Métete en internet, pon vuelos baratos.
+Cógete el más barato, no seas tonto.
+Y vete al aeropuerto a la hora que te pone ahí.
+Claro, te decepciona que un Minion presentando pasapalabra.
+Así que por eso prefiero cosas mucho más potentes, como un chamán.
+Sí, porque la sabiduría chamánica data del año 1500 hace, antes de Coach, ¿sabes? Súper antigua.
+
+END OF JOKE.
+
+### Answer:
+{"ANSWER":["establishing context", "setup", "setup", "setup", "subversion", "escalation", "callback", "callback", "wrap-up"]}
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+ The joke is:
+Y a esa hora, doce y media entre semana en el gimnasio, la media de edad...\n¿Cómo lo digo y no ofendo?\nJustin Bieber y Hannah Montana no hay.\nLo que más hay es Manuel Storri Iglesias y Conchas Velasco.\nHay mucho viejo, hay mucho viejo.\npunto que natatorio la una parece efervescrnte pastillaw tanta con piel muertas. END OF JOKE. Classify each newline-separated line of a multi-line joke by its role, assigning exactly one label from establishing context, setup, escalation, subversion, callback, misdirection, timing, meta-humor, punchline, redirection, non-line, wrap-up, repetition. Your final answer should take the form {"ANSWER":["label1", "label2",...]}
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+=== Prompt 34 ===
+ Here is the joke: ¿Qué camiseta deberíamos llevar a Madrid si queremos realmente tocarle los cojones a los madrileños?\nDelaware Una Barcelona 92.\n¡Donde duele! END OF JOKE.
+
+{"ANSWER":["setup", "punchline"]}
+
+=== Prompt 35 ===
+
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+
+
+=== Prompt 40 ===
+
+
+=== Prompt 41 ===
+ Here is a joke: ¿Qué tal?\nBuenas noches, qué majetes, os vio jovencicos y esta generación a mí me mola mucho ahora, la que viene detrás, no os va a dar sopas con ondas, mira, yo tengo una hija, Martita, 5 años, se puso a escribir la carta de los reyes magos las navidades pasadas, me dice, empieza, queridos reyes magos, este año me he portado muy bien, así que quiero que me traigáis un patín, un patinete, un furbi, la mochila de dólar exploradora, el perrito que hace caca, la muñeca que hace caca, la máquina de comino, La máquina de helado, le digo, para, para, para.\nDigo, cariño, tienes que quitar algo porque todo no me cabe.\nY me dice, quita,queridos reyes magos. END OF JOKE. Classify each newline-separated line of a multi-line joke by its role, assigning exactly one label from establishing context, setup, escalation, subversion, callback, misdirection, timing, meta-humor, punchline, redirection, non-line, wrap-up, repetition. Your final answer should take the form {"ANSWER":["label1", "label2",...]}
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+ The joke is:
+
+Hay veces es más violento cuando es en una situación íntima...\n...la primera noche que me acuesto con ella... y de repente en medio de todo el fulgor me saca de la nada un bote de lubricante y está por la mitad.\nDigo, ¿soy yo el tiquismiquis? O esto, no sé, es una falta...\nYo no estar quiero la toda noche en pebsamdo qué ha gastado el restante dwl lata,¿sabes?\nYo quiero estar centrado en lo mío, ¿no?\nmejor A yo soy el tiquismiquis,yo pero quiero el ver precunto.\nEn estos casos, yo quiero ver el precinto.\n¡Muchas gracias!
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "escalation",
+    "subversion",
+    "callback",
+    "misdirection",
+    "timing",
+    "meta-humor",
+    "punchline",
+    "non-line"
+  ]
+}
+```
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+
+
+=== Prompt 58 ===
+
+
+=== Prompt 59 ===
+ Here is the joke:
+
+Sí, porque por lo que me cuentan mis amigas heterosexuales, la vagina debe ser como la típica sindicalista encabronada, valga la redundancia...\n...que después de una noche de conversaciones insufribles, cuando le llega su momento de lucirse en la intimidad, acaba su vida en un palco viendo entrar y salir ese minifuet.\nEn plan de, hola, ¿qué tal?\nSí, Javi, ¿qué grande es esto, esto, esto?\nY la otra como, bueno, cuestión de perspectiva, ¿no?\n¿Qué haces?\nNada,buscando el clítoris.\nNi te molestes.\n¿Me estoy mareando?\nDisculpa\nTranquilo,si me no pisado has ni o he mojado\nGracias.
+
+### Answer
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline"]}
+
+=== Prompt 60 ===
+
+
+=== Prompt 61 ===
+
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+
+
+=== Prompt 81 ===
+
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+=== Prompt 84 ===
+
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+ Here is the joke:
+Claro, porque es muy complicado.
+Es muy difícil.
+Bueno, incluso hasta el punto de que me lo ha hecho en casa de mis suegros.
+Y eso es imposible de disimular.
+Sobre todo cuando se pone en plan religiosa.
+Que empieza gritando ¡Ah! ¡Y la Virgen! ¡La Virgen!
+y yo Y como puedo¡Con a flors chocolatr!
+Joder.
+Gracias.
+END OF JOKE.
+
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]}
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+ Here is the classified joke:
+
+```
+Tengo novia y muy bien, y no voy a contar ni que me ha dejado, ni las tapas del váter, ni mierdas de esas.
+Simplemente el dato, por si la gente se lo cree, coño, que tengo novia.
+Y cometo dos temeridades, cuidado, no solo la tengo, tengo novia y vivo con ella.
+Y desde hace un mes, cuenta compartida.
+Estoy en un callejón sin salida.
+¿Qué será lo próximo? ¿Eh? ¿Qué será lo próximo?
+Cuando tengamos una hija, ponle de nombre Moussarrat.
+Porque ella es catalana y le gusta mucho.
+¿Qué es niño? Moussarrat tasmbié.
+Es que es muy catalana.
+```
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+ Here's the classification for the given joke:
+
+```json
+{
+  "ANSWER": ["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "punchline"]
+}
+```
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+ The joke is as follows:
+
+```
+Here is a joke: Los griegos son los nuevos judíos, de verdad.
+Este los año han alemanes empezado por y ellos hqn dicho,¿qué por no?
+END OF JOKE.
+```
+
+{"ANSWER":["setup", "punchline"]}
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+ Here is the classification:
+
+```
+{
+  "ANSWER": [
+    "establishing context",
+    "establishing context",
+    "setup",
+    "escalation",
+    "subversion",
+    "callback",
+    "misdirection",
+    "timing",
+    "meta-humor",
+    "punchline",
+    "redirection",
+    "non-line",
+    "wrap-up",
+    "repetition"
+  ]
+}
+```
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+ Here is the classified joke:
+
+```
+Yo creo que por eso me gusta, porque a mí me gustan mucho los animales, de verdad, me gusta un montón...
+...pero tanto como para ir al zoo, o sea, yo voy al zoo activamente, sin sobrinos, o sea, voy porque quiero.
+O sea, me gustan tanto los animales como para ir al zoo, ¿sabes?
+Pero no tanto como para estar en contra de los zoos, eso ya es un nivel superior, ¿sabes?
+De hecho, además tampoco creo que esté tan claro que sufren.
+No sé, ¿cómo lo saben?
+```
+
+### Classification:
+- "Yo creo que por eso me gusta, porque a mí me gustan mucho los animales, de verdad, me gusta un montón..."
+  - establishing context
+- "...pero tanto como para ir al zoo, o sea, yo voy al zoo activamente, sin sobrinos, o sea, voy porque quiero."
+  - setup
+- "O sea, me gustan tanto los animales como para ir al zoo, ¿sabes?"
+  - escalation
+- "Pero no tanto como para estar en contra de los zoos, eso ya es un nivel superior, ¿sabes?"
+  - subversion
+- "De hecho, además tampoco creo que esté tan claro que sufren."
+  - misdirection
+- "No sé, ¿cómo lo saben?"
+  - punchline
+
+```json
+{
+  "ANSWER": ["establishing context", "setup", "escalation", "subversion", "misdirection", "punchline"]
+}
+```
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+

@@ -31,10 +31,7 @@ def extract_answers(filepath):
 
         try:
             parsed = json.loads(json_str)
-            if 'category' in parsed:
-                results.append(parsed['category'])
-            else:
-                results.append("")
+            results.append(parsed['category'])
         except (json.JSONDecodeError, KeyError):
             results.append("")
             continue
@@ -138,23 +135,53 @@ def eval_pass_at_k(completions, ground_truths, k):
 
     return num_correct, total, confusion_matrix, f1, auc
 
-def eval_task1(dataset_path, run_path, save_path, joke_col_name, model):
-    print("Extracting Run 1")
-    comp1 = extract_answers(f"{run_path}_run1.txt")
-    print("Extracting Run 2")
-    comp2 = extract_answers(f"{run_path}_run2.txt")
-    print("Extracting Run 3")
-    comp3 = extract_answers(f"{run_path}_run3.txt")
-    print("Extracting Run 4")
-    comp4 = extract_answers(f"{run_path}_run4.txt")
-    print("Extracting Run 5")
-    comp5 = extract_answers(f"{run_path}_run5.txt")
+def eval_task1(dataset_path, run_path, save_path, joke_col_name, model, run_paths=None, dataset=None):
+    if run_paths is not None:
+        all_comp1 = []
+        all_comp2 = []
+        all_comp3 = []
+        all_comp4 = []
+        all_comp5 = []
+        
+        for rp in run_paths:
+            print(f"Extracting Run 1 from {rp}")
+            all_comp1.extend(extract_answers(f"{rp}_run1.txt"))
+            print(f"Extracting Run 2 from {rp}")
+            all_comp2.extend(extract_answers(f"{rp}_run2.txt"))
+            print(f"Extracting Run 3 from {rp}")
+            all_comp3.extend(extract_answers(f"{rp}_run3.txt"))
+            print(f"Extracting Run 4 from {rp}")
+            all_comp4.extend(extract_answers(f"{rp}_run4.txt"))
+            print(f"Extracting Run 5 from {rp}")
+            all_comp5.extend(extract_answers(f"{rp}_run5.txt"))
+        
+        comp1 = all_comp1
+        comp2 = all_comp2
+        comp3 = all_comp3
+        comp4 = all_comp4
+        comp5 = all_comp5
+    else:
+        if run_path is None:
+            raise ValueError("Either run_paths or run_path must be provided")
+        print("Extracting Run 1")
+        comp1 = extract_answers(f"{run_path}_run1.txt")
+        print("Extracting Run 2")
+        comp2 = extract_answers(f"{run_path}_run2.txt")
+        print("Extracting Run 3")
+        comp3 = extract_answers(f"{run_path}_run3.txt")
+        print("Extracting Run 4")
+        comp4 = extract_answers(f"{run_path}_run4.txt")
+        print("Extracting Run 5")
+        comp5 = extract_answers(f"{run_path}_run5.txt")
+    
     out = insert_answers([], comp1)
     out = insert_answers(out, comp2)
     out = insert_answers(out, comp3)
     out = insert_answers(out, comp4)
     out = insert_answers(out, comp5)
-    dataset = pd.read_csv(dataset_path, sep='\t')
+    
+    if dataset is None:
+        dataset = pd.read_csv(dataset_path, sep='\t')
     task1 = dataset[[joke_col_name, 'Task1 Label']].copy().dropna()
     labels = task1['Task1 Label'].tolist()[:len(comp1)]
     num_correct, total, cm, f1, auc = eval_pass_at_k(out, labels, 1)

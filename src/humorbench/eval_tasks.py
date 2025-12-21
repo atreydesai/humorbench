@@ -1,6 +1,7 @@
 from eval_task1 import eval_task1
 from eval_task2 import eval_task2
 import pandas as pd
+import os
 
 if __name__ == "__main__":
 
@@ -33,23 +34,57 @@ if __name__ == "__main__":
         "apertus-8b",
         "ministral-8b"
     ]
-    dataset_path = "../../datasets/labeled/es_labelled.tsv"
-    # run_path_pref = "/nfshomes/ldu0040/humorbench/completions/es/"
-    # out_path = "/nfshomes/ldu0040/humorbench/results/es/csvs/es"
-    # cm_save_path = "/nfshomes/ldu0040/humorbench/results/es/confusion_matrices/"
-    run_path_pref = "/fs/clip-projects/rlab/atrey/humorbench/completions/es/"
-    out_path = "/fs/clip-projects/rlab/atrey/humorbench/results/es/csvs/es"
-    cm_save_path = "/fs/clip-projects/rlab/atrey/humorbench/results/es/confusion_matrices/"
+    
+    # Load and combine English and Spanish datasets
+    en_dataset_path = "../../datasets/labeled/en_task1&2.tsv"
+    es_dataset_path = "../../datasets/labeled/es_labelled.tsv"
+    
+    print("Loading English dataset...")
+    en_dataset = pd.read_csv(en_dataset_path, sep='\t')
+    print("Loading Spanish dataset...")
+    es_dataset = pd.read_csv(es_dataset_path, sep='\t')
+    
+    # Combine datasets
+    print("Combining English and Spanish datasets...")
+    combined_dataset = pd.concat([en_dataset, es_dataset], ignore_index=True)
+    print(f"Combined dataset size: {len(combined_dataset)} (EN: {len(en_dataset)}, ES: {len(es_dataset)})")
+    
+    # Paths for completions
+    en_run_path_pref = "/fs/clip-projects/rlab/atrey/humorbench/completions/en/"
+    es_run_path_pref = "/fs/clip-projects/rlab/atrey/humorbench/completions/es/"
+    
+    # Output paths for combined results
+    out_path = "/fs/clip-projects/rlab/atrey/humorbench/results/combined/csvs/combined"
+    cm_save_path = "/fs/clip-projects/rlab/atrey/humorbench/results/combined/confusion_matrices/"
     joke_col_name = "Joke"
+    
+    # Create output directories if they don't exist
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    os.makedirs(cm_save_path, exist_ok=True)
 
     for model in models:
         print("Evaluating model: ", model)
-        task1_run_path = run_path_pref + f"{model}/es_task1_{model}"
+        
+        # Create paths for both languages
+        en_task1_run_path = en_run_path_pref + f"{model}/en_task1_{model}"
+        es_task1_run_path = es_run_path_pref + f"{model}/es_task1_{model}"
+        task1_run_paths = [en_task1_run_path, es_task1_run_path]
         task1_cm_save_path = cm_save_path + f"task1_confusion_matrix_{model}"
-        task2_run_path = run_path_pref + f"{model}/es_task2_{model}"
+        
+        en_task2_run_path = en_run_path_pref + f"{model}/en_task2_{model}"
+        es_task2_run_path = es_run_path_pref + f"{model}/es_task2_{model}"
+        task2_run_paths = [en_task2_run_path, es_task2_run_path]
         task2_cm_save_path = cm_save_path + f"task2_confusion_matrix_{model}"
     
-        pass_at_1_task1, pass_at_5_task1 = eval_task1(dataset_path, task1_run_path, task1_cm_save_path, joke_col_name, model)
+        pass_at_1_task1, pass_at_5_task1 = eval_task1(
+            None,
+            None,
+            task1_cm_save_path, 
+            joke_col_name, 
+            model,
+            run_paths=task1_run_paths,
+            dataset=combined_dataset
+        )
 
         task_1_results_dict['model'].append(model)
         task_1_results_dict['pass@1_acc'].append(pass_at_1_task1[0])
@@ -59,7 +94,15 @@ if __name__ == "__main__":
         task_1_results_dict['pass@5_f1'].append(pass_at_5_task1[1])
         task_1_results_dict['pass@5_auc'].append(pass_at_5_task1[2])
 
-        pass_at_1_task2, pass_at_5_task2 = eval_task2(dataset_path, task2_run_path, task2_cm_save_path, joke_col_name, model)
+        pass_at_1_task2, pass_at_5_task2 = eval_task2(
+            None,
+            None,
+            task2_cm_save_path, 
+            joke_col_name, 
+            model,
+            run_paths=task2_run_paths,
+            dataset=combined_dataset
+        )
 
         task_2_results_dict['model'].append(model)
         task_2_results_dict['pass@1_acc'].append(pass_at_1_task2[0])

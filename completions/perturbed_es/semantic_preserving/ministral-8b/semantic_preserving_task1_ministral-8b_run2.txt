@@ -1,0 +1,817 @@
+=== Prompt 1 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggerated and absurd advice to critique and satirize the problem of jealousy."}
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+
+=== Prompt 5 ===
+
+{"category": "satire", "reasoning": "The joke satirizes the idea of being too non-racist and turns it into a humorous scenario about a medical incident."}
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+ for the joke: {"category": "satire", "reasoning": "The joke critiques the absurdity of paying for coaching and the double-speak of the coach."}
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the coaching industry by suggesting that all coaches have a dark past and comparing them to Batman, exaggerating the similarities and differences in a humorous way."}
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke uses self-deprecating humor by making light of the speaker's own frustration and the use of explicit language."}
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke pokes fun at the overprotective nature of some parents and exaggerates it to a comical level, which is characteristic of satire."
+}
+```
+
+=== Prompt 17 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke is a form of satire as it mocks the absurdity and high cost of alternative medical practices like acupuncture and Reiki."
+}
+```
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to satirize the experience of going to the gym, particularly the nudity aspect."}
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+
+{"category": "satire", "reasoning": "The joke is a satirical commentary on the absurdity of internet conspiracies and beliefs, using the exaggeration of the speaker's supposed experiences with ghosts to highlight the absurdity."}
+
+=== Prompt 24 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the idea of ghosts by attributing them with mundane, non-ghostly behaviors and complaints, such as opening cabinets and running water, and by comparing them to human tasks like paying taxes."
+}
+```
+
+=== Prompt 25 ===
+ for the joke:
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the excessive convenience of modern products and the absurdity of people's reactions to them."
+}
+```
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke pokes fun at the speaker's own lack of useful skills and the absurdity of studying Latin for modern-day applications."
+}
+```
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the hypocrisy of a religious figure making moral judgments on issues they themselves do not practice or understand."
+}
+```
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+{"category": "satire", "reasoning": "The joke is a commentary on the hypocrisy of the church and its handling of the situation, which is a form of satire."}
+
+=== Prompt 34 ===
+
+
+=== Prompt 35 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggerated and absurd scenarios to critique the political situation in Catalonia, making it a satire."
+}
+```
+
+=== Prompt 36 ===
+
+
+{
+  "category": "satire",
+  "reasoning": "The joke pokes fun at the Catalan tradition of the sardana dance, criticizing it while exaggerating its supposed benefits."
+}
+
+=== Prompt 37 ===
+
+{"category": "satire", "reasoning": "The joke is a satire of societal fears and superstitions, using exaggeration and absurdity to poke fun at common misconceptions."}
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+ {"category": "surreal/absurdism", "reasoning": "The joke includes an absurd and unrealistic scenario, such as a 200-meter atunero from the Lora in Paris."}
+
+=== Prompt 40 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the absurdity of late-night infomercials and their ability to manipulate people into buying unnecessary items."}
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+{"category": "dry", "reasoning": "The joke uses a deadpan delivery and minimalistic language to highlight the absurdity of the situation, which is a characteristic of dry humor."}
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+
+
+=== Prompt 50 ===
+
+
+{"category": "surreal/absurdism", "reasoning": "The joke involves a bizarre and illogical situation, such as a person walking a dead dog in a park, and it doesn't make sense in the context of reality."}
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurdity to critic societal norms and practices, which is characteristic of satire."
+}
+```
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+
+
+{"category": "topical", "reasoning": "The joke references specific colors and professions, making it topical."}
+
+=== Prompt 58 ===
+
+
+=== Prompt 59 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggerated and absurd stereotypes to mock societal norms and attitudes about sexual orientation and gender roles, which is a characteristic of satire."}
+
+=== Prompt 60 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke is a commentary on the excessive and intrusive advertising that users experience on tablets, using a humorous and exaggerated scenario."
+}
+```
+
+=== Prompt 61 ===
+
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+{"category": "anecdotal", "reasoning": "The joke is a personal story about a recent event and the interactions with the people involved."}
+
+=== Prompt 64 ===
+
+
+```json
+{
+  "category": "anecdotal",
+  "reasoning": "The joke is a personal story from the speaker's childhood, making it an anecdote."
+}
+```
+
+=== Prompt 65 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating as it involves the speaker's own experiences and humorously criticizes their own situation."}
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+ for the joke: Los amantes de la naturaleza.\n¿Conocéis alguno?\n¿Tenéis alguno cercano?\nSon estos amantes de la naturaleza, los habréis oído, que porque sí, quieren que todo el mundo cuidemos la naturaleza.\nTodo el mundo, sin distinción.\nTodo el mundo tiene que cuidar la naturaleza, tiene que portarse bien con ella.\nA mí es lo más injusto que he oído jamás.\nPorque ahora mismo,a hacer la prueba,si echáis un vistazo a vuestro alrededor,por lo menos vais a ver a dos personas con las que la naturaleza no se ha portado nada bien.\nyo no quiero señalar a nadie ¿sabéis por qué pasa esto?\nestamos emocionados los amantes de la naturaleza son los mismos que los amantes de los animales estos amantes de los animales que a mí me vuelven loco
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and ridicule to criticize the concept of 'lovers of nature' who expect everyone to care for the environment, highlighting the absurdity of their demands."
+}
+```
+
+=== Prompt 71 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke criticizes people who buy expensive pets while there are many abandoned animals in need of homes, highlighting the hypocrisy and excess."
+}
+```
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+
+{"category": "sarcastic", "reasoning": "The joke uses exaggeration and mockery to express displeasure with the current situation, particularly the return of a TV show after a pandemic and the general state of the world."}
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+ for the joke:
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurd scenarios to mock the fear of flying and the lengths people might go to avoid it."
+}
+```
+
+=== Prompt 81 ===
+
+
+=== Prompt 82 ===
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurdity to criticize the justice system, making it a form of satire."
+}
+```
+
+=== Prompt 83 ===
+
+
+```json
+{
+  "category": "surreal/absurdism",
+  "reasoning": "The joke involves a highly exaggerated and implausible scenario about a friend who believes his parents died from absurd causes, such as Alzheimer and alopecia, leading to his irrational fears and actions."
+}
+```
+
+=== Prompt 84 ===
+
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes societal norms and expectations about having children, using hyperbolic and absurd language to mock the pressure and traditional views on family planning."
+}
+```
+
+=== Prompt 91 ===
+
+
+{"category": "satire", "reasoning": "The joke mocks the absurdity and misogyny of the father's statement, using exaggeration and irony to highlight the absurdity of the situation."}
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+```json
+{
+  "category": "wordplay",
+  "reasoning": "The joke uses a pun with the word 'pez' which means 'fish' in Spanish, but is also a homophone of 'pez', meaning 'foot' in English. The humor comes from the play on words and the unexpected connection between a fish and a foot."
+}
+```
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+ for the joke: Candela Peña ganó su segundo Goya en 2013 por la película Una pistola en cada mano.\nY cuando subió a recoger el premio, Candela hizo algo que me parece lamentable, penoso.\nO sea, sus palabras al recoger el premio fueron, cito textualmente, está en YouTube, lo podéis ver.\nDijo, llevo tres años sin trabajar, desde aquí pido trabajo, tengo un hijo que alimentar.\nMira, hasta el Goya estaba así.\nHija de puta que te acaban de dar un Goya\nYo me he pasado tres meses en la cárcel\nPor intentar robar el de Dani Rovira
+
+=== Prompt 101 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the overly demanding and arbitrary nature of casting processes in various industries, comparing them to absurd tasks like writing on a paper cup or doing drug tests."}
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+ for the joke: "Why is it that you can't have a good conversation with your parents anymore? Because they are always trying to make you into a better version of them."
+
+=== Prompt 104 ===
+
+{"category": "satire", "reasoning": "The joke is a satire of the over-the-top production values and absurdity of the film '50 Shades of Grey'."}
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker making fun of their own wife's behavior and their own response to it, which is a classic trait of self-deprecating humor."}
+
+=== Prompt 107 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to poke fun at a common situation, making it a form of satire."}
+
+=== Prompt 108 ===
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke is self-deprecating because it pokes fun at the speaker's own situation and the difficulties they face."
+}
+```
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+ for the joke: Tengo novia y muy bien, y no voy a contar ni que me ha dejado, ni las tapas del váter, ni mierdas de esas.\nSimplemente el dato, por si la gente se lo cree, coño, que tengo novia.\nY cometo dos temeridades, cuidado, no solo la tengo, tengo novia y vivo con ella.\nY desde hace un mes, cuenta compartida.\nEstoy en un callejón sin salida.\n¿Qué será lo próximo? ¿Eh? ¿Qué será lo próximo?\nCuando tengamos una hija, ponle de nombre Moussarrat.\nPorque ella es catalana y le gusta mucho.\n¿Qué es niño?Moussarrat también.\nEs que es muy catalana. {"category": "aggressive", "reasoning": "The joke uses aggressive language and tone to emphasize the speaker's frustration and defiance."}
+
+=== Prompt 112 ===
+
+{"category": "observational", "reasoning": "The joke is based on the observation of everyday life, specifically the challenges of living in a small apartment with a partner."}
+
+=== Prompt 113 ===
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggerated and unrealistic scenarios to poke fun at societal norms and relationships, which is a characteristic of satire."
+}
+```
+
+=== Prompt 114 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the traditional view of marriage and the loss of individuality and freedom in relationships, highlighting the absurdity of the situation."}
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke is a commentary on societal expectations and judgments about fitness and body image, which is a common theme in satire."
+}
+```
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke involves the speaker's own action (masturbation) and their child's interruption, which is a form of self-deprecation."
+}
+```
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes modern conveniences like hoverboards and the language used to describe disabilities, highlighting the absurdity and hypocrisy in current societal attitudes."
+}
+```
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to criticize the targeting of advertisements, highlighting the disparity between people who pay for Spotify Premium and those who use the free version."}
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke pokes fun at the perceived disrespect of youth and their preferences, using exaggerated and outdated references to highlight the differences between generations."
+}
+```
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+ for the joke: "Pues acabo de cumplir 39 años.\nNo hagáis eso, es una edad de mierda.\nEs una edad de mierda sobre todo cuando te das cuenta de que no tienes la vida que tú pensabas que ibas a tener.\nYo pensaba que a esta edad parecería un madurito interesante.\nParezco un alcohólico divorciado.\nNo es lo mismo, no es lo mismo."
+
+=== Prompt 135 ===
+
+
+{"category": "observational", "reasoning": "The joke observes and contrasts the societal changes and perceptions over time, specifically regarding fashion and aging."}
+
+=== Prompt 136 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke is self-deprecating as the speaker is poking fun at their own situation and the potential for being perceived as suspicious."
+}
+```
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and irony to critique the capitalist system and its potential to cause global conflict, which is characteristic of satire."
+}
+```
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke critiques and exaggerates the effects of capitalism on society, highlighting the division and perception shifts it causes, which is characteristic of satire."
+}
+```
+
+=== Prompt 141 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the creativity and lack thereof among beggars by comparing their signs to a lack of creativity in their presentation."
+}
+```
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+{"category": "surreal/absurdism", "reasoning": "The joke is surreal and absurd because it combines a seemingly normal conversation about diabetes with a sudden and inexplicable shift to a terrorist plot involving the president of the government."}
+
+=== Prompt 144 ===
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to mock the behavior of the homeless, comparing it to narcotraficantes (drug traffickers)."}
+
+=== Prompt 145 ===
+ for the joke: No estoy a favor del narcotráfico pero hemos de reconocer que esos tíos, creativamente hablando, son los mejores del mundo.\nPasan droga en cualquier parte.\nEn pelucas, en huesos de escayola, en fichas de dominó.\nHace poco han pillado un calamar gigante con droga.\nUn calamar gigante.\n¿De dónde coño? ¡Han sacado un puto calamar gigante!\n¿Se tiene el cártel de la droga un vivero de calamar gigantes?\n¡Darío, wey, este es Rodolfo!\n18 de largo por 8 de ancho.\nDarwin lo fliparía con Rodolfo.\nPero nosotros lo utilizamos para pasar droga.\nDe hecho, si alguna vez alguno de nosotros ve a un dinosaurio traspasar la frontera entre México y Estados Unidos, ese no es un dinosaurio normal.\nEse es un dinosaurio mula.\nCreado por el cártel de la droga.\nDe hecho,a ese dinosaurio lo identificaría rápidamente si lo pones en Jurassic Park,porque sería el único dinosaurio que no tendría hambre.\nAplausos.
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the creativity and resourcefulness of drug traffickers in passing drugs through unusual methods, including a giant squid, and exaggerates these methods to a humorous and absurd extent."
+}
+```
+
+=== Prompt 146 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke self-deprecates by comparing his job as a comedian to being an undertaker, highlighting the difficulties and lack of appreciation for his job."
+}
+```
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggerated and absurd language to criticize a TV show and its audience, which is a characteristic of satire."}
+
+=== Prompt 150 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurdity to mock small-town life and communication, which is characteristic of satire."
+}
+```
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke is self-deprecating as the speaker is making fun of their own family dynamics and their mother's resistance to change."
+}
+```
+
+=== Prompt 153 ===
+ for the joke: Se ha quedado con sus frases de antes de madre de antes.\nMi madre Aún dice que el agua oxigenada no escuece.\nDigo,te reviento la cabeza,no escuece.\nHombre,con las cosas blancas que me salen a mí,pues no vas a hacer eso.
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+ for the joke: {"category": "observational", "reasoning": "The joke is observational as it comments on the human tendency to become absorbed in tasks and the sudden awareness of danger or danger signals."}
+
+=== Prompt 156 ===
+
+
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the common scenario of a partner or family member expressing anger or frustration, and the recipient's response of enduring a long, pointless lecture."
+}
+
+=== Prompt 157 ===
+ for the joke: Y ya lo tienes encima Que sea la última vez\n¿Vale? Con toda Mantén la calma Mantén la calma Mantén la calma\nCon toda la tranquilidad La calma\nY con toda la dulzura del mundo En ese momento de Que sea la última Le dices Hasta así que tienes una cosita aquí\n¡Buah!Es un barrido psicológico¡Buah!
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggerated and absurd language to comment on a mundane situation, characteristic of satire."
+}
+```
+
+=== Prompt 158 ===
+ for the joke: O sea, es que No hay ninguna mujer que sea capaz de mantener el nivel de mala hostia con el que ha entrado si piensa que tiene un moco aquí quitándole credibilidad.\nEs así. Es así. Es así. Es así.\nEntonces, en ese momento, cambia totalmente de...\n¿Te voy a matar? ¿Dónde? ¿Aquí?\nSi le ves todavía muy subidita,le dices,no,cariño,tuerca otro lawdo.\nY ahí compensas un poquito\nPero luego no es capaz de volver Al nivel de mala hostia con el que ha entrado\nEs imposible, no viene a cuento\nEntonces ya se convierte más en plan de Bueno, pues que sepas que Me ha sentado mal esto\nY tú miras el reloj y dices Cinco minutos, Dios mío\nDe dos horas a cinco minutos Ahora tengo una hora cincuenta y cinco que no sé qué hacer\nGracias.
+
+=== Prompt 159 ===
+
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the speaker is making fun of their own lack of exciting life experiences and the need to make up stories to have something to talk about."}
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke mocks the idea of a program that compiles a year's worth of memories, particularly focusing on negative experiences, which is a satirical take on the idea of summarizing one's life."
+}
+```
+
+=== Prompt 162 ===
+
+
+{
+  "category": "observational",
+  "reasoning": "The joke is observational as it comments on the speaker's proximity to different locations and the potential consequences of this, using repetition for emphasis."
+}
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+ for the joke: {"category": "satire", "reasoning": "The joke uses exaggeration and hyperbole to critique political topics, fitting the definition of satire."}
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+{"category": "satire", "reasoning": "The joke is a satirical critique of Catalan independence movements, suggesting a humorous and exaggerated response to the issue."}
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+ for the joke: O sea, no sé, ¿sabes? No, los animales molan.\nYo tengo peces en casa, tengo un acuario, esto me da vergüenza decirlo, ¿sabes?\nPorque si siempre conozco a alguien con un acuario pienso, ¡qué pringado!\nPero yo tengo peces, lo siento, me da vergüenza decirlo.\nSi los cuido un montón, a mis peces, yo me entero de todo lo que ocurre en ese acuario.\nSi un pez nada un poco jodido, si uno come de más, yo soy como una madre para ellos.\nSoy como una pezona,estoy súper encima,mido todo,el agua,la crueldad del agua,el pH,el JPG,el PDF,o sea,todo realmente lo tengo aquí,¿sabes?
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The speaker admits they don't have strong opinions on many topics and only feel strongly about the topic of abortion, making it a self-deprecating joke."
+}
+```
+

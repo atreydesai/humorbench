@@ -1,0 +1,650 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+ Here is the joke:
+
+...me tiene que tocar bueno ojo que reconozco que hay algo hay algo que me da más miedo que los fantasmas...\nNo sé si lo conocéis, ¿eh?\nYo me lanzo.\nMe está pasando con los niños.\nHay unos niños malísimos todos, que es...\nYo voy por un centro comercial andando, ¿vale?\nVoy andando, tal.\nY entonces me empiezan a adelantar niños muy rápido.\nO sea, como... Que digo, hostia, ¿qué clase de brujería es esta?\nY entonces resulta que desde hace tiempo hay unas zapatillas de deporte... que tienen una rueda aquí detrás.\nEntonces el niño como que pilla carrerilla y luego hace...\nPero que van una hostia, que eso salta al radar, mentira.\nO sew,eso que,que tes como adelantan Jedi.\n¿Sabéis de lo que hablo?\nAh, vale, vale.
+
+### Answer:
+
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "subversion", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+=== Prompt 34 ===
+ Here is the joke again:
+
+```
+¿Qué camiseta deberíamos llevar a Madrid si queremos realmente tocarle los cojones a los madrileños?
+Delaware Una Barcelona 92.
+¡Donde duele!
+```
+
+### Classified Lines
+
+1. "¿Qué camiseta deberíamos llevar a Madrid si queremos realmente tocarle los cojones a los madrileños?" - establishing context
+2. "Delaware Una Barcelona 92." - setup
+3. "¡Donde duele!" - punchline
+
+### Answer
+
+```json
+{"ANSWER":["establishing context", "setup", "punchline"]}
+```
+
+=== Prompt 35 ===
+
+
+=== Prompt 36 ===
+ Here is the joke again:
+
+```
+Los catalanes hemos aportado cosas como, por ejemplo, la sardana, tíos.
+La sardana ews mierda unma aioler de,pero la sardana ha aportado cosa una considerablemente importante resto al del mundo,que es la costumbre Primer Estado en danzar círculos,la dejando rop en para vehículo no tener que el subvencionar guardearropa.
+Esto es nuestro, hay que reivindicarlo.
+```
+
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+
+
+=== Prompt 40 ===
+
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+ Here's the classification:
+
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 49 ===
+
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+ Please classify the following joke.
+
+Sí, amigos, por si no os habíais dado cuenta todavía, pues he venido a darle el toque fucsia a la noche.
+Rosa oscuro para los hombres heterosexuales.
+Magenta para el informático.
+Sí,soy gay.
+¿Escucháis? el Es sonido que hcen 65 relajándose vaginas a vez la.
+END OF JOKE.
+
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 58 ===
+
+
+=== Prompt 59 ===
+
+
+=== Prompt 60 ===
+
+
+=== Prompt 61 ===
+ JOKE.
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+ The joke is: Los amantes de la naturaleza.\n¿Conocéis alguno?\n¿Tenéis alguno cercano?\nSon estos amantes de la naturaleza, los habréis oído, que porque sí, quieren que todo el mundo cuidemos la naturaleza.\nTodo el mundo, sin distinción.\nTodo el mundo tiene que cuidar la naturaleza, tiene que portarse bien con ella.\nA mí es lo más injusto que he oído jamás.\nPorque ahora mimo,a hacer la prueba,si un echáis vistazo a vuestro alrededr,por lo vais menos a a considerar dos con pueblo que las naturaleza la se no portado ha nada bien.\nyo no quiero señalar a nadie ¿sabéis por qué pasa esto?\nestamos emocionados los amantes de la naturaleza son los mismos que los amantes de los animales estos amantes de los animales que a mí me vuelven loco END OF JOKE.
+
+{"ANSWER":["setup", "escalation", "subversion", "punchline", "callback", "misdirection", "non-line", "repetition"]}
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+ Here is the joke:
+
+When I wanted to give a blowjob I said, "Hey, baby, do you want to drink from the honey of success?"
+
+
+
+=== Prompt 78 ===
+
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+ Here is the joke:
+
+yo tengo mucho miedo a volar, a mí me da pánico coger un avión, muchísimo pánico.
+
+¿hay alguien aquí que le dé más miedo a volar?
+
+¿a ti que te da miedo?
+
+¿cómo te llamas?
+
+Bruno, ¿a ti te da miedo volar?
+
+por ejemplo todavía no, ¿vas de durito porque has venido con la novia, Bruno?
+
+bueno, Bruno, supongamos que a ti te da el mismo miedo que a mí a volar, que le tengo pánico hasta cuando me meto en la página de internet para buscar precios.
+
+Si yo dijera te,Bruno,qus Delaware aquí hasta el día te que mueras,todos durante los días ir para a trabajar,antes tuvieras que coger vión un a Madrid y girar a Barcerlona,que o era eso,o que den te fondo por,Bruno,a que no aún te da gol miedo el avión,Bruno.
+
+Te acabo de agarrar una pasta en psicólogos.
+
+END OF JOKE.
+
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup
+
+=== Prompt 81 ===
+
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+=== Prompt 84 ===
+
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+ Here is a joke: Tengo novia y muy bien, y no voy a contar ni que me ha dejado, ni las tapas del váter, ni mierdas de esas.\nSimplemente el dato, por si la gente se lo cree, coño, que tengo novia.\nY cometo dos temeridades, cuidado, no solo la tengo, tengo novia y vivo con ella.\nY desde hace un mes, cuenta compartida.\nEstoy en un callejón sin salida.\n¿Qué será lo próximo? ¿Eh? ¿Qué será lo próximo?\nCuando tengamos una hija, ponle de nombre Moussarrat.\nPorque ella es catalana y le gusta mucho.\n¿Qé es niño?Moussarrat tasmbié.\nEs que es muy catalana. END OF JOKE. {"ANSWER":["establishing context", "setup", "setup", "setup", "escalation", "callback", "callback", "callback", "callback", "callback", "callback", "callback", "callback", "callback"]}
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+ Please provide your answer in the following format:
+{"ANSWER":["label1", "label2",...]}
+
+{"ANSWER":["establishing context", "setup", "subversion", "punchline"]}
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+ Here is the classified joke:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "escalation",
+    "callback",
+    "punchline"
+  ]
+}
+```
+
+Explanation:
+- "Salgo corriendo con los huevos azules, entro en el salón y veo a mi hijo jugando a la Wii" establishes the context and sets up the initial situation.
+- "Mira papá, soy campeón de la copa caparazón con cupa trupa" escalates the joke by adding a humorous twist to the son's gaming activity.
+- "extraordinaio Diego,voy a mi habitación a la pr bandera Primer Estado los campeones,tardo 15 minutos" is a callback that references the initial setup while adding a humorous delay.
+- "Gracias." is the punchline that ties the joke together and provides the final humorous resolution.
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+ Here's the classified joke:
+
+- "O sea, vivo a cinco minutos de La Paz, a cinco minutos andando\nY a cinco minutos del Ramón y Cajal\nO sea, estoy aquí distante\nYo en caso eelaware moriré flexión Estado indecisión Diamante\nO sea, esto será así, ¿sabes?\nGracias por ver el video."
+  - "Establishing context"
+  - "Setup"
+  - "Escalation"
+  - "Subversion"
+  - "Misdirection"
+  - "Timing"
+  - "Meta-humor"
+  - "Punchline"
+  - "Redirection"
+  - "Non-line"
+  - "Wrap-up"
+  - "Repetition"
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+ Here is the joke:
+Yo iba en plan romántico, a hacer el amor, un poco de velitas, un poco de incienso, un poco de jazz, ¿sabes?
+Ella venía a perderle el respeto al cuerpo humano.
+O sea, yo me quedaba acojonado.
+Tú sabes, hubo un momento que estaba yo tumbado, boca arriba, ella estaba encima de mí cabalgando hacia el apocalipsis como si no hubiera mañana.
+De estos momentos, chicos, en los que dudas si sigues participando de eso, ¿no?
+Sigo yo...
+Y de repente se viene arriba y me grita, me dice ¡Insúltame! ¡Escúpame! ¡Pégame!
+Claro, yo soy que otra de multiplicación, lo primero que pienso es ver a, si lo haces género no falta hace, ¿no?
+Gracias.
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "setup",
+    "setup",
+    "escalation",
+    "escalation",
+    "subversion",
+    "punchline",
+    "punchline"
+  ]
+}
+```
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+

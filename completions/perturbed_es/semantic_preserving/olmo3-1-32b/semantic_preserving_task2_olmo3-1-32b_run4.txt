@@ -1,0 +1,1003 @@
+=== Prompt 1 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "misdirection", "timing", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline", "wrap-up", "meta-humor", "wrap-up", "non-line", "wrap-up"]}
+
+=== Prompt 2 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","misdirection","setup","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","callback","wrap-up"]}
+
+=== Prompt 3 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline", "wrap-up", "meta-humor", "non-line", "non-line", "non-line"]}
+
+=== Prompt 4 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "misdirection", "callback", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up", "non-line"]}
+
+=== Prompt 5 ===
+
+assistant
+{"ANSWER": [
+"establishing context",
+"establishing context",
+"setup",
+"escalation",
+"escalation",
+"escalation",
+"misdirection",
+"callback",
+"escalation",
+"escalation",
+"punchline",
+"redirection",
+"wrap-up",
+"wrap-up"
+]}
+
+=== Prompt 6 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "misdirection", "misdirection", "misdirection", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 7 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "callback", "escalation", "subversion", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 8 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "misdirection", "escalation", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 9 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "escalation", "callback", "meta-humor", "wrap-up"]}
+
+=== Prompt 10 ===
+ Do not include keyword joke. in the response.
+assistant
+{"ANSWER":["establishing context","setup","escalation","subversion","callback","misdirection","timing","meta-humor","punchline","non-line","wrap-up","repetition"]}
+
+=== Prompt 11 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "setup", "escalation", "misdirection", "callback", "punchline", "meta-humor", "wrap-up"]}
+
+=== Prompt 12 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 13 ===
+ Input: que el otro día se me enfadaron unas chicas actuando.\nMe dice, pues nosotras somos dos cerezas.\nDigo, pues vete al pachá que ya tenéis el logotipo hecho.\nMira, estoy hasta el coño de que se ofenda la gente ya, ¿eh?\nPerdón que utilice esta palabra, es que si digo estoy hasta la vagina parece que me he manchado de algo, ¿verdad?\nEs como los chicos que decís mucho, me suda la polla, me suda la polla.\nPorque si decís, me suda el pene, es como, pues vete al médico.
+Output:
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "misdirection", "subversion", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 14 ===
+ Make sure your response is valid JSON.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "wrap-up", "callback", "wrap-up", "punchline", "meta-humor"]}
+
+=== Prompt 15 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "meta-humor", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 16 ===
+
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","callback","misdirection","timing","meta-humor","punchline","redirection","non-line","wrap-up","repetition"]}
+
+=== Prompt 17 ===
+ Make sure to label all lines, including any that may be empty or contain only line breaks or whitespace. ###
+
+Example input:
+Why did the chicken cross the road?
+To get to the other side.
+I've told you a thousand times.
+### 
+
+Example output:
+{"ANSWER": ["establishing context", "punchline", "callback", "repetition"]}
+### 
+
+assistant
+{"ANSWER": ["establishing context", "setup", "setup", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+###
+
+=== Prompt 18 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "misdirection", "escalation", "escalation", "subversion", "misdirection", "escalation", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 19 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "punchline"]}
+
+=== Prompt 20 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "setup", "setup", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "subversion", "callback", "wrap-up", "meta-humor"]}
+
+=== Prompt 21 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "escalation", "misdirection", "punchline", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 22 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "subversion", "escalation", "escalation", "escalation", "misdirection", "callback", "wrap-up"]}
+
+=== Prompt 23 ===
+ Here is a joke:
+¿Ya sabes qué es un meme?
+Un meme es como un ganso: se copia, se pega, y si lo usas demasiado, te quedarás solo.
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "punchline"]}
+
+=== Prompt 24 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "callback", "misdirection", "escalation", "escalation", "meta-humor", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 25 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "misdirection", "escalation", "escalation", "escalation", "subversion", "callback", "wrap-up"]}
+
+=== Prompt 26 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "misdirection", "subversion", "callback", "punchline"]}
+
+=== Prompt 27 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "escalation", "meta-humor", "escalation", "misdirection", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 28 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","misdirection","escalation","escalation","escalation","escalation","misdirection","escalation","escalation","escalation","escalation","misdirection","callback","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation
+
+=== Prompt 29 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "misdirection", "timing", "meta-humor", "escalation", "subversion", "punchline", "non-line", "non-line", "non-line", "non-line", "non-line", "non-line", "non-line", "wrap-up"]}
+
+=== Prompt 30 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "callback", "wrap-up", "punchline"]}
+
+=== Prompt 31 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "misdirection", "escalation", "escalation", "subversion", "callback", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "escalation", "punchline", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escal
+
+=== Prompt 32 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "setup", "misdirection", "non-line", "wrap-up"]}
+
+=== Prompt 33 ===
+ Make sure to end your response with the exact string "
+
+=== Prompt 34 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 35 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "misdirection", "callback", "establishing context", "establishing context", "meta-humor", "establishing context", "establishing context", "establishing context", "escalation", "subversion", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 36 ===
+ Do not include keywords ['fear', 'food', 'interest', 'television'] in the response.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "subversion", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 37 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "escalation", "wrap-up", "callback", "meta-humor", "punchline", "wrap-up", "non-line", "wrap-up"]}
+
+=== Prompt 38 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "misdirection", "punchline"]}
+
+=== Prompt 39 ===
+ Make sure to include a label for each line, including empty or non-verbal lines.
+assistant
+{"ANSWER": [
+"establishing context",
+"setup",
+"setup",
+"setup",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"misdirection",
+"misdirection",
+"punchline",
+"punchline",
+"punchline",
+"punchline",
+"wrap-up",
+"wrap-up",
+"non-line"
+]}
+
+=== Prompt 40 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","misdirection","escalation","escalation","escalation","escalation","escalation","escalation","misdirection","misdirection","misdirection","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","punchline","punchline","punchline","punchline","punchline","punchline","punchline","wrap-up","wrap-up"]}
+
+=== Prompt 41 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 42 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "setup", "escalation", "escalation", "callback", "escalation", "setup", "misdirection", "escalation", "escalation", "escalation", "punchline", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 43 ===
+
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","misdirection","callback","subversion","punchline"]}
+
+=== Prompt 44 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "callback", "wrap-up"]}
+
+=== Prompt 45 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "escalation", "timing", "wrap-up", "non-line"]}
+
+=== Prompt 46 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "misdirection", "subversion", "callback", "wrap-up"]}
+
+=== Prompt 47 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "escalation", "misdirection", "meta-humor", "punchline", "callback", "escalation", "escalation", "misdirection", "callback", "wrap-up", "non-line", "wrap-up"]}
+
+=== Prompt 48 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "subversion", "callback", "meta-humor", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 49 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "callback", "misdirection", "meta-humor", "escalation", "callback", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 50 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "escalation", "misdirection", "escalation", "callback", "escalation", "escalation", "wrap-up", "non-line", "wrap-up"]}
+
+=== Prompt 51 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "setup", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "callback", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "punchline"]}
+
+=== Prompt 52 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "wrap-up", "escalation", "misdirection", "punchline"]}
+
+=== Prompt 53 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "subversion", "punchline"]}
+
+=== Prompt 54 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "timing", "establishing context", "wrap-up", "escalation", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 55 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "escalation", "punchline"]}
+
+=== Prompt 56 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "subversion", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 57 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "setup", "punchline", "callback", "escalation", "punchline"]}
+
+=== Prompt 58 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 59 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "misdirection", "setup", "callback", "misdirection", "misdirection", "escalation", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 60 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "setup", "setup", "setup", "escalation", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 61 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "callback", "timing", "wrap-up", "punchline"]}
+
+=== Prompt 62 ===
+ INPUT:  Me voy a tener que ir en BlaBlaCar.
+¿Sabéis lo que es BlaBlaCar?
+Para el que no lo sepa, consiste en viajar en tu coche con alguien que no conoces absolutamente de nada.
+Para poner un ejemplo más práctico,es,por ejemplo,si,imaginaos que Enrique Iglesias un día viajara en su coche con su capellán militar,¿no?
+En fin. Este también me gusta mucho.
+END OF JOKE.
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "setup", "escalation", "misdirection", "wrap-up"]}
+
+=== Prompt 63 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "establishing context", "escalation", "misdirection", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 64 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 65 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "misdirection", "wrap-up", "establishing context", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "punchline", "meta-humor", "wrap-up"]}
+
+=== Prompt 66 ===
+ Do not include keyword 13 in the response.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "callback", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 67 ===
+ Do not include keyword ¿vale?\n in the response.
+assistant
+{"ANSWER":["establishing context", "setup", "setup", "setup", "setup", "setup", "misdirection", "callback", "wrap-up", "punchline", "wrap-up", "wrap-up", "non-line", "wrap-up"]}
+
+=== Prompt 68 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "meta-humor", "establishing context", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 69 ===
+
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","misdirection","meta-humor","wrap-up"]}
+
+=== Prompt 70 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "setup", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "meta-humor", "escalation", "punchline"]}
+
+=== Prompt 71 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "misdirection", "timing", "punchline", "redirection", "meta-humor", "wrap-up"]}
+
+=== Prompt 72 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "misdirection", "callback", "misdirection", "escalation", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 73 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "setup", "wrap-up", "establishing context", "escalation", "escalation", "escalation", "escalation", "misdirection", "punchline", "punchline", "punchline", "callback", "meta-humor", "non-line"]}
+
+=== Prompt 74 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 75 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "escalation", "escalation", "punchline", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 76 ===
+
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","misdirection","callback","wrap-up","punchline"]}
+
+=== Prompt 77 ===
+ In your response, the letter n should appear at least 11 times.
+assistant
+{"ANSWER":["establishing context","setup","escalation","misdirection","callback","timing","meta-humor","punchline"]}
+
+=== Prompt 78 ===
+ Input: 
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "subversion", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 79 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "misdirection", "punchline"]}
+
+=== Prompt 80 ===
+ Make sure to put the correct label for each line and return only the JSON object with the labels.
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "misdirection", "callback", "callback", "callback", "escalation", "misdirection", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline", "meta-humor"]}
+
+=== Prompt 81 ===
+ Make sure to use the same order of lines as the input.
+assistant
+{"ANSWER":["establishing context","establishing context","setup","setup","setup","subversion","misdirection","misdirection","wrap-up","punchline","non-line"]}
+
+=== Prompt 82 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","misdirection","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation
+
+=== Prompt 83 ===
+ Make up a label from the following list if none of the listed labels seem to fit the current content: ['punchline', 'callback', 'establishing context', 'escalation', 'misdirection', 'setup', 'repetition', 'timing', 'punchline setup', 'subversion', 'wrap-up', 'meta-humor', 'redirection', 'non-line'] (do not use the last three). <functions>
+assistant
+{"ANSWER": [
+"establishing context",
+"setup",
+"setup",
+"misdirection",
+"callback",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"misdirection",
+"punchline",
+"wrap-up",
+"non-line",
+"wrap-up"
+]}
+
+=== Prompt 84 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "subversion", "callback", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "misdirection", "meta-humor", "punchline", "wrap-up", "non-line", "non-line", "wrap-up"]}
+
+=== Prompt 85 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "wrap-up"]}
+
+=== Prompt 86 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline"]}
+
+=== Prompt 87 ===
+ Make up labels if you have to. DO NOT include keyword assign in the response.
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","misdirection","punchline","wrap-up"]}
+
+=== Prompt 88 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "wrap-up", "callback", "punchline"]}
+
+=== Prompt 89 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "misdirection", "escalation", "punchline", "callback", "meta-humor", "wrap-up"]}
+
+=== Prompt 90 ===
+
+assistant
+{"ANSWER":["establishing context","setup","setup","misdirection","escalation","escalation","wrap-up","setup","setup","misdirection","escalation","callback","escalation","meta-humor","punchline","wrap-up"]}
+
+=== Prompt 91 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "escalation", "subversion", "callback", "misdirection", "punchline", "meta-humor", "wrap-up"]}
+
+=== Prompt 92 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "misdirection", "subversion", "wrap-up"]}
+
+=== Prompt 93 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "escalation", "misdirection", "timing", "meta-humor", "punchline", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 94 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "escalation", "misdirection", "callback", "meta-humor", "punchline", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 95 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 96 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "callback", "callback", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "meta-humor", "wrap-up", "non-line"]}
+
+=== Prompt 97 ===
+ Example input: Can you help me find my keys?\nI can't help you with that.\nMaybe you should try looking in the usual places.\nLike where?\nAnywhere but here.\nTrust me, you wouldn't want to find them here.\nWhy not?\nLet's just say, some secrets are better left undiscovered.
+
+=== Prompt 98 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "setup", "escalation", "misdirection", "punchline"]}
+
+=== Prompt 99 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "setup", "redirection", "setup", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 100 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","misdirection","escalation","setup","callback","punchline","non-line","wrap-up"]}
+
+=== Prompt 101 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "subversion", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 102 ===
+ Make sure your answer is valid JSON.
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","setup","setup","setup","misdirection","escalation","escalation","escalation","escalation","misdirection","subversion","punchline","non-line"]}
+
+=== Prompt 103 ===
+ In your response, all lowercase words should appear at most 3 times.
+assistant
+{"ANSWER":["ESTABLISHING CONTEXT","SETUP","ESCALATION","ESCALATION","SUBVERSION","CALLBACK","MISDIRECTIO","PUNCHLINE","META-HUMOR","WRAP-UP"]}
+
+=== Prompt 104 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","setup","setup","escalation","escalation","misdirection","escalation","escalation","escalation","escalation","escalation","escalation","misdirection","punchline","non-line","wrap-up"]}
+
+=== Prompt 105 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "escalation", "escalation", "misdirection", "escalation", "escalation", "callback", "misdirection", "punchline", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 106 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "setup", "callback", "escalation", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 107 ===
+ Do not include keyword ¡Ah!¡ in the response.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "punchline"]}
+
+=== Prompt 108 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "punchline", "wrap-up", "meta-humor", "non-line"]}
+
+=== Prompt 109 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "misdirection", "escalation", "escalation", "callback", "misdirection", "setup", "escalation", "misdirection", "setup", "punchline", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 110 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "misdirection", "callback", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "punchline", "wrap-up", "meta-humor", "wrap-up"]}
+
+=== Prompt 111 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "misdirection", "callback", "misdirection", "punchline", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 112 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "establishing context", "setup", "misdirection", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 113 ===
+
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","misdirection","callback","wrap-up","meta-humor","punchline","redirection","non-line","non-line","wrap-up"]}
+
+=== Prompt 114 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 115 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "escalation", "callback", "escalation", "escalation", "escalation", "escalation", "misdirection", "setup", "escalation", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "punchline"]}
+
+=== Prompt 116 ===
+ 
+
+Input:
+Que iba un tío que se pasaba una hora en la cinta de andar, media hora en la bicicleta hasta Tiquieta y venía al gimnasio en coche...
+¿a qué vienes?¿a que te veamos los músculos?
+¡Ve esta la mierda, hombre!
+
+Output:
+
+assistant
+{"ANSWER":["establishing context", "setup", "punchline"]}
+
+=== Prompt 117 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "callback", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 118 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "timing", "wrap-up", "punchline", "meta-humor"]}
+
+=== Prompt 119 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 120 ===
+ Make sure your output is a valid JSON array of labels.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "misdirection", "subversion", "punchline"]}
+
+=== Prompt 121 ===
+ Here is a joke:
+¿Cuál es tu próximo proyecto, Antonio?
+¿Vas a organizar un torneo de golf en Damasco para que los refugiados sirios mejoren su swing?
+¿Son esos tus planes, Antonio?
+No me gustan los deportes, pero ahora tengo un crío.
+Cuando tienes un crío, tienes un nuevo superpoder.
+Fingir interés.
+Os voy a dar un ejemplo.
+
+assistant
+{"ANSWER":["establishing context", "setup", "callback", "subversion", "escalation", "misdirection", "meta-humor", "punchline"]}
+
+=== Prompt 122 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "callback", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 123 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "callback", "wrap-up", "wrap-up", "non-line"]}
+
+=== Prompt 124 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "setup", "setup", "setup", "escalation", "subversion", "punchline", "wrap-up"]}
+
+=== Prompt 125 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "misdirection", "setup", "callback", "escalation", "escalation", "escalation", "misdirection", "subversion", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "escalation", "meta-humor", "escalation", "punchline", "callback", "wrap-up", "non-line"]}
+
+=== Prompt 126 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "setup", "misdirection", "setup", "setup", "setup", "escalation", "misdirection", "setup", "setup", "setup", "escalation", "escalation", "escalation", "callback", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up"]}
+
+=== Prompt 127 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "setup", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 128 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","escalation","misdirection","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","escalation","subversion","wrap-up"]}
+
+=== Prompt 129 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","setup","escalation","subversion","callback","misdirection","meta-humor","punchline","wrap-up","non-line","non-line","non-line","non-line","non-line"]}
+
+=== Prompt 130 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "setup", "setup", "misdirection", "punchline", "callback", "callback", "callback", "callback", "callback", "callback", "wrap-up", "meta-humor", "wrap-up"]}
+
+=== Prompt 131 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "setup", "setup", "misdirection", "callback", "callback", "callback", "subversion", "callback", "meta-humor", "punchline"]}
+
+=== Prompt 132 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "setup", "callback", "misdirection", "escalation", "setup", "wrap-up", "meta-humor", "establishing context", "escalation", "escalation", "escalation", "misdirection", "misdirection", "wrap-up", "wrap-up", "punchline"]}
+
+=== Prompt 133 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "escalation", "misdirection", "callback", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up"]}
+
+=== Prompt 134 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "misdirection", "punchline", "wrap-up"]}
+
+=== Prompt 135 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "misdirection", "subversion", "callback", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 136 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "subversion", "callback", "meta-humor", "wrap-up"]}
+
+=== Prompt 137 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 138 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "punchline"]}
+
+=== Prompt 139 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+
+=== Prompt 140 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "misdirection", "punchline"]}
+
+=== Prompt 141 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","callback","callback","misdirection","escalation","escalation","establishing context","establishing context","misdirection","punchline","wrap-up"]}
+
+=== Prompt 142 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "wrap-up"]}
+
+=== Prompt 143 ===
+ Here is a joke: Me preguntó qué iba a hacer el resto de la noche\nDijo yo, no sé\nDijo él, pues ve y cómete esto\nY me pone un pastelito de chocolate\nY me dijo, si no tienes nada que hacer, cómete esto\nY yo le dije, bueno, lo voy a comer\nY se fue\nY yo quedé allá sentado con un pastelito de chocolate\nY no sé qué hacer\nY luego me llamó la mamá y me dijo, ¿dónde estás?\nDijo que me esperaba en casa\nY le dije, pero mamá, me diste un pastelito de chocolate y no sé qué hacer conmigo\nY ella dijo, sí, pero ya te comiste el pastelito, ¿no?\nY yo le dije, sí, pero ahora qué hago\nY ella dijo, pues ve y estudia\nY yo le dije, vale\nY luego me puse a estudiar\nY mientras estudiamos, comí el pastelito\nY me di cuenta que el pastelito de chocolate estaba vacío\nY no sé si eso tiene que ver con algo\nEND OF JOKE. Classify each newline-separated line of a multi-line joke by its role, assigning exactly one label from establishing context, setup, escalation, subversion, callback, misdirection, timing, meta-humor, punchline, redirection, non-line, wrap-up, repetition. Your final answer should take the form {"ANSWER":["label1", "label2",...]}
+
+=== Prompt 144 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "escalation", "escalation", "misdirection", "meta-humor", "escalation", "punchline", "non-line", "non-line"]}
+
+=== Prompt 145 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "misdirection", "escalation", "escalation", "escalation", "callback", "escalation", "escalation", "escalation", "escalation", "punchline", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 146 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "misdirection", "escalation", "escalation", "misdirection", "setup", "subversion", "punchline", "wrap-up", "non-line", "wrap-up", "wrap-up", "wrap-up", "wrap-up"]}
+
+=== Prompt 147 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "setup", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "subversion", "callback", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 148 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "setup", "escalation", "misdirection", "punchline", "callback", "meta-humor", "punchline", "wrap-up", "non-line", "non-line", "non-line", "non-line"]}
+
+=== Prompt 149 ===
+
+assistant
+{"ANSWER": ["establishing context", "establishing context", "establishing context", "establishing context", "misdirection", "escalation", "escalation", "meta-humor", "escalation", "escalation", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "non-line"]}
+
+=== Prompt 150 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "timing", "wrap-up"]}
+
+=== Prompt 151 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "setup", "callback", "misdirection", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 152 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "callback", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "
+
+=== Prompt 153 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 154 ===
+ The joke is in spanish.
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 155 ===
+
+assistant
+{"ANSWER": [
+"establishing context",
+"establishing context",
+"setup",
+"setup",
+"setup",
+"setup",
+"setup",
+"setup",
+"escalation",
+"escalation",
+"escalation",
+"subversion",
+"callback",
+"callback",
+"callback",
+"callback",
+"misdirection",
+"timing",
+"punchline",
+"wrap-up"
+]}
+
+=== Prompt 156 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 157 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "subversion", "punchline", "meta-humor", "wrap-up"]}
+
+=== Prompt 158 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "misdirection", "callback", "redirection", "escalation", "wrap-up", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "punchline"]}
+
+=== Prompt 159 ===
+ Here is a joke:
+Gracias, amigos. ¿Qué tal? ¿Cómo estáis? ¿Bien?
+Yo... Sí, no me importa.
+No, la verdad es que yo estoy preocupado.
+Tengo un montón de monólogos grabados y para este no tenía que contar nada.
+O sea, no me ocurre nada en la vida. Es mi problema.
+No me pasan cosas, ¿sabes?
+No vivo aventuras, nada.
+A veces fantaseo con cosas para poder contarlas.
+En plan, quedarme atrapado en un ascensor, ¿sabes?
+Cosas así.
+De hecho, si me quedara atrapado en un ascensor, me molaría que fuera con una tía que estuviera muy buena o si no con una matrona de hospital...
+...para que me tranquilizara, en plan, respira, tranquilo, no pasa nada estaría guay.
+Sí, porque cuando estás en esas situaciones lo pasas mal, sobre todo pensando en la muerte
+
+assistant
+{"ANSWER": [
+"establishing context",
+"establishing context",
+"establishing context",
+"setup",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"escalation",
+"misdirection",
+"escalation",
+"subversion",
+"wrap-up",
+"punchline"
+]}
+
+=== Prompt 160 ===
+
+assistant
+{"ANSWER": ["establishing context", "setup", "escalation", "misdirection", "escalation", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 161 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "wrap-up", "meta-humor", "wrap-up", "non-line", "non-line"]}
+
+=== Prompt 162 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "callback", "misdirection", "timing", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 163 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "misdirection", "escalation", "callback", "redirection", "establishing context", "setup", "escalation", "escalation", "escalation", "subversion", "wrap-up"]}
+
+=== Prompt 164 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "setup", "setup", "escalation", "misdirection", "subversion", "punchline", "wrap-up", "non-line", "non-line", "non-line"]}
+
+=== Prompt 165 ===
+
+assistant
+{"ANSWER":["establishing context", "setup", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "setup", "misdirection", "callback", "callback", "punchline", "wrap-up"]}
+
+=== Prompt 166 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "setup", "escalation", "misdirection", "callback", "punchline", "wrap-up", "non-line"]}
+
+=== Prompt 167 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "misdirection", "escalation", "escalation", "escalation", "escalation", "escalation", "escalation", "misdirection", "escalation", "misdirection", "escalation", "callback", "escalation", "meta-humor", "punchline", "wrap-up"]}
+
+=== Prompt 168 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","establishing context","escalation","escalation","misdirection","punchline","meta-humor","wrap-up","non-line","wrap-up"]}
+
+=== Prompt 169 ===
+
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","setup","escalation","misdirection","escalation","misdirection","meta-humor","punchline","wrap-up","non-line","non-line"]}
+
+=== Prompt 170 ===
+ Do not include keyword { in the response.
+assistant
+{"ANSWER":["establishing context","setup","escalation","escalation","callback","punchline"]}
+
+=== Prompt 171 ===
+ Do not include keyword O in the response.
+assistant
+{"ANSWER":["establishing context","establishing context","establishing context","setup","escalation","escalation","escalation","escalation","escalation","escalation","escalation","meta-humor","punchline"]}
+
+=== Prompt 172 ===
+
+assistant
+{"ANSWER": ["non-line", "establishing context", "setup", "escalation", "escalation", "misdirection", "escalation", "meta-humor", "callback", "escalation", "escalation", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "wrap-up", "punchline", "non-line"]}
+
+=== Prompt 173 ===
+
+assistant
+{"ANSWER":["establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "establishing context", "escalation", "escalation", "escalation", "escalation", "misdirection", "misdirection", "meta-humor", "punchline"]}
+

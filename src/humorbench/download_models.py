@@ -5,7 +5,7 @@ import sys
 import gc
 import time
 
-# Set HuggingFace cache directory (same as vllm_inference.py)
+# Set HuggingFace cache directory
 HF_HOME = "/fs/nexus-scratch/adesai10"
 os.environ["HF_HOME"] = HF_HOME
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(HF_HOME, "hub")
@@ -52,7 +52,6 @@ def download_model_with_vllm(model_name: str) -> None:
         print(f"✗ Error loading {model_name}: {e}")
         raise
     finally:
-        # Clean up to free memory - critical to prevent OOM errors
         if llm is not None:
             del llm
         
@@ -70,12 +69,7 @@ def download_model_with_vllm(model_name: str) -> None:
 
 
 def download_model_with_transformers(model_name: str) -> None:
-    """Alternative: Download model using transformers library.
-    
-    Note: Transformers-downloaded weights ARE compatible with VLLM.
-    Both use the same HuggingFace cache format, so VLLM can use
-    weights downloaded by transformers.
-    """
+    """Download model using transformers library."""
     tokenizer = None
     model = None
     try:
@@ -93,14 +87,12 @@ def download_model_with_transformers(model_name: str) -> None:
         )
         print(f"✓ Tokenizer downloaded")
         
-        # Download full model weights (this will cache them for VLLM to use)
         print(f"Downloading model weights for {model_name}...")
-        print(f"  (This may take a while for large models...)")
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
             trust_remote_code=True,
             torch_dtype="auto",
-            low_cpu_mem_usage=True,  # More memory efficient
+            low_cpu_mem_usage=True,
         )
         print(f"✓ Model weights downloaded and cached")
         
@@ -154,13 +146,10 @@ def main() -> None:
     print(f"Downloading {len(uncached_models)} model(s)...")
     print(f"{'='*80}\n")
     
-    # Try downloading with VLLM first (more reliable for VLLM-compatible models)
-    # If that fails, fall back to transformers
     for i, model in enumerate(uncached_models, 1):
         print(f"\n[{i}/{len(uncached_models)}] Processing: {model}")
         
         try:
-            # Try VLLM first
             download_model_with_vllm(model)
         except Exception as vllm_error:
             print(f"VLLM download failed, trying transformers method...")
@@ -173,17 +162,12 @@ def main() -> None:
                 print(f"  You may need to download this model manually")
                 continue
         
-        # Small delay between downloads to allow cleanup to complete
         if i < len(uncached_models):
-            print("Cleaning up before next download...")
             time.sleep(2)
     
     print(f"\n{'='*80}")
     print("Download process completed!")
-    print(f"{'='*80}")
-    
-    # Final status check
-    print("\nFinal cache status:")
+    print(f"{'='*80}\n")
     for model in MODELS:
         if check_model_cache(model):
             print(f"✓ {model}")

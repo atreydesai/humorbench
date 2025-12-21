@@ -1,0 +1,695 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+ Here is the joke and the classification:
+
+Claro, es que son muy inteligentes.
+
+Un coach cobra por hacerte preguntas.
+
+Tú le dices a un coach, ¿crees que derrocho el dinero? Y él te responde, ¿qué crees tú?
+
+200 euros, ¿sabes?
+
+Joder, que yo le dije... Que yo le dije, joder, macho, no tengo 200 pavos.
+
+Dice, entonces, ¿qué? ¿No me vas a pagar? Digo, no sé, ¿qué crees tú?
+
+Por eso a mí con el coaching me pasa como con la marihuana
+
+Que me encanta pero he acabado hasta la polla
+
+{"ANSWER":["setup", "setup", "setup", "escalation", "setup", "escalation", "subversion", "setup", "setup", "setup", "setup", "setup"]}
+
+=== Prompt 8 ===
+ Here's the joke for classification:
+
+Sí, porque están los cursos de coaching estos multitudinarios 200 personas en un hotel ahí
+Te lo venden como si fuera la vacuna contra el cáncer
+Lo más maravilloso del mundo Como hacerle la eutanasia al hijo de Will Smith
+Y llegan ahí y te prometen que te van a enseñar El truco para conseguir el trabajo que quieres El dinero que quieres La pareja que quieres
+Claro,yo llegué preparado para falsificar el DNI Estado Diamante Bra Pitt.
+Cuando llega el momento te dicen que el truco es trabajar, trabajar y trabajar.
+Hostia, esto es como si Harry Potter te promete enseñarte a volar y a la hora de la verdad te dice, ¿quieres volar?
+
+### Classification:
+
+{"ANSWER":["setup", "escalation", "escalation", "escalation", "setup", "escalation", "punchline"]}
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+ Here is the joke:
+
+¿Se puede estar más feo que con gorro de piscina?
+Yo creo que quien inventó el gorro de piscina es una persona maligna, ¿verdad? De Slytherin.
+Esto es para los frikis de Harry Potter.
+O eso que ha tenido una infancia de mierda.
+
+END OF JOKE.
+
+{"ANSWER":["punchline", "punchline", "punchline", "punchline"]}
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+ Here is the joke:
+
+```
+Hay mucho tarado en Internet.
+¿Quién más está?
+A ver, están los de las conspiraciones, los de los alienígenas también.
+Bueno, y los de los fantasmas, ¿eh?
+Aquí, poca risa con los fantasmas, que yo he tenido muchas experiencias con fantasmas.
+De hecho, durante tres años fui socio del Real Madrid.
+No, no, esto me lo he inventado.
+```
+
+### Answer:
+```
+{
+  "ANSWER": ["establishing context", "setup", "escalation", "subversion", "punchline"]
+}
+```
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+=== Prompt 34 ===
+
+
+=== Prompt 35 ===
+
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+
+
+=== Prompt 40 ===
+
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+ The joke is as follows:
+
+```
+When I was little, the most black thing there was...
+Because when I was little, there weren't any blacks, remember? That's when you had to paint one for the parade, right?
+Now, if you're not careful, you have to paint two, don't you?
+But before, no, before that wasn't the case.
+```
+
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+
+
+=== Prompt 58 ===
+ Here is the joke:
+
+Que si os hablaran, ¿qué dirían?
+Que ha dicho que es maricona y mira,nena,yo me voy a dormir.
+Chao.
+
+### Classification
+
+{"ANSWER":["establishing context", "setup", "punchline"]}
+
+=== Prompt 59 ===
+
+
+=== Prompt 60 ===
+
+
+=== Prompt 61 ===
+
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+ Here is the classification:
+
+```json
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "meta-humor", "punchline", "non-line", "repetition", "wrap-up", "repetition"]}
+```
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+
+=== Prompt 74 ===
+ Here is the joke:
+
+```
+Pues sí. ¿La utilizas para dormir? Muy bien, guay.
+Tío, es que hay muchas cosas que preguntarte aquí.
+Claro, porque para dormir, una serie en la que el 90% de la gente sale en pelotas... ¡Venga a dormir!
+Claro,es que...En la vida,me he producido tanto para una paja.
+```
+
+### Classification:
+
+```
+{"ANSWER":["setup", "setup", "setup", "punchline"]}
+```
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+ Here is the joke:
+
+Sí que es verdad que ahora estamos en un momento en el que estamos como la revolución sexual femenina y las mujeres se masturban se masturban.\n
+Bueno, las mujeres nos hemos masturbado de siempre.\n
+Cleopatra, por ejemplo.\n
+Cleopatra se masturbaba mogollón.\n
+¿Sabéis lo que hacía Cleopatra?Cleopatra tenía unos cilindros de cuero,los llenaba de abejas,y cuando empezaban a gruñir,para adentro.\n
+Cleopatra, gran líder, mejor apicultora.
+
+### Answer:
+
+{"ANSWER":["setup", "setup", "setup", "escalation", "escalation", "punchline", "punchline"]}
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+
+
+=== Prompt 81 ===
+
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+=== Prompt 84 ===
+
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+ The joke provided is:
+
+El pez martillo es un pez muy especial
+Porque es el único pez que puede alimentarse de nueces
+Cuando estoy en casa y me quiero orientar
+Me pongo una peli del oeste
+Ya me veis
+Yo soy más guapo en persona que en animal o cosa
+
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+=== Prompt 107 ===
+ The joke is:
+
+Yo lo que intento es disimular, y es muy difícil cuando estás ahí en mitad de la batalla...
+
+Que a mí joder me ha pasado, mi mujer gritando loco ¡Ah! ¡Ah!
+
+Y yo intentando disimular¡Ah!¡El dinosaurio!¡Ah!¡Ah!
+
+ANSWER: ["setup", "setup", "setup", "punchline", "punchline"]
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+ Here is the joke:
+
+¿Cuál es tu próximo proyecto, Antonio?
+¿Vas a organizar un torneo de golf en Damasco ¿Para que los refugiados sirios mejoren su swing?
+¿Son esos tus planes, Antonio?
+No me gustan los deportes, pero ahora tengo un crío.
+Cuando tienes un crío, tienes un nuevo superpoder.
+Fingir interés.
+Os voy a dar un ejemplo.
+END OF JOKE.
+
+### ANSWER
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup", "setup",
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+ Here is the joke to classify:
+
+No puedo, eso es una putada, me hago mayor, me hago viejo y no me gusta.
+El otro día veo unos jovenzuelos de 15 años ahí perdiendo el tiempo, ya me salió, les tuve que decir.
+Les digo, chavalería, ¿no? Porque así les llamamos nosotros los mayores.
+Les digo, chavalería, no perdéis el tiempo ahora que sois jóvenes, porque cuando tengáis mi edad ya no vais a tener la misma ilusión por las cosas.
+Se me quedaron mirando y me dice, tío, ¿qué te pasa?
+En serio, mírame, tengo barba.
+Mírate a ti,gilipollas,sin verbe.
+
+{"ANSWER":["establishing context", "setup", "setup", "escalation", "subversion", "callback", "timing", "meta-humor", "punchline"]}
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+ "Es la cosa, el capitalismo, que nos va a llevar a todos a la Tercera Guerra Mundial.": ["setup"] "Bueno, a todos menos a los griegos.": ["setup"] "Los griegos cuando hay la Tercera Guerra Mundial, ya estarán muertos.": ["punchline"]
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+ Here is the joke:
+
+O sea, vivo a cinco minutos de La Paz, a cinco minutos andando
+Y a cinco minutos del Ramón y Cajal
+O sea, estoy aquí distante
+Yo en caso de accidente moriré de indecisión
+O sea, esto será así, ¿sabes?
+Gracias por ver el video.
+
+**Classification:**
+- "O sea, vivo a cinco minutos de La Paz, a cinco minutos andando" : establishing context
+- "Y a cinco minutos del Ramón y Cajal" : establishing context
+- "O sea, estoy aquí distante" : establishing context
+- "Yo en caso de accidente moriré de indecisión" : escalation
+- "O sea, esto será así, ¿sabes?" : escalation
+- "Gracias por ver el video." : wrap-up
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+ Here is the classified joke:
+
+```plaintext
+Here is a joke:
+simplemente creo que se están manifestando donde no tocan
+se tienen que ir a la raíz del problema
+por eso yo propongo que el año que viene el próximo 11 de septiembre los 2 millones y medio o 3 de catalanes que se suelen manifestar siempre y yo, por tocar los cojones básicamente
+cogemos unos autobuses a las 5 de la mañana y nos plantamos a las 11 en punto en la puta puerta del Sol de Madrid.
+Y diréis, ¿por qué?
+Porque aquí es festivo, pero allí es laboral.
+Solo con ver a dos millones de catalanes de Puente les joden más que la independencia,tíos.
+Gracias.
+END OF JOKE.
+```
+
+### Classification:
+
+```json
+{
+  "ANSWER": ["setup", "setup", "setup", "setup", "setup", "escalation", "callback", "callback", "callback", "punchline"]
+}
+```
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+

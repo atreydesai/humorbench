@@ -1,0 +1,769 @@
+=== Prompt 1 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurdity to mock the idea of dealing with infidelity, which is a common theme in satire."
+}
+```
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+```json
+{
+  "category": "surreal/absurdism",
+  "reasoning": "The joke uses surreal and absurd elements, such as a video from the 1960s, a woman giving birth surrounded by unexpected characters, and a humorous description of the birthing process."
+}
+```
+
+=== Prompt 4 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating as it pokes fun at the speaker's own hypocrisy and supposed non-racism."}
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+
+
+=== Prompt 8 ===
+ for the joke: "
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+
+```json
+{
+  "category": "wordplay",
+  "reasoning": "The joke plays with the similarity of words (cerezas and aceitunas) and the humorous interpretation of a cereza as a female aceituna."
+}
+```
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke involves a speaker making fun of themselves or their own appearance, which is a characteristic of self-deprecating humor."
+}
+```
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the idea of alternative medicine and the absurdity of using acupuncture to relieve tension."
+}
+```
+
+=== Prompt 18 ===
+
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and ridicule to critique the Reiki therapy, which is a form of satire."
+}
+
+=== Prompt 19 ===
+ for the joke: Y a esa hora, doce y media entre semana en el gimnasio, la media de edad...\n¿Cómo lo digo y no ofendo?\nJustin Bieber y Hannah Montana no hay.\nLo que más hay es Manuel Storri Iglesias y Conchas Velasco.\nHay mucho viejo, hay mucho viejo.\npunto que natatorio la una parece efervescrnte pastillaw tanta con piel muertas.
+
+```json
+{
+  "category": "observational",
+  "reasoning": "The joke is an observational one, as it describes a specific scene in a gym and makes humorous observations about the people present."
+}
+```
+
+=== Prompt 20 ===
+ for the joke: I'm not a doctor, but I play one on TV.
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+
+
+=== Prompt 24 ===
+
+
+{"category": "dry", "reasoning": "The joke is dry because it takes a mundane, everyday experience (dealing with ghosts) and turns it into a humorous, exaggerated account with a sarcastic tone."}
+
+=== Prompt 25 ===
+ for the joke: {"category": "surreal/absurdism", "reasoning": "The joke describes a surreal and absurd situation where children's shoes have wheels, allowing them to run much faster than adults."}
+
+=== Prompt 26 ===
+ for the joke: Pues yo la primera vez que vi aquello, digo...\nJoder,aún hay representar que vago para ponerle ruedas a unas zapatillas de deportw.\nPero... Luego, pensándolo mejor, digo...\nHostia, la idea de ponerle ruedas a un niño ¿No?\nSin hacerle pasar por un trágico accidente, evidentemente.\nO sea...¡Ay,vea!¡Un niña ruedas con!
+
+=== Prompt 27 ===
+
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the inefficiency of learning Latin and its lack of practical application in modern life, mocking the idea of its usefulness."
+}
+```
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and ridicule to mock the bishop's authority and the Church's stance on homosexuality."
+}
+```
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke criticizes the hypocrisy of the church and its exploitation of a psychologist's false claims, highlighting the absurdity of the situation."
+}
+```
+
+=== Prompt 34 ===
+
+
+=== Prompt 35 ===
+
+{"category": "self-deprecating", "reasoning": "The joke self-deprecates by admitting that Catalans might be disliked outside of Catalonia and also by acknowledging that the speaker might be the only one with Twitter in the group."}
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+{"category": "satire", "reasoning": "The joke mocks the idea of 'truth always coming out' and uses exaggeration to highlight societal fears and lies, which is a common trait of satire."}
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+
+
+=== Prompt 40 ===
+
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+{"category": "surreal/absurdism", "reasoning": "The joke plays with the absurdity of creating a fictional name for a real place and associating it with nonsensical French-sounding names, which is a characteristic of surreal/absurdism."}
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the absurdity of a couple's intimate moment being interrupted by an unusual object, highlighting the mundane and unexpected intrusions in everyday life."}
+
+=== Prompt 50 ===
+
+
+```json
+{
+  "category": "sarcastic",
+  "reasoning": "The joke uses sarcasm to highlight the absurdity of the situation, where the speaker's dog is dead and they are still treating it as if it were alive."
+}
+```
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke is self-deprecating because the speaker is making fun of himself and his situation."
+}
+```
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke self-deprecates by using a humorous and exaggerated way to reveal his sexual orientation."
+}
+```
+
+=== Prompt 58 ===
+ for the joke: Que si os hablaran, ¿qué dirían?\nQue ha proverbio que es maricona mira y,nena,yo mw voy a dormir.\nChao.
+
+=== Prompt 59 ===
+
+
+{"category": "satire", "reasoning": "The joke is a satirical commentary on the societal expectations and stereotypes surrounding heterosexual relationships and women's bodies."}
+
+=== Prompt 60 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and ridicule to critique the targeted subject (in this case, tablets and their ads)."}
+
+
+
+=== Prompt 61 ===
+
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating as it pokes fun at the speaker's own situation and choices."}
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke is self-deprecating because the speaker is making fun of themselves and their mother's obsession with cleanliness."}
+
+=== Prompt 66 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke uses self-deprecating humor by highlighting the speaker's past and current situation with a humorous and exaggerated twist."}
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+
+{"category": "satire", "reasoning": "The joke is a satire of the idea that everyone should care for nature, highlighting the hypocrisy of those who advocate for it while not practicing it themselves."}
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke is a satirical commentary on the situation, using exaggeration and irony to mock the current events and the series 'Élite'."
+}
+```
+
+=== Prompt 74 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the absurdity of using a series with explicit content for sleeping, highlighting the absurdity of the situation."}
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+
+
+=== Prompt 77 ===
+
+
+{"category": "satire", "reasoning": "The joke is a satire of corporate culture and customer service, mocking the use of overly formal language and the absurdity of trying to 'sell' a service like 'culilingüe'."}
+
+=== Prompt 78 ===
+ {"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to mock societal fears and expectations about masculinity and vulnerability."}
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+
+
+=== Prompt 81 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and absurdity to critique societal attitudes towards incarceration and gender roles."
+}
+```
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+```json
+{
+  "category": "surreal/absurdism",
+  "reasoning": "The joke presents absurd and unrealistic scenarios involving characters with exaggerated fears and beliefs, which is characteristic of surreal or absurd humor."
+}
+```
+
+=== Prompt 84 ===
+
+
+```json
+{
+  "category": "observational",
+  "reasoning": "The joke observes and comments on the absurdity of the political situation and the actions taken by political figures."
+}
+```
+
+=== Prompt 85 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker acknowledging and accepting their own flaws and lack of effort to improve, which is a key characteristic of self-deprecating humor."}
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker expressing reluctance to have children due to the pressure and responsibilities associated with parenthood, which is a form of self-deprecation."}
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke is a satire of modern technology and self-help culture, using absurd and exaggerated elements to criticize the idea of using a hammerfish to navigate."
+}
+```
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+{"category": "wordplay", "reasoning": "The joke uses wordplay to create a humorous effect by manipulating the sound of words and phrases."}
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+{
+  "category": "satire",
+  "reasoning": "The joke mocks extreme fan behavior and exaggerates it to absurd levels, which is characteristic of satire."
+}
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+
+{"category": "dark", "reasoning": "The joke pokes fun at the desperate situation of the actress and her use of the Goya award platform to beg for work, which is a dark and grim observation."}
+
+=== Prompt 101 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke mocks the absurdity and difficulty of job auditions in the entertainment industry."
+}
+```
+
+=== Prompt 102 ===
+
+
+{"category": "observational", "reasoning": "The joke is based on observing and commenting on the differences in cultural perceptions of sports, particularly the term 'football'."}
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+ {"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to mock the film industry's reliance on CGI and the absurdity of the request for a specific type of hair."}
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+
+
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the double standards in society, particularly the way women's sexuality is often policed and judged."
+}
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+ for the joke: Claro, porque es muy complicado.\nEs muy difícil.\nBueno, incluso hasta el punto de que me lo ha hecho en casa de mis suegros.\nY eso es imposible de disimular.\nSobre todo cuando se pone en plan religiosa.\nQue empieza gritando ¡Ah! ¡Y la Virgen! ¡La Virgen!\nyo Y como puedo¡Con a flors chocolatr!\nJoder.\nGracias.
+
+=== Prompt 109 ===
+
+{"category": "satire", "reasoning": "The joke satirizes the perception of African cultures by exaggerating the idea that polygamy leads to happiness and abundance, and the narrator's condescending attitude towards the local culture."}
+
+=== Prompt 110 ===
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker making fun of their own weight and blaming it on their parents, which is a form of self-deprecation."}
+
+=== Prompt 111 ===
+
+
+```json
+{
+  "category": "dry",
+  "reasoning": "The joke uses a dry, sarcastic tone to poke fun at the idea of a man bragging about his relationship, while also using absurd and exaggerated language."
+}
+```
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+ for the joke: yo quiero ir al gimnasio y ver a gente como yo o peor...\n...que vea un gordo en una bici y diga yo estaré mal pero ese no va a adelgazar nunca...\nel gordo¡Susa,cabrón,suda! {"category": "aggressive", "reasoning": "The joke uses aggressive language to mock the person on the bike, classifying it as an aggressive joke."}
+
+=== Prompt 118 ===
+
+
+{"category": "satire", "reasoning": "The joke satirizes the idea of do-gooding and the bureaucracy involved in such efforts, highlighting the irony and absurdity of the situation."}
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+```json
+{
+  "category": "surreal/absurdism",
+  "reasoning": "The joke features a surreal and absurd situation involving a man running with blue eggs, a son playing a game with nonsensical names, and a strange sequence of events."
+}
+```
+
+=== Prompt 124 ===
+
+
+```json
+{
+  "category": "satirical",
+  "reasoning": "The joke is a satirical commentary on the perceived vanity and wealth of the subject, Letizia Sabater."
+}
+```
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+{
+  "category": "satire",
+  "reasoning": "The joke uses exaggeration and ridicule to comment on the absurdity of the situation, which is a key aspect of satire."
+}
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+{"category": "satire", "reasoning": "The joke is a satire on the effectiveness and targeting of public service announcements, poking fun at the idea that they might not reach the intended audience."}
+
+=== Prompt 130 ===
+
+{"category": "surreal/absurdism", "reasoning": "The joke presents a surreal and absurd solution to the problem of insomnia, suggesting a method to transfer sleep from one person to another, which is not based on reality or logic."}
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker expressing dissatisfaction with their own life and appearance, which is a key aspect of self-deprecating humor."}
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke plays on stereotypes and exaggerates the situation for comedic effect, which is a key aspect of satire."
+}
+```
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+{"category": "satire", "reasoning": "The joke uses exaggeration and ridicule to criticize the mindset of the beggar, making it a form of satire."}
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke pokes fun at the speaker's own profession, highlighting the challenges and perceived difficulties of being a comedian."
+}
+```
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+```json
+{
+  "category": "satire",
+  "reasoning": "The joke satirizes the expectation of professional musicians at funerals, highlighting the absurdity of the situation."
+}
+```
+
+=== Prompt 149 ===
+ for the joke: What do you call a fake noodle? An impasta.
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+```json
+{
+  "category": "self-deprecating",
+  "reasoning": "The joke is self-deprecating because it pokes fun at the speaker's own family members and their appearances, particularly the grandmother's youthful appearance."
+}
+```
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+ for the joke: Se ha quedado con sus frases de antes de madre de antes.\nMi madre Aún dice que el agua oxigenada no escuece.\nigo,te reviento cabeza la,no escuece.\nHombre,con las cosas blancas que me a salen mí,pues vas no a hacer eso.
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+ for the joke: {"category": "self-deprecating", "reasoning": "The joke involves the speaker expressing their lack of personal experiences and even fantasizing about mundane situations to have something to talk about."}
+
+=== Prompt 160 ===
+
+{"category": "anecdotal", "reasoning": "The joke is a personal anecdote about the speaker's thoughts on death and how it relates to their own life experiences."}
+
+=== Prompt 161 ===
+ for the joke: un día estaba en el hospital y un médico me dijo: "¿Te gustaría ser mi paciente?"\nLe dije: "No, gracias, prefiero ser tu paciente en otro hospital."\nDijo: "¿Por qué?"\nLe contesté: "Porque en este hospital no hay médicos, solo pacientes."\n
+
+=== Prompt 162 ===
+
+```json
+{
+  "category": "surreal/absurdism",
+  "reasoning": "The joke uses surreal and absurd elements, such as the repetition of 'cinco minutos' and the reference to 'moriré flexión Estado indecisión Diamante', which don't make logical sense."
+}
+```
+
+=== Prompt 163 ===
+ for the joke: "Si hay alguien que le ofenda el humor político o crea que yo le puedo llegar a ofender haciendo humor político, por favor, simplemente que levante la mano que yo pasaré de su puta cara, ¿vale?\nPero solamente quiero saber que voy a joder a alguien.\n¿No hay nadie? Genial, de puta madre. Vamos a ello.\n¿Hay algún votante del PP hoy aquí?\nQue levante un billete,va,tuerca serio.\nNo hay cojones, no pasa nada.\nSi no hay nadie del PP no tiene sentido que haga chistes del PP, así que vamos a elegir otro tema."
+
+{"category": "aggressive", "reasoning": "The joke is aggressive because it uses profanity and threats to engage with the audience."}
+
+=== Prompt 164 ===
+
+
+{"category": "satire", "reasoning": "The joke mocks the political tension surrounding Catalan independence, using exaggerated and provocative language to criticize both sides of the debate."}
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+ for the joke: O sea, porque a lo mejor tú ves a las cebras ahí que efectivamente están en una jaula más pequeña que la sabana, ¿no?\nPero están protegidos sin depredadores, ¿sabes?\nY a veces incluso a lo mejor de su jaula ven al león que está en otra jaula y vacilan en plan, ¿qué pasa, qué pasa, león?\nQue dientes tienes pero comes del cubo que igual yo.{"category": "satire", "reasoning": "The joke uses exaggeration and absurdity to critique the idea of zoos and their treatment of animals, which is a common theme in satire."}
+
+=== Prompt 171 ===
+ for the joke: O sea, no sé, ¿sabes? No, los animales molan.\nYo tengo peces en casa, tengo un acuario, esto me da vergüenza decirlo, ¿sabes?\nPorque si siempre conozco a alguien con un acuario pienso, ¡qué pringado!\nPero yo tengo peces, lo siento, me da vergüenza decirlo.\nSi los cuido un montón, a mis peces, yo me entero de todo lo que ocurre en ese acuario.\nSi un pez nada un poco jodido, si uno come de más, yo soy como una madre para ellos.\ncomo Soy una pezona,súper estoy encima,mido todo,el agua,la del dureza qgua,el pH,el JPG,el PDF,o sea,todo rollo el realmente lo tengo aquí,¿sabes? {"category": "self-deprecating", "reasoning": "The joke is self-deprecating as the speaker expresses embarrassment about their hobby and compares themselves to a fish."}
+
+=== Prompt 172 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker feeling compelled to explain the exotic pet they own to guests, highlighting their own awkwardness and social ineptitude."}
+
+=== Prompt 173 ===
+
+
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker being self-deprecating about their lack of opinion on philosophical topics, except for the topic of abortion where they express a strong opinion."}
+

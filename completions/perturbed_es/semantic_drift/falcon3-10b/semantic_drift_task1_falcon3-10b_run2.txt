@@ -1,0 +1,589 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+_DOCUMENT
+
+=== Prompt 3 ===
+assistant
+{"category": "topical", "reasoning": "The joke references real-life experiences and situations, specifically the often-humorous and sometimes absurd nature of childbirth preparation classes, making it topical."}
+
+=== Prompt 4 ===
+_CONTEXT {"category": "observational", "reasoning": "The joke observes real-life situations and human behavior, specifically addressing the speaker's attitude towards racism and cultural insensitivity. It highlights the contradiction between professed beliefs and actions in a humorous way."}
+
+=== Prompt 5 ===
+_CONTEXT 
+<|assistant|>
+{"category": "topical", "reasoning": "The joke addresses the issue of racism and how the speaker hopes for a black doctor to treat him, which is a current and relevant social topic.}
+
+=== Prompt 6 ===
+_CONTEXT {"category": "observational", "reasoning": "The joke is about a real-life situation that the storyteller has experienced and observed in a hospital, making it observational."}
+
+=== Prompt 7 ===
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on a pun involving the Spanish phrase 'me pasaba como la con marihuana' which sounds similar to 'me pasa como la con marihuana', creating a humorous effect through language manipulation."}
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+
+
+=== Prompt 12 ===
+_DOCUMENT
+{"category": "surreal/absurdism", "reasoning": "The joke involves a surreal and absurd comparison between cherries and olives, which is not a typical or logical association, making it fall under surreal/absurdism."}
+
+=== Prompt 13 ===
+_CONTEXT
+{"category": "dark", "reasoning": "The joke contains offensive language and makes light of serious topics, which is characteristic of dark humor."}
+
+=== Prompt 14 ===
+_CONTEXT
+{"category": "wordplay", "reasoning": "The joke plays with words by using the phrase 'hija puta' (literally 'daughter fuck') in a humorous way to describe a satisfying bathroom experience, contrasting it with a spa treatment."}
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+_CONTEXT
+
+=== Prompt 17 ===
+_DOCUMENT
+
+=== Prompt 18 ===
+_CONTEXT {"category": "anecdotal", "reasoning": "It tells a personal story about a real-life situation."}
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+_DOCUMENT
+
+=== Prompt 21 ===
+_DOCUMENT
+
+=== Prompt 22 ===
+assistant{"category": "dark", "reasoning": "The joke contains dark and potentially offensive humor involving inappropriate and explicit content."}
+
+=== Prompt 23 ===
+
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+### <|assistant|>
+{"category": "wordplay", "reasoning": "The joke relies on a play on words and the double meaning of 'ponerle ruedas' which can mean both 'putting wheels on' and 'making someone lazy'."}
+
+=== Prompt 27 ===
+_SECTION
+{"category": "wordplay", "reasoning": "The joke relies on the playful and humorous use of language, particularly in the phrase 'ruédalo', which is a pun on 'tiralo' (throw him) and 'ruedas' (wheels)."}
+
+=== Prompt 28 ===
+_CONTEXT {"category": "anecdotal", "reasoning": "The joke tells a personal story and uses personal pronouns (yo, mí, mi)."}
+
+=== Prompt 29 ===
+### {"category": "anecdotal", "reasoning": "It is a short story told by the author about himself."}
+
+=== Prompt 30 ===
+_CONTEXT {"category": "surreal/absurdism", "reasoning": "The joke involves an absurd and impossible task of moving between furniture without touching the floor, which is clearly not possible in reality."}
+
+=== Prompt 31 ===
+_CONTEXT 
+<|assistant|>
+{"category": "topical", "reasoning": "The joke references a real-life event involving a bishop's public statement on homosexuality, making it topical. It also satirizes the idea of someone who has no personal experience in a matter giving authoritative opinions on it."}
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+=== Prompt 34 ===
+_STATEMENT
+{"category": "wordplay", "reasoning": "The joke relies on a play on words, using the phrase 'donde duele' which means 'where it hurts' in Spanish, to create a pun on the phrase 'donde Madrid'."}
+
+=== Prompt 35 ===
+_CONTEXT {"category": "topical", "reasoning": "This joke references a political and social issue in Spain about Catalonian independence."}
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke addresses current societal issues and trends, specifically focusing on the prevalence of lies and consumerism in society."}
+
+=== Prompt 38 ===
+_DOCUMENT###
+{"category": "observational", "reasoning": "The joke observes and comments on the persuasive nature of advertising and consumer behavior."}
+
+=== Prompt 39 ===
+_DOCUMENT### <|assistant|>
+{"category": "surreal/absurdism", "reasoning": "The joke features bizarre, illogical scenarios and imagery, such as a 200-meter tuna boat removing cobblestones in Paris and a naked woman on a balcony, which are characteristic of surreal and absurd humor."}
+
+=== Prompt 40 ===
+_CONTEXT
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+_CONTEXT
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+_SECTION
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+_CONTEXT 
+<|assistant|>
+{"category": "observational", "reasoning": "The joke observes human behavior and the tendency to overthink or overanalyze situations, which is a common human trait."}
+
+=== Prompt 47 ===
+### <|assistant|>
+{"category": "topical", "reasoning": "The joke references a specific location (La Gavia shopping center) and plays on the similarity of its name to French words, making it relevant to a specific cultural and geographical context."}
+
+=== Prompt 48 ===
+_SOLUTION
+{"category": "observational", "reasoning": "The joke is about a personal observation the speaker made in a public place, commenting on the hygiene and ethics of a peculiar service offered."}
+
+=== Prompt 49 ===
+_CONTEXT
+{"category": "dark", "reasoning": "It deals with a sensitive subject in a way that is not respectful or appropriate, making it a dark joke."}
+
+=== Prompt 50 ===
+_CONTEXT 
+{"category": "dark", "reasoning": "It deals with the death of a pet and the intense grief experienced by the owner."}
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+_CONTEXT 
+<|assistant|>
+{"category": "wordplay", "reasoning": "The joke plays on words by using a double entendre with the phrase 'la postura prit pensaba que era igual pero ladrando', which humorously misinterprets the meaning of a sexual position."}
+
+=== Prompt 54 ===
+_DOCUMENT### {"category": "topical", "reasoning": "This joke is about sex, which is a common and relatable topic for many people."}
+
+=== Prompt 55 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke discusses a current trend or topic, specifically a sexual practice, making it topical. It also involves wordplay and humor around the concept of 'hormiga caliente'."}
+
+=== Prompt 56 ===
+assistant
+{"category": "dark", "reasoning": "The joke deals with a sensitive topic in a humorous way, which is characteristic of dark humor."}
+
+=== Prompt 57 ===
+assistant{"category": "dark", "reasoning": "The joke contains a darkly humorous and offensive element, making it a dark joke."}
+
+=== Prompt 58 ===
+_SOLUTION
+{"category": "surreal/absurdism", "reasoning": "The joke involves an absurd scenario where inanimate objects are given the ability to speak and respond in a nonsensical way."}
+
+=== Prompt 59 ===
+_CONTEXT
+{"category": "topical", "reasoning": "The joke talks about a very current and socially relevant topic, which is the dynamics of heterosexual relationships and the perceived behavior of women in those relationships."}
+
+=== Prompt 60 ===
+_CONTEXT
+
+=== Prompt 61 ===
+_CONTEXT 
+<|assistant|>
+{"category": "anecdotal", "reasoning": "The joke is a personal story shared by the speaker about a funny and unfortunate experience, making it anecdotal in nature."}
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+_CONTEXT {"category": "anecdotal", "reasoning": "The joke is a personal story about the speaker's mother and their experiences."}
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+<|assistant|>
+{"category": "anecdotal", "reasoning": "The joke is a personal story shared by the speaker, detailing a relatable and humorous situation involving their partner and a playful nickname. It fits the category of anecdotal as it is a short, amusing story about a personal experience."}
+
+=== Prompt 68 ===
+_CONTEXT
+
+=== Prompt 69 ===
+
+
+=== Prompt 70 ===
+_DOCUMENT### <|assistant|>
+{"category": "observational", "reasoning": "The joke observes and comments on societal behavior and attitudes towards environmentalism, highlighting a perceived contradiction in people's actions and words.}
+
+=== Prompt 71 ===
+_CONTEXT
+
+=== Prompt 72 ===
+_CONTEXT
+
+=== Prompt 73 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke references the TV show 'Élite' and current events, making it topical."}
+
+=== Prompt 74 ===
+
+
+=== Prompt 75 ===
+_assistant
+
+=== Prompt 76 ===
+assistant{"category": "observational", "reasoning": "The joke observes and comments on societal attitudes towards female masturbation and historical figures, making light of a sensitive topic in a way that reflects on common misconceptions and stereotypes."}
+
+=== Prompt 77 ===
+assistant{"category": "wordplay", "reasoning": "The joke relies on a play on words, where 'culilingüe' (cunnilingus) is humorously compared to drinking from the 'miel del éxito' (honey of success), using a clever pun."}
+
+=== Prompt 78 ===
+_MESSAGE
+{"category": "topical", "reasoning": "The joke is about a current and relatable topic, body art and the fear of needles."}
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+_DOCUMENT###
+
+=== Prompt 81 ===
+### <|assistant|>
+{"category": "dark", "reasoning": "The joke touches on a taboo subject by focusing on the body parts of incarcerated individuals, which is considered dark humor."}
+
+=== Prompt 82 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke references real-world issues and debates about prison conditions and societal pressures, making it topical."}
+
+=== Prompt 83 ===
+_DOCUMENT
+
+=== Prompt 84 ===
+_CONTEXT{"category": "topical", "reasoning": "The joke talks about a recent political event involving a candidate who had to resign due to a controversial tweet."}
+
+=== Prompt 85 ===
+_CONTEXT {"category": "self-deprecating", "reasoning": "The joke is about the speaker making fun of themselves for not taking care of their weight and not engaging in activities to improve it."}
+
+=== Prompt 86 ===
+_CONTEXT
+
+=== Prompt 87 ===
+_CONTEXT 
+<|assistant|>
+{"category": "dark", "reasoning": "The joke involves inappropriate and offensive content that crosses the line into dark humor by making crude and explicit references."}
+
+=== Prompt 88 ===
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a short, relatable story about a specific situation and the reactions of people involved, which is characteristic of an anecdotal joke."}
+
+=== Prompt 89 ===
+_MESSAGE
+
+=== Prompt 90 ===
+assistant{"category": "observational", "reasoning": "The joke observes and comments on societal trends and generational attitudes towards having children, using relatable scenarios and comparisons to make a point."}
+
+=== Prompt 91 ===
+### <|assistant|>
+{"category": "topical", "reasoning": "The joke references a current social issue (misogyny) and uses it as a punchline, making it topical."}
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+### {"category": "wordplay", "reasoning": "The joke plays with the double meaning of the phrase 'Ya llegó, ahora empieza el show', which can mean both 'It has arrived, now the show begins' and 'He has arrived, now the show begins'."}
+
+=== Prompt 94 ===
+_CONTEXT 
+<|assistant|>
+{"category": "wordplay", "reasoning": "The joke relies on puns and plays with words, such as 'pobgo peli una este dsl' which is a humorous twist on 'buscar una película en Google Maps'."}
+
+=== Prompt 95 ===
+assistant
+{"category": "anecdotal", "reasoning": "The joke tells a personal story that leads to a humorous realization, fitting the anecdotal category."}
+
+=== Prompt 96 ===
+### DETECT
+<|assistant|>
+{"category": "wordplay", "reasoning": "The joke relies on phonetic wordplay and humorous misinterpretation of guitar playing instructions."}
+
+=== Prompt 97 ===
+_assistant_hidden_state 
+<|assistant|>
+{"category": "observational", "reasoning": "The joke by Joan Pico observes the contrast between the idealistic aspirations of some actors and the more practical desires of others, specifically the desire for fame and wealth."}
+
+=== Prompt 98 ===
+_CONTEXT {"category": "dark", "reasoning": "The joke involves a dark and disturbing scenario that is unexpected and out of place."}
+
+=== Prompt 99 ===
+assistant
+{"category": "wordplay", "reasoning": "The joke relies on the play of words and the pun involving the phrase 'lo que e ponga' which sounds similar to 'ponga lo que e ponga' implying someone is always putting something in place, leading to the absurd conclusion of sleeping in a camping."}
+
+=== Prompt 100 ===
+### {"category": "topical", "reasoning": "The joke refers to a real event and a real person, Candela Pena, who won a Goya award."}
+
+=== Prompt 101 ===
+_DOCUMENT
+{"category": "observational", "reasoning": "The joke observes and comments on the difficulties and absurdities of auditions and job interviews in certain professions."}
+
+=== Prompt 102 ===
+_CONTEXT{"category": "topical", "reasoning": "The joke talks about the perception of football in the Southern United States."}
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+### <|assistant|>
+{"category": "topical", "reasoning": "The joke references the movie 'El Señor de los Anillos' and its special effects, which is a current and culturally relevant topic."}
+
+=== Prompt 106 ===
+assistant{"category": "dark", "reasoning": "The joke deals with sensitive topics such as sexuality and parental responsibility in a way that is not lighthearted or conventional, making it dark. It touches on potentially uncomfortable themes in a manner that is not typically associated with humor in everyday conversation."}
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke discusses cultural and economic differences between different regions, which is a common topic in observational humor."}
+
+=== Prompt 110 ===
+_DOCUMENT
+
+=== Prompt 111 ===
+_CONTEXT
+{"category": "topical", "reasoning": "The joke addresses the common societal expectation and pressure to prove one's romantic status, which is a current and relatable topic."}
+
+=== Prompt 112 ===
+assistant: {"category": "observational", "reasoning": "The joke observes and comments on the everyday realities and annoyances of living with a partner in a small space, highlighting common situations and interactions in a relatable way."}
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+_CONTEXT
+{"category": "anecdotal", "reasoning": "The joke tells a short, relatable story about married life and cooking."}
+
+=== Prompt 115 ===
+_CONTEXT
+
+=== Prompt 116 ===
+assistant
+{"category": "topical", "reasoning": "The joke references a common scenario in modern life, where people might use a treadmill and stationary bike at a gym but then drive to get to their final destination, highlighting the contradiction in fitness habits."}
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+
+
+=== Prompt 119 ===
+_CONTEXT
+
+=== Prompt 120 ===
+### Classification: {"category": "satire", "reasoning": "The joke uses irony to criticize the lack of concern for the poor and the irony that the technology intended to help those in need requires access to the internet, which many of them do not have."}
+
+=== Prompt 121 ===
+###
+
+=== Prompt 122 ===
+###
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+_CONTEXT
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+### {"category": "topical", "reasoning": "The joke references a popular Spanish TV show 'La Voz Kids' and the algorithm used to play music for the contestants."}
+
+=== Prompt 128 ===
+### <|assistant|>
+{"category": "self-deprecating", "reasoning": "The joke involves the speaker making fun of themselves, acknowledging their own poor behavior and desire to be punished with the worst ads, which is a characteristic of self-deprecating humor."}
+
+=== Prompt 129 ===
+_DOCUMENT
+
+=== Prompt 130 ===
+_CONTEXT {"category": "anecdotal", "reasoning": "The joke tells a personal story about insomnia and a creative solution to falling asleep."}
+
+=== Prompt 131 ===
+_DOCUMENT###{"category": "observational", "reasoning": "It is about daily life observations about aging."}
+
+=== Prompt 132 ===
+_DOCUMENT### <|assistant|>
+{"category": "topical", "reasoning": "The joke references current technology and music trends, making it relevant to contemporary issues.}
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+_MESSAGE
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+assistant{"category": "topical", "reasoning": "The joke references current geopolitical tensions and economic issues, specifically involving Greece and capitalism, making it topical. It touches on real-world events and issues."}
+
+=== Prompt 139 ===
+_SECTION
+{"category": "topical", "reasoning": "The joke references current events and societal issues, specifically the economic and political situation in Greece and Germany."}
+
+=== Prompt 140 ===
+_DOCUMENT
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+_CONTEXT 
+<|assistant|>
+{"category": "observational", "reasoning": "The joke offers a humorous observation about societal behavior and the irony of life situations."}
+
+=== Prompt 143 ===
+_DOCUMENT### {"category": "topical", "reasoning": "This joke is topical because it references the 2004 Madrid train bombings."}
+
+=== Prompt 144 ===
+assistant
+{"category": "observational", "reasoning": "The joke observes and comments on societal behaviors and attitudes towards beggars, highlighting a common but overlooked detail."}
+
+=== Prompt 145 ===
+_CONTEXT
+
+=== Prompt 146 ===
+assistant
+{"category": "observational", "reasoning": "The joke makes observations about the speaker's career as a comedian and contrasts it with other professions, highlighting the perceived difficulties and reactions of each job."}
+
+=== Prompt 147 ===
+### {"category": "observational", "reasoning": "The joke observes and comments on the perceived futility of a career in music, particularly the musicians of Tranatorio."}
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+assistant
+{"category": "observational", "reasoning": "The joke relies on observations about age, appearance, and family dynamics, which are common characteristics of observational humor."}
+
+=== Prompt 152 ===
+_CONTEXT {"category": "observational", "reasoning": "The joke observes the behavior of the son and his traditional mother and highlights the generational differences in a relatable way."}
+
+=== Prompt 153 ===
+_SECTION
+{"category": "anecdotal", "reasoning": "The joke is a personal story involving the speaker's mother and her beliefs, which is a characteristic of an anecdotal joke."}
+
+=== Prompt 154 ===
+
+{"category": "anecdotal", "reasoning": "The joke tells a personal story about the speaker's childhood and how their parent's advice about drinking water was ironically contradicted by their own habits. This fits the anecdotal category as it involves a personal story or experience."}
+
+=== Prompt 155 ===
+assistant{"category": "observational", "reasoning": "The joke is based on the speaker's observations about human behavior in relationships, specifically how people can become so engrossed in their activities that they are oblivious to their surroundings. This type of humor highlights everyday situations and human quirks."}
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+_CONTEXT
+
+=== Prompt 159 ===
+_CONTEXT
+{"category": "anecdotal", "reasoning": "The joke is a personal story or experience about the speaker getting stuck in an elevator, which is a common situation people can relate to."}
+
+=== Prompt 160 ===
+
+
+=== Prompt 161 ===
+assistant{"category": "observational", "reasoning": "The joke observes everyday life scenarios and exaggerates them for comedic effect, focusing on relatable and common experiences."}
+
+=== Prompt 162 ===
+_MESSAGE
+
+=== Prompt 163 ===
+
+{"category": "topical", "reasoning": "The joke references a specific political party (PP) in Spain, making it topical."}
+
+=== Prompt 164 ===
+_CONTEXT
+
+=== Prompt 165 ===
+<|assistant|>
+{"category": "observational", "reasoning": "The joke observes and comments on real-life events and behaviors related to Catalan independence movements, highlighting their perceived lack of effectiveness."}
+
+=== Prompt 166 ===
+_CONTEXT
+{"category": "topical", "reasoning": "This joke references a real-world event (the 11-O protests in Catalonia) and makes a topical comment about it."}
+
+=== Prompt 167 ===
+_CONTEXT
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+_CONTEXT {"category": "observational", "reasoning": "The joke is based on the observation of the speaker's personal attitude towards zoos and animals, which is relatable and common among people."}
+
+=== Prompt 170 ===
+_SOLUTION
+{"category": "surreal/absurdism", "reasoning": "The joke involves a surreal and absurd scenario where animals in a zoo are anthropomorphized and interact in a bizarre way."}
+
+=== Prompt 171 ===
+_CONTEXT
+{"category": "observational", "reasoning": "The joke is about the speaker's personal experience and observation of feeling embarrassed about having an aquarium, which is a common relatable situation."}
+
+=== Prompt 172 ===
+_DOCUMENT
+
+=== Prompt 173 ===
+_DOCUMENT###
+

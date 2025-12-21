@@ -1,0 +1,722 @@
+=== Prompt 1 ===
+
+
+=== Prompt 2 ===
+
+
+=== Prompt 3 ===
+
+
+=== Prompt 4 ===
+ Here is a joke: Bueno, pues creo que con esto ya me conocéis un poquito más.\nAhora me tocaría a mí conocerlos a vosotros.\n¿Algún racista en la sala?\nNo.\nNos da un poquito de grima esas razas claramente inferiores, como la gente que dice... ¡Holi!\nA mí el racismo me parece un problema bastante grave.\nPero creo que lo contrario también lo es.\nYo creo que soy demasiado no racista.\nPorque, os pondré un ejemplo, hay una chica que viene de vez en cuando a limpiar a mi casa y sistemáticamente me rompe un plato y no la despido, porque es de Ecuador.\nSi fues de Cartagena,a su put cqwa.\nPero yo, como no racista militante, no puedo despedir a Chela, que es una ecuatoriana majísima de unos 20 o 50 años.\nY otro ejemplo...\nGracias. END OF JOKE. Classify each newline-separated line of a multi-line joke by its role, assigning exactly one label from establishing context, setup, escalation, subversion, callback, misdirection, timing, meta-humor, punchline, redirection, non-line, wrap-up, repetition. Your final answer should take the form {"ANSWER":["label1", "label2",...]}
+
+=== Prompt 5 ===
+
+
+=== Prompt 6 ===
+
+
+=== Prompt 7 ===
+
+
+=== Prompt 8 ===
+
+
+=== Prompt 9 ===
+ The joke is as follows:
+
+¿Estás preparado? Ok. Métete en internet, pon vuelos baratos.\n
+Cógete el más barato, no seas tonto. Y vete al aeropuerto a la hora que te pone ahí.\n
+Claro, te dcecopna más que un Minion presentando pasapalbraw.\n
+Así que por eso prefiero cosas mucho más potentes, como un chamán.\n
+Sí, porque la sabiduría chamánica data del año 1500 hace, antes de Coach, ¿sabes? Súper antigua. END OF JOKE.
+
+{"ANSWER":["establishing context", "setup", "escalation", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 10 ===
+
+
+=== Prompt 11 ===
+ Here is the joke:
+
+```
+Then, of course, I have been researching on the Internet and I realized that all coaches have something in common.
+They all have a dark, shadowy past.
+It seems that to become a coach, you have to have overcome some kind of trauma, you know?
+They're like Batman.
+What happens is that Batman comes with his Batmobile and a coach comes with what?
+A who-ouch, right?
+It's a difference... Are you kidding me? It's like that.
+Thanks.
+```
+
+```
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "punchline"]}
+```
+
+=== Prompt 12 ===
+ The joke is about a person who likes cherries because they see them as small olives, and then imagines a funny scenario involving cherries and olives.
+
+{"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 13 ===
+
+
+=== Prompt 14 ===
+
+
+=== Prompt 15 ===
+
+
+=== Prompt 16 ===
+
+
+=== Prompt 17 ===
+
+
+=== Prompt 18 ===
+
+
+=== Prompt 19 ===
+
+
+=== Prompt 20 ===
+
+
+=== Prompt 21 ===
+
+
+=== Prompt 22 ===
+
+
+=== Prompt 23 ===
+
+
+=== Prompt 24 ===
+
+
+=== Prompt 25 ===
+
+
+=== Prompt 26 ===
+
+
+=== Prompt 27 ===
+
+
+=== Prompt 28 ===
+
+
+=== Prompt 29 ===
+
+
+=== Prompt 30 ===
+
+
+=== Prompt 31 ===
+
+
+=== Prompt 32 ===
+
+
+=== Prompt 33 ===
+
+
+=== Prompt 34 ===
+
+
+=== Prompt 35 ===
+ Here is the classification of the given joke:
+
+```
+{
+  "ANSWER": [
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "escalation",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+    "setup",
+
+
+=== Prompt 36 ===
+
+
+=== Prompt 37 ===
+
+
+=== Prompt 38 ===
+
+
+=== Prompt 39 ===
+
+
+=== Prompt 40 ===
+
+
+=== Prompt 41 ===
+
+
+=== Prompt 42 ===
+
+
+=== Prompt 43 ===
+
+
+=== Prompt 44 ===
+
+
+=== Prompt 45 ===
+
+
+=== Prompt 46 ===
+
+
+=== Prompt 47 ===
+
+
+=== Prompt 48 ===
+
+
+=== Prompt 49 ===
+
+
+=== Prompt 50 ===
+
+
+=== Prompt 51 ===
+
+
+=== Prompt 52 ===
+
+
+=== Prompt 53 ===
+
+
+=== Prompt 54 ===
+
+
+=== Prompt 55 ===
+
+
+=== Prompt 56 ===
+
+
+=== Prompt 57 ===
+
+
+=== Prompt 58 ===
+
+
+=== Prompt 59 ===
+
+
+=== Prompt 60 ===
+
+
+=== Prompt 61 ===
+
+
+=== Prompt 62 ===
+
+
+=== Prompt 63 ===
+
+
+=== Prompt 64 ===
+
+
+=== Prompt 65 ===
+
+
+=== Prompt 66 ===
+
+
+=== Prompt 67 ===
+
+
+=== Prompt 68 ===
+
+
+=== Prompt 69 ===
+ Here's the classification for the joke:
+
+```json
+{"ANSWER":["establishing context", "setup", "escalation", "callback", "misdirection", "timing", "punchline", "wrap-up", "repetition"]}
+```
+
+=== Prompt 70 ===
+
+
+=== Prompt 71 ===
+
+
+=== Prompt 72 ===
+
+
+=== Prompt 73 ===
+
+
+=== Prompt 74 ===
+ Please classify the following joke:
+
+Pues sí. ¿La utilizas para dormir? Muy bien, guay.
+Tío, es que hay muchas cosas que preguntarte aquí.
+Claro, porque para dormir, una serie en la que el 90% de la gente sale en pelotas... ¡Venga a dormir!
+Claro, porque en la vida, me he producido tanto para una paja.
+
+
+
+=== Prompt 75 ===
+
+
+=== Prompt 76 ===
+ ANSWER
+
+=== Prompt 77 ===
+
+
+=== Prompt 78 ===
+
+
+=== Prompt 79 ===
+
+
+=== Prompt 80 ===
+ Here is the classification of each line:
+
+1. yo tengo mucho miedo a volar, a mí me da pánico coger un avión, muchísimo pánico.\n"setup"
+2. ¿hay alguien aquí que le dé más miedo a volar?\n"setup"
+3. ¿a ti que te da miedo?\n"setup"
+4. ¿cómo te llamas?\n"setup"
+5. Bruno, ¿a ti te da miedo volar?\n"setup"
+6. por ejemplo todavía no, ¿vas de durito porque has venido con la novia, Bruno?\n"setup"
+7. bueno, Bruno, supongamos que a ti te da el mismo miedo que a mí a volar, que le tengo pánico hasta cuando me meto en la página de internet para buscar precios.\n"escalation"
+8. Si yo te dijera,Bruno,que de aquí hasta el dsía que te mueras,durante todos los días para a trabajar,antes tuvieras que coger un avión a Mwdri y volver s Barcelna,que era o eo,o uew te en por culo,Bruno,a que ya no te da tanto miedo el avión,Bruno.\n"punchline"
+9. Te acabo de agarrar una pasta en psicólogos.\n"wrap-up"
+10. END OF JOKE.\n"non-line"
+
+```json
+{"ANSWER":["setup", "setup", "setup", "setup", "setup", "setup", "escalation", "punchline", "wrap-up", "non-line"]}
+```
+
+=== Prompt 81 ===
+
+
+=== Prompt 82 ===
+
+
+=== Prompt 83 ===
+
+
+=== Prompt 84 ===
+
+
+=== Prompt 85 ===
+
+
+=== Prompt 86 ===
+
+
+=== Prompt 87 ===
+
+
+=== Prompt 88 ===
+
+
+=== Prompt 89 ===
+
+
+=== Prompt 90 ===
+
+
+=== Prompt 91 ===
+
+
+=== Prompt 92 ===
+
+
+=== Prompt 93 ===
+
+
+=== Prompt 94 ===
+
+
+=== Prompt 95 ===
+
+
+=== Prompt 96 ===
+
+
+=== Prompt 97 ===
+
+
+=== Prompt 98 ===
+
+
+=== Prompt 99 ===
+
+
+=== Prompt 100 ===
+ Here is a joke: Candela Peña ganó su segundo Goya en 2013 por la película Una pistola en cada mano.\nY cuando subió a recoger el premio, Candela hizo algo que me parece lamentable, penoso.\nO sea, sus palabras al recoger el premio fueron, cito textualmente, está en YouTube, lo podéis ver.\nDijo, llevo tres años sin trabajar, desde aquí pido trabajo, tengo un hijo que alimentar.\nMira, hasta el Goya estaba así.\nija de puta que t caan de dar un Goya\nYo me he pasado tres meses en la cárcel\nPor inmtenbar robar el de Dani Rovirw END OF JOKE. {"ANSWER":["establishing context", "setup", "escalation", "subversion", "callback", "misdirection", "timing", "meta-humor", "punchline", "redirection", "non-line", "wrap-up", "repetition"]}
+
+=== Prompt 101 ===
+
+
+=== Prompt 102 ===
+
+
+=== Prompt 103 ===
+
+
+=== Prompt 104 ===
+
+
+=== Prompt 105 ===
+
+
+=== Prompt 106 ===
+ Here is the classification:
+
+```json
+{
+  "ANSWER": [
+    "establishing context",
+    "setup",
+    "escalation",
+    "subversion",
+    "callback",
+    "misdirection",
+    "timing",
+    "meta-humor",
+    "punchline",
+    "redirection",
+    "non-line",
+    "wrap-up",
+    "repetition"
+  ]
+}
+```
+
+=== Prompt 107 ===
+
+
+=== Prompt 108 ===
+
+
+=== Prompt 109 ===
+
+
+=== Prompt 110 ===
+
+
+=== Prompt 111 ===
+
+
+=== Prompt 112 ===
+
+
+=== Prompt 113 ===
+
+
+=== Prompt 114 ===
+
+
+=== Prompt 115 ===
+
+
+=== Prompt 116 ===
+
+
+=== Prompt 117 ===
+
+
+=== Prompt 118 ===
+ "ANSWER":["establishing context", "setup", "subversion", "callback", "misdirection", "timing", "punchline", "redirection"]
+
+=== Prompt 119 ===
+
+
+=== Prompt 120 ===
+
+
+=== Prompt 121 ===
+
+
+=== Prompt 122 ===
+
+
+=== Prompt 123 ===
+
+
+=== Prompt 124 ===
+
+
+=== Prompt 125 ===
+
+
+=== Prompt 126 ===
+
+
+=== Prompt 127 ===
+
+
+=== Prompt 128 ===
+
+
+=== Prompt 129 ===
+
+
+=== Prompt 130 ===
+
+
+=== Prompt 131 ===
+
+
+=== Prompt 132 ===
+
+
+=== Prompt 133 ===
+
+
+=== Prompt 134 ===
+
+
+=== Prompt 135 ===
+
+
+=== Prompt 136 ===
+
+
+=== Prompt 137 ===
+
+
+=== Prompt 138 ===
+
+
+=== Prompt 139 ===
+
+
+=== Prompt 140 ===
+
+
+=== Prompt 141 ===
+
+
+=== Prompt 142 ===
+
+
+=== Prompt 143 ===
+
+
+=== Prompt 144 ===
+
+
+=== Prompt 145 ===
+
+
+=== Prompt 146 ===
+
+
+=== Prompt 147 ===
+
+
+=== Prompt 148 ===
+
+
+=== Prompt 149 ===
+
+
+=== Prompt 150 ===
+
+
+=== Prompt 151 ===
+
+
+=== Prompt 152 ===
+
+
+=== Prompt 153 ===
+
+
+=== Prompt 154 ===
+
+
+=== Prompt 155 ===
+
+
+=== Prompt 156 ===
+
+
+=== Prompt 157 ===
+
+
+=== Prompt 158 ===
+
+
+=== Prompt 159 ===
+
+
+=== Prompt 160 ===
+ Here is the classification for the provided joke:
+
+```
+ANSWER: ["setup", "escalation", "setup", "escalation", "setup", "escalation", "punchline"]
+```
+
+=== Prompt 161 ===
+
+
+=== Prompt 162 ===
+
+
+=== Prompt 163 ===
+
+
+=== Prompt 164 ===
+
+
+=== Prompt 165 ===
+
+
+=== Prompt 166 ===
+
+
+=== Prompt 167 ===
+
+
+=== Prompt 168 ===
+
+
+=== Prompt 169 ===
+
+
+=== Prompt 170 ===
+
+
+=== Prompt 171 ===
+
+
+=== Prompt 172 ===
+
+
+=== Prompt 173 ===
+
+
