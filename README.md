@@ -1,6 +1,6 @@
 # From LOL to LLM: Measuring Multilingual Multi-Turn Humor Understanding in AI
 
-This project implements a benchmark that evaluates how well language models understand multi-line humor across English and Spanish. The benchmark includes both standard evaluation tasks and robustness testing through various perturbations.
+This research paper implements a benchmark that evaluates how well language models understand multi-line humor across English and Spanish. The benchmark includes both standard evaluation tasks and robustness testing through various perturbations.
 
 ## Overview
 
